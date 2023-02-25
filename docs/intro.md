@@ -15,7 +15,7 @@ I maintain it in the open because at some point stuff I've learnt in my life was
 I use this wiki to:
 
 - catalog the known knowns - I share what I know and I can teach others, as well as point out valuable resources to facilitate deep diving into the topics
-- catalog the known unknowns - I share incomplete and underdeveloped notes on stuff that picked my interest with the intention to learn more about it over time
+- catalog the known unknowns - I share incomplete and underdeveloped notes on stuff that picked my interest with the intention to learn more over time
 - catalog the unknown knowns - I try to get back to fundamentals of what I know and pinpoint the starting point for learning any new thing
 - immortalize various historical tidbits about me, my life and history as I saw it
 - share personal opinions and beliefs on topics that leave room for personal tastes, discussion or speculation. Nothing about my beliefs is set in stone but I cannot expect meaningful evolution of my opinions if I don't know what exactly I stand for.
