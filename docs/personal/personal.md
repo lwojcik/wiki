@@ -1,3 +1,3 @@
 # Personal
 
-Under contstruction.
+This section is related to ways I do various creative stuff.
