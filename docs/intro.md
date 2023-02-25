@@ -2,6 +2,6 @@
 slug: /
 ---
 
-# Hello!
+# Intro
 
 This place is under construction.
