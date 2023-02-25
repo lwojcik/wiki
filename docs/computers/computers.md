@@ -1,0 +1,34 @@
+# Computers
+
+General term for machines that:
+
+- accept human input and process it
+- enable humans to **program** them, i.e. allow for modification of their behavior
+- produce a desired result in a form understandable and usable human
+
+In everyday life I use the notion of **personal computer** and by that term I understand any general purpose device that has data storage, physical keyboard, screen (or can be plugged to an external screen) and operating system that allows me to run various applications to get things done.
+
+I've been using the term 'PC' since mid 1990s, mostly to describe a desktop computer. These days, with ubiquity of laptops, I consider both desktops and laptops PCs.
+
+I acknowledge [mobile devices](../mobile-devices/) and [wearable devices](../wearable-devices/) as specific types of computers, but I treat them as separate category of devices
+
+## Computers I use
+
+These are computers I either own or am entrusted with. I operate them at various capacity as we speak.
+
+- MacBook Pro (2019)
+- MacBook Pro M1 (2021)
+- Raspberry Pi 4B
+- Rasbperry Pi 3B
+- Raspberry Pi Zero WH
+- 2015 custom desktop PC
+
+## Computers I used in the past
+
+These are computers I no longer use and / or own.
+
+- [1998 custom desktop PC](./custom-pc-1998.md)
+- 2003 custom desktop PC
+- Atari 65XE
+- Lenovo Thinkpad P53
+- Samsung RC530

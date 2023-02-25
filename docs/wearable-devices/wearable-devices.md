@@ -6,9 +6,14 @@ Typically, I think of wearable devices as tiny specialized computers designed to
 
 The most archetypic wearable devices in my mind are smartwatches and smartbands.
 
+## Personal notes
+
+- I don't like the fact they're merely computers with a mediocre battery. Only Pebble Time was awesome enough to hold 1 week on a single charge
+- There are times when having phone notifications on your wrist is super useful, and times when I get tired of them and get back to traditional wristwatches
+
 ## Wearable devices I currently use
 
-It doesn't mean I wear them every day, but I still own them and wear them at least occasionally.
+It doesn't mean I wear them every day, but I still own and wear them at least occasionally.
 
 - Xiaomi Mi Band 6 NFC
 
