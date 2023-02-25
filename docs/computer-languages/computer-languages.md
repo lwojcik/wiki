@@ -4,8 +4,13 @@ Formalized sets of instructions and syntax rules intended to facilite building c
 
 Computer languages can be:
 
-- interpreted - code is evaluated and executed at the very moment computer reads it
-- compiled - computer transforms code into a form it understands, links it with external libraries and produces a binary blob that is then executed
+- **interpreted** - code is evaluated and executed at the very moment computer reads it
+- **compiled** - computer transforms code into a form it understands, links it with external libraries and produces a binary blob that is then executed
+
+Another classification of computer languages I like:
+
+- **high-level** - code is relatively easy to read, write and understand by human but it needs to be processed by a computer before it can be ran
+- **low-level** - code is more similar to a real code used by a computer - instead of operating on abstractions, it involves manual operations on memory structures and locations directly on computer chips. A side effect is that low-level code is not easy to read or write by hand
 
 We usually call a language **a programming language** if a machine employing it can resolve any computational problem regardless of its complexity. We also call these languages **Turing-complete**, i.e. capable of creating so-called universal Turing machine. A Turing machine can resolve any problem regardless of the amount of effort needed to build one.
 
