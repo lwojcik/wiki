@@ -61,6 +61,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      footer: {
+        style: "dark",
+        copyright: `© ${new Date().getFullYear()} <a href="https://lukaszwojcik.net/">Łukasz Wójcik</a> &bull; Licence: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> &bull; Powered by <a href="https://docusaurus.io/">Docusaurus</a>`,
+      },
       // algolia: {
       //   // Application ID provided by Algolia
       //   // appId: "",
