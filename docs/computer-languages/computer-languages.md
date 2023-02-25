@@ -53,7 +53,7 @@ Languages that, at some point, I was learning and building things with but I no 
 
 ## Languages I never used
 
-Languages I never wrote a single of but I recognize their names. I may not be able to recognize their syntax though.
+Languages I never wrote a single line of but I recognize their names. I may not be able to recognize their syntax though.
 
 - assembly
 - Brainfuck
