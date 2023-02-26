@@ -12,3 +12,5 @@ Sorted alphabetically.
 - Lumines Remastered
 - The Red Strings Club
 - Tetris (Game Boy)
+- Tetris 99 - speedrunning 150-line mode for fun
+- Tetris Effect: Connected - speedrunning journey mode for fun

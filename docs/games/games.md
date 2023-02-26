@@ -1,4 +1,4 @@
-# Gaming
+# Games
 
 Structured form of play for entertainment and fun.
 
@@ -6,19 +6,19 @@ I mostly like video games. I enjoy tabletop and card-based games too but I don't
 
 See also 👉 [Gaming Consoles](../gaming-consoles/)
 
-## Currently playing
+## In progress
 
-See the page 👉 [Currently playing](./currently-playing/)
+See the page 👉 [In progress](./in-progress/)
 
-## Planning to play
+## Waitlist
 
-See the page 👉 [Planning to play](./planning-to-play/)
+See the page 👉 [Waitlist](./waitlist/)
 
 ## Completed
 
 See the page 👉 [Completed](./completed/)
 
-## Unfinished, unlikely to revisit
+## Dropped
 
 See the page 👉 [Dropped](./dropped/)
 

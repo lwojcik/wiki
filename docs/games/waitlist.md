@@ -1,4 +1,4 @@
-# Planning to play
+# Waitlist
 
 These are games that meet any of the following criteria:
 
@@ -15,4 +15,5 @@ Sorted alphabetically.
 - Red Dead Redemption
 - Splatoon 2
 - Splatoon 3
+- Stay
 - Test Drive Unlimited: Solar Crown

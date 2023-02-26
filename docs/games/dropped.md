@@ -16,69 +16,115 @@ Sorted alphabetically.
 - 7 Billion Humans
 - 911 Operator
 - Ace Combat 7: Skies Unknown
+- Actua Soccer 3
 - American Fugitive
 - Animal Crossing: New Horizons
+- Animal Crossing: Pocket Camp
 - Arena of Valor
 - Asetto Corsa
 - Asetto Corsa: Competizione
+- Asphalt 8: Airborne
 - Asphalt 9: Legends
+- AssaultCube
+- Boom Beach
 - Borderlands: The Pre-Sequel
 - Borderlands 3
 - Bridge Constructor
 - Burnout Paradise: The Ultimate Box
+- Civilization II
+- Civilization V
+- Clash
 - Clash of Clans
 - Clash Royale
+- Clicker Heroes
 - Counter-Strike: Global Offensive
+- Cut the Rope
 - Cyber Hook
 - Cyber Protocol
 - DCS: World
 - Deluxe Ski Jumping 2.0
 - Dex
+- Diablo
+- Diablo 2
 - DIRT Rally 2.0
+- Does Not Commute
 - Don't Forget Out Esports Dream
+- Duke Nukem 3D
+- Earth 2140
 - Elasto Mania
+- Emergency: Fighters For Life
 - Encodya
+- Excessive Speed
 - F1 2016
 - F1 2017
 - F1 2018
 - Factorio
 - Fall Guys: Ultimate Knockout
 - FIFA 98: Road to the World Cup
+- Fortnite
 - Forza Motorsport 7
+- Fruit Ninja
 - Grand Theft Auto 2
 - Grand Theft Auto 4
 - Grand Theft Auto: Vice City Stories
 - GRID (2019)
 - GRID Autosport
+- Hearthstone
 - HexON
+- Hill Climb Racing
+- Hill Climb Racing 2
 - Horizon Chase Turbo
 - Human Resource Machine
 - Hypnospace Outlaw
+- Ingress
+- International Rally Championship
+- Jazz Jackrabbit
+- Lotus 3
 - Mafia 3
 - Magic 2015
 - Mario Kart 8 Deluxe
 - Mini Metro
 - Mini Motorways
+- Mortal Kombat 4
+- Motor Mash
 - Need for Speed Hot Pursuit Remastered
 - No Man's Sky
+- Overwatch
 - PAC-MAN Championship Edition 2 Plus
 - The Plane Effect
 - Path of Exile
+- Pokémon Go
 - Pokémon UNITE
 - Poly Bridge 2
+- Pro Pinball: Big Race USA
+- Pro Pinball: Timeshock
 - Project CARS
 - Project CARS 2
+- PUBG Mobile
 - Puyo Puyo Tetris 2
 - Redline Racer
 - Q.U.B.E. 2
 - Rocket League
+- Settlers 2
+- Settlers Online
 - Sorry, James
+- S.T.A.L.K.E.R.: Clear Sky
 - StarCraft + Brood War
+- Super Mario Bros. 3
+- Super Mario Run
 - Super Smash Bros
+- Teeworlds
+- Tekken 7
+- Temple Run
 - This War of Mine
+- Tom Clancy's The Division 2
 - Trials Rising
+- Triple Town
+- Turmoil
+- V-Rally 3-D (J2ME)
 - Warcraft 2
 - Watch_Dogs 2
 - The Witcher 3
 - Wolcen: Lords of Mayhem
+- Wolfenstein 3D
 - WRC 8

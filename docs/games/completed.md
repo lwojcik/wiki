@@ -9,6 +9,8 @@ Sorted alphabetically.
 
 - Airline Tycoon
 - Aka
+- Angry Birds
+- Assembly Line
 - Battlefield 3
 - Beat Cop
 - Borderlands
@@ -20,8 +22,11 @@ Sorted alphabetically.
 - Cat Quest
 - Cat Quest II
 - Coffee Talk
+- Commandos: Behind Enemy Lines
 - Contra
 - The Crew 2
+- Diablo 3
+- Dink Smallwood
 - Dr Mario (NES)
 - Far Cry 3
 - Far Cry 5
@@ -34,6 +39,7 @@ Sorted alphabetically.
 - Grand Theft Auto 5
 - Gravity Rider Zero
 - Jalopy
+- Jazz Jackrabbit 2
 - Legend of Zelda: Breath of the Wild
 - Lego City Undercover
 - Mafia: Definitive Edition
@@ -52,6 +58,10 @@ Sorted alphabetically.
 - StarCraft II
 - Suicide Guy
 - Super Mario Bros.
+- Target
+- Upgrade The Game
+- Upgrade The Game 2
+- Wacki: Kosmiczna Rozgrywka
 - Watch_Dogs
 - Watch Dogs: Legion
 - Will Die Alone
