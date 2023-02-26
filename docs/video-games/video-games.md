@@ -1,10 +1,6 @@
 # Video Games
 
-I mostly play video games.
-
-I enjoy tabletop and card-based games too but I don't play them often enough to discuss.
-
-See also 👉 [Gaming Consoles](../gaming-consoles/)
+This is a section where I track everything relevant to video games.
 
 ## In progress
 

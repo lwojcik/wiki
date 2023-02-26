@@ -1,4 +1,4 @@
-# Currently playing
+# In progress
 
 This list contains games that:
 
