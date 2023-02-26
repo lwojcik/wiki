@@ -32,7 +32,11 @@ Currently I do not do any active research around AI but I sometimes encounter an
 - I'm yet unable to evaluate the impact of AI on my work as a programmer
   - on one hand I'm aware of tools like GitHub Copilot and it's the matter of time they get better and better, effectively disrupting the industry and eliminating the need for humans to do some tasks
   - on the other, maybe my next job will be as a human interface to some future AI model, with AI providing mundane labor and me directing it
-  - low-code and no-code platforms promise the world where software can be built by non-programmers. So far I don't feel threatened by their existence. But the question arises: who builds the platforms themselves? What happens if AI and no-code platforms meet? Maybe that's already happening and I don't pay enough attention?
+  - low-code and no-code platforms promise the world where software can be built by non-programmers
+    - So far I don't feel threatened by their existence
+      - But the question arises: who builds the platforms themselves?
+      - What happens if AI and no-code platforms meet?
+      - Maybe that's already happening and I don't pay enough attention?
   - I'm aware GitHub and GitHub Copilot are hugely problematic but migrating off GitHub requires a lot of work
     - https://sfconservancy.org/GiveUpGitHub/
     - https://codeberg.org/Recommendations/Mirror_to_Codeberg
