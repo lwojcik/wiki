@@ -1,5 +1,9 @@
 # Games
 
+<head>
+  <link rel="me" href="https://mstdn.games/@lukem" />
+</head>
+
 I mostly play video games.
 
 I enjoy tabletop and card-based games too but I don't play them often enough to discuss.

@@ -15,7 +15,6 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "lwojcik", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
-
   presets: [
     [
       "classic",
@@ -41,8 +40,9 @@ const config = {
     ({
       colorMode: {
         respectPrefersColorScheme: true,
-        disableSwitch: true,
+        disableSwitch: false,
       },
+      metadata: [{ rel: "me", href: "test" }],
       navbar: {
         title: "Luke's Wiki",
         logo: {
