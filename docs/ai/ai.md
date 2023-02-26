@@ -33,3 +33,11 @@ Currently I do not do any active research around AI but I sometimes encounter an
   - on one hand I'm aware of tools like GitHub Copilot and it's the matter of time they get better and better, effectively disrupting the industry and eliminating the need for humans to do some tasks
   - on the other, maybe my next job will be as a human interface to some future AI model, with AI providing mundane labor and me directing it
   - low-code and no-code platforms promise the world where software can be built by non-programmers. So far I don't feel threatened by their existence. But the question arises: who builds the platforms themselves? What happens if AI and no-code platforms meet? Maybe that's already happening and I don't pay enough attention?
+  - I'm aware GitHub and GitHub Copilot are hugely problematic but migrating off GitHub requires a lot of work
+    - https://sfconservancy.org/GiveUpGitHub/
+    - https://codeberg.org/Recommendations/Mirror_to_Codeberg
+    - https://nogithub.codeberg.page/
+    - packages and libraries that don't integrate with external services can be migrated pretty much right away
+    - I can't migrate anything that integrates with GitHub and doesn't offer Codeberg integration (e.g. sites powered by Netlify)
+      - in that case, migrating off one Git provider involves migrating to a different hosting and possibly looking for a new CI solution
+        - or self-hosting everything, which costs money and time

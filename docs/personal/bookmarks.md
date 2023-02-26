@@ -2,6 +2,8 @@
 
 Dump from my browser bookmarks bar, waiting for its turn to process. Maybe this is the base for my next blog post. Maybe there is a million dollar idea lurking somewhere there. Maybe there is something valuable out there and I want to keep that.
 
+I still use bookmarks bar in my browser and occasionally sync it with this page by hand. My long-term idea is to have a browser extension and a mobile app to make this process faster and more convenient across devices I use.
+
 See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/)
 
 ## Links
@@ -58,23 +60,17 @@ https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues
 
 https://web.archive.org/web/20210212022243/https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast
-
 https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
 
 https://una.im/css-color-theming/
 
 https://blog.logrocket.com/building-color-palette-css/
 
-https://photogabble.co.uk/uses/
-
 https://uses.tech/
 
 https://hbr.org/2022/12/what-to-do-when-a-direct-report-is-bullying-you
 
 https://www.mailerlite.com/pricing
-
-https://blog.aurynn.com/2015/12/16-contempt-culture/
 
 https://doctorow.medium.com/how-to-leave-dying-social-media-platforms-9fc550fe5abf
 
@@ -114,7 +110,7 @@ https://bobcares.com/blog/mongodb-backup-strategy/
 
 https://www.eurovps.com/blog/20-ways-to-secure-linux-vps/
 
-https://medium.com/softonic-eng/docker-compose-from-development-to-production-88000124a57c#:~:text=Docker%20Compose%20is%20an%20amazing,simple%20syntax%20in%20YAML%20files.
+https://medium.com/softonic-eng/docker-compose-from-development-to-production-88000124a57c
 
 https://www.freva.com/how-to-install-an-os-on-an-ssd-with-the-raspberry-pi-imager/
 
@@ -153,8 +149,6 @@ https://freestuff.dev/
 https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords
 
 https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1
-
-http://community.bugbeargames.com/threads/tips-for-keeping-lag-to-a-minimum-online-and-other-helpful-info.6291/
 
 https://pgtune.leopard.in.ua/#/
 
@@ -202,7 +196,7 @@ https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/
 
 https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
 
-https://www.chrismytton.com/be-prolific/?
+https://www.chrismytton.com/be-prolific/
 
 https://unixsheikh.com/articles/choose-your-browser-carefully.html
 
@@ -293,6 +287,7 @@ https://overreacted.io/making-setinterval-declarative-with-react-hooks/
 https://www.weci2i.com/articles/facebook-dumped-me/
 
 https://inessential.com/2019/11/03/this_feature_should_be_easy
+
 http://misc-stuff.terraaeon.com/articles/introverted-nerd.html
 
 https://www.tutorialspoint.com/hr_interview_questions/behavioral_questions.htm
@@ -310,8 +305,6 @@ https://tinacms.org/blog/announcing-tinacms/
 https://coderwall.com/p/oqtj8w/the-single-most-useful-thing-in-bash
 
 https://www.robinwieruch.de/react-rxjs-state-management-tutorial
-
-https://n8n.io/
 
 https://tombrow.com/dark-mode-website-css
 
