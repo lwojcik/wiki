@@ -8,7 +8,7 @@ I'm [Łukasz](https://lukaszwojcik.net/) and this is my personal wiki. I use it 
 
 Think of it as my note-taking app, digital brain or a collection of ideas at various stages of development.
 
-I maintain it in the open because at some point stuff I've learnt in my life was once openly available for everyone to use. I want to keep this circle going.
+I maintain it in the open because various stuff I've learnt in my life was once openly available for everyone to learn, or somebody was kind enough to spend time and teach me - and now I benefit from knowing it. I want to keep this circle going.
 
 ## Purpose of this wiki
 
