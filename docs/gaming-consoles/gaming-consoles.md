@@ -16,7 +16,9 @@ Gaming consoles can be portable, with screen and controller integrated into a si
 
 ## Gaming consoles I used to own
 
-- Pegasus MT777DX
+- Pegasus MT-777DX
 - PlayStation Portable
 - knock-off version of Nintendo Game & Watch
 - Brick Game
+
+See also 👉 [Games](../games/)
