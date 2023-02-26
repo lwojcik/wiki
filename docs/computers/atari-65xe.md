@@ -11,7 +11,8 @@
 - Included reference book:
   - [Atari XE - Podręcznik](https://masto.ai/@lukem/109672504062275143)
     - Published by Wydawnictwo Dalton in late 1980s / early 1990s
-- plugged to a any of the kinescope TVs available at the time
+- plugged to any of the kinescope TVs available at home at the time
+  - in the end of its life I got a 14-inch Junost 402b black-and-white TV to use exclusively as a display
 - had plenty of game compilations on casettes, but games needed time to load
   - and there was no guarantee they would load successfully at all
 - I learnt basics of BASIC programming language with it
@@ -19,24 +20,16 @@
 - It was bought in the era when 8-bit computers were outdated even for the standards of my country
   - at the time, some of my schoolmates had Amigas and some of them had PCs, but neither of them were prevalent yet
 
-## Games I owned and played
+## Games I remember from Atari
 
-- Boulder Dash
-- Hans Kloss
-- Moon Patrol
-- Pitstop
-- River Raid
-
-## Games I played but never owned them myself
-
-I most likely played them on somebody else's Ataris. I remember at least two people having one, including one that also had a floppy disk drive.
+Sorted alphabetically.
 
 - A.D. 2044 (Seksmisja)
+- Boulder Dash
+- Hans Kloss
 - Miecze Valdgira
 - Milk Race
-
-## Games I owned but never played
-
-I disctinctly remember having a copy of them, either on a compilation or as a standalone release. Due to time needed to load from the tape I probably never experienced them.
-
+- Moon Patrol
 - Operation Blood
+- Pitstop
+- River Raid

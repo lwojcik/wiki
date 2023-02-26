@@ -27,8 +27,8 @@ These are computers I either own or am entrusted with. I operate them at various
 
 These are computers I no longer use and / or own.
 
-- [1998 custom desktop PC](./custom-pc-1998.md)
+- [1998 custom desktop PC](./custom-pc-1998/)
 - 2003 custom desktop PC
-- Atari 65XE
+- [Atari 65XE](./atari-65xe/)
 - Lenovo Thinkpad P53
 - Samsung RC530

@@ -1,6 +1,7 @@
 # Custom desktop PC (1998)
 
 - Bought in [Lublin](https://www.openstreetmap.org/search?query=lublin) by my parents in 1998 for 3690 PLN[^1]
+- Ended the era of [Atari](../computers/atari-65xe/) and [Pegasus](../gaming-consoles/pegasus-mt-777dx/) in my life
 - Used mostly by me until mid 2000s when it turned out not powerful enough to access the internet
 - Specs:
   - Pentium 200MMX

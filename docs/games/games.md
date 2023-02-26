@@ -22,4 +22,7 @@ See the page 👉 [Completed](./completed/)
 
 See the page 👉 [Dropped](./dropped/)
 
-## Uncategorized
+## See also
+
+- [Games I remember from Atari](../computers/atari-65xe/#games-i-remember-from-atari)
+- [Games I remember from Pegasus](../gaming-consoles/pegasus-mt-777dx/#games-i-remember-from-pegasus)

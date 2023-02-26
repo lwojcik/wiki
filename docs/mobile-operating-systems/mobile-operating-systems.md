@@ -13,6 +13,7 @@ At least one of my current devices runs it.
 I had at least once device running these.
 
 - Firefox OS
+- iOS
 - Windows Phone 7
 
 ## Mobile operating systems I'm aware of
@@ -21,7 +22,6 @@ Those names sounds familiar but I never used them and may not have much to say a
 
 - Bada
 - Blackberry OS
-- iOS
 - KaiOS
 - Palm OS
 - Sailfish OS
