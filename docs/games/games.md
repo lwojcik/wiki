@@ -1,8 +1,8 @@
 # Games
 
-Structured form of play for entertainment and fun.
+I mostly play video games.
 
-I mostly like video games. I enjoy tabletop and card-based games too but I don't play them often enough to discuss.
+I enjoy tabletop and card-based games too but I don't play them often enough to discuss.
 
 See also 👉 [Gaming Consoles](../gaming-consoles/)
 
