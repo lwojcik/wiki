@@ -37,7 +37,9 @@ Currently I do not do any active research around AI but I sometimes encounter an
     - https://sfconservancy.org/GiveUpGitHub/
     - https://codeberg.org/Recommendations/Mirror_to_Codeberg
     - https://nogithub.codeberg.page/
-    - packages and libraries that don't integrate with external services can be migrated pretty much right away
-    - I can't migrate anything that integrates with GitHub and doesn't offer Codeberg integration (e.g. sites powered by Netlify)
+    - packages and libraries that don't integrate deeply with external services can be migrated pretty much right away
+    - I can't migrate anything that integrates with GitHub and doesn't offer Codeberg integration (e.g. sites hosted by Netlify)
       - in that case, migrating off one Git provider involves migrating to a different hosting and possibly looking for a new CI solution
-        - or self-hosting everything, which costs money and time
+        - or self-hosting everything, which costs money and time, both to do and maintain long-term
+    - mirroring to Codeberg seems to be the most viable option at the moment
+      - but is it worth spending time on it?
