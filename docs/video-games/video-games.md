@@ -1,8 +1,4 @@
-# Games
-
-<head>
-  <link rel="me" href="https://mstdn.games/@lukem" />
-</head>
+# Video Games
 
 I mostly play video games.
 
