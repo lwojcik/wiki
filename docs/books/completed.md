@@ -2,7 +2,9 @@
 
 At some point in my life I started and finished them. I may not remember details about all of them, but I usually have clear memories of how they made me feel.
 
-Permanently incomplete no matter how hard I try. Sorted alphabetically.
+Permanently incomplete no matter how hard I try.
+
+Sorted alphabetically.
 
 - Decline and Fall of IBM: End of an American Icon? - Robert X Cringely
 - Finansowy Ninja - Michał Szafrański

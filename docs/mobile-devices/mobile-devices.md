@@ -18,23 +18,27 @@ I can't decide if I consider ebook readers eligible to be called 'mobile devices
 
 ## Mobile devices I currently use
 
-Those are devices that are in active duty as we speak, in order of subjective importance.
+Those are devices that are in active duty as we speak
 
-- Amazon Kindle Paperwhite - ebook reader
+Ordered alphabetically.
+
+- Amazon Kindle Paperwhite
+- Samsung Galaxy A52 5G - work phone
 - Samsung Galaxy S21 FE 5G (SM-G990), codename Martini - personal daily driver
 - Samsung Galaxy Tab S7 FE (T736) - tablet with stylus
-- Samsung Galaxy A52 5G - work phone
 
 ## Mobile devices I used in the past
 
-Those are devices that used to be my daily drivers, ordered alphabetically.
+Those are devices that used to be my daily drivers.
+
+Ordered alphabetically.
 
 - [Apple iPhone 3GS](./iphone/3gs/)
 - Archos 80 G9 Turbo
 - Motorola V2288
 - Motorola C200
 - LG Cookie
-- LG GT540 Swift
+- LG Swift (GT540)
 - Nokia Lumia 610
 - Nokia Lumia 710
 - OnePlus 7 Pro 5G
@@ -48,7 +52,9 @@ Those are devices that used to be my daily drivers, ordered alphabetically.
 
 ## Mobile devices I had a chance of trying
 
-Those are devices I briefly owned for the purpose of testing (e.g. for mobile software development) or observed among my family members or friends. They were never my daily drivers but I had enough time to get familiar with them. Ordered alphabetically.
+Those are devices I briefly owned for the purpose of testing (e.g. for mobile software development) or observed among my family members or friends. They were never my daily drivers but I had enough time to get familiar with them and form my thoughts.
+
+Ordered alphabetically.
 
 - Alcatel One Touch Fire
 - Goclever Terra 101

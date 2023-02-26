@@ -1,6 +1,8 @@
 # Waitlist
 
-I own a copy of each and they're waiting for their turn. Sorted alphabetically.
+I own a copy of each and they're waiting for their turn.
+
+Sorted alphabetically.
 
 - Cyfrodziewczyny - Karolina Wasielewska
 - Filozofia Cyberbezpieczeństwa - Łukasz Olejnik, Artur Kurasiński
