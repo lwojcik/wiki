@@ -4,7 +4,7 @@ slug: /
 
 # Hello there! 👋
 
-I'm [Łukasz](https://lukaszwojcik.net/) and this is my personal wiki. I use it to take notes and catalog stuff I know, want to know, or find interesting.
+I'm [Łukasz](https://lukaszwojcik.net/) and this is my personal wiki. I use it to take notes and catalog stuff I know, want to know, find interesting or just care about in general.
 
 Think of it as my note-taking app, digital brain or a collection of ideas at various stages of development.
 
