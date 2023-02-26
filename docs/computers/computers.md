@@ -4,7 +4,7 @@ General term for machines that:
 
 - accept human input and process it
 - enable humans to **program** them, i.e. allow for modification of their behavior
-- produce a desired result in a form understandable and usable human
+- produce a desired result in a form understandable and usable by a human
 
 In everyday life I use the notion of **personal computer** and by that term I understand any general purpose device that has data storage, physical keyboard, screen (or can be plugged to an external screen) and operating system that allows me to run various applications to get things done.
 

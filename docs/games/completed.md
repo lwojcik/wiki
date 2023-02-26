@@ -3,7 +3,7 @@
 I consider the game complete if any of the following applies to it:
 
 - I completed its story from start to finish
-- I played meaningfully at least a few hours throughout the game lifecycle (applies mostly to multiplayer games)
+- I played meaningfully at least a few hours throughout the game lifecycle and put it away with a feeling of satisfaction (applies mostly to multiplayer games)
 
 Sorted alphabetically.
 

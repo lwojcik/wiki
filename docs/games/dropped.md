@@ -2,8 +2,8 @@
 
 I consider the game **dropped** if I started it AND any of the below applies:
 
-- I stopped playing it with clear intention of not picking up again
-- the game didn't have clear point of finish and I stopped coming back to it
+- I stopped playing with clear intention of not picking it up again (aka rage quit)
+- the game didn't have clear point of finish and I stopped playing
 - the game had clear point of finish (e.g. story mode) but I never reached it
 
 In most cases I'm not keen on revisting titles from this list as I'll likely learn of what I missed from Twitch or YouTube, but exceptions happen. At any given moment of time there is at least one game I'd rather play instead of revisiting anything from this list.
