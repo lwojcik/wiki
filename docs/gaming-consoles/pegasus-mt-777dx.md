@@ -64,11 +64,13 @@ Sorted alphabetically.
 - Pooyan
 - Pinball
 - Popeye
+- Road Fighter
 - Sky Destroyer
 - Soccer (1985)
 - Star Force
 - Super Mario Bros.
 - Tengen Tetris
+- Tennis
 - Track & Field
 - Urban Champion
 - Warp Man
