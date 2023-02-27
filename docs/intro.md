@@ -25,6 +25,12 @@ I use this wiki to:
 - put online what cannot fit into [my blog](https://offbeatbits.com/), which is more focused on narratives than collecting and organizing underprocessed notes
 - challenge the idea that modern web has to be inevitably 'corporate'. Instead, I use this is wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) as valid ways of thinking about owning your content on the web
 
+## What this wiki is NOT
+
+- it's not a rewrite of Wikipedia. I put notes only if they make it into my conscious memory
+- it's not a catalog of links. I can't avoid linking to external resources but the ultimate goal of this wiki is to thrive on its own even if all external hyperlinks break. Excluding a few sections that are somewhat messy _on purpose_, I try to be selective about _what_ and _how_ I link to stuff
+- it's not a scientific project. Biases, errors and bugs are staring at you from all sides as you flip through pages of this wiki. And you know what? I'm at peace with that. It's better to be alive and evolving than dead correct.
+
 ## Inspiration
 
 I started this project in February 2023 after searching for irrelevant information on some technical topic, and stumbling upon [Nikita Voloboev's personal wiki](https://wiki.nikiv.dev/). I've been familiar with the idea of personal wikis for a long time, but it was the first moment when it 'clicked' in my head. I was enamored with the idea and impressed with Nikita's wiki having amassed 1000+ notes on assorted topics. I suddenly realized this may be a good solution to my ever-lasting problem of [hoarding knowledge from all over the web and letting it rot](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/).
