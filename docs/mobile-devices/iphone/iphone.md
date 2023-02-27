@@ -2,6 +2,10 @@
 
 Line of smartphones produced by Apple since 2007.
 
+## Interesting links
+
+- [https://www.youtube.com/results?search_query=2007+iphone+presentation](https://www.youtube.com/results?search_query=2007+iphone+presentation) - first iPhone presentation by Steve Jobs
+
 ## Personal notes
 
 - I don't consider iOS superior or inferior to Android
