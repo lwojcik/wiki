@@ -10,7 +10,7 @@ In everyday life I use the notion of **personal computer** and by that term I un
 
 I've been using the term 'PC' since mid 1990s, mostly to describe a desktop computer. These days, with ubiquity of laptops, I consider both desktops and laptops PCs.
 
-I acknowledge [mobile devices](../mobile-devices/) and [wearable devices](../wearable-devices/) as specific types of computers, but I treat them as separate category of devices
+I acknowledge [mobile devices](../mobile-devices/) and [wearable devices](../wearable-devices/) are specific types of computers, but I treat them as separate category of devices for convenience.
 
 ## Computers I use
 
