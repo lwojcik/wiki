@@ -6,7 +6,7 @@
   - RAM: 64 kB
 - Included peripherals:
   - Joystick: QuickJoy SuperCharger
-  - Joystick: small-ish and grey, no longer remember the brand or model
+  - Joystick: Quick Gun Turbo Micro 6
   - Casette tape drive: model CA12 for Atari
 - Included reference book:
   - [Atari XE - Podręcznik](https://masto.ai/@lukem/109672504062275143)
