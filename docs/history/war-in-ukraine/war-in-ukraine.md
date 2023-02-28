@@ -8,7 +8,7 @@ This section contains my loose thoughts on how I see and think about the events.
 
 ## Other related sources
 
-Quite a few in Polish. My foreign friends - always try checking if subtitles are available because those people know they're talking about.
+Quite a few in Polish. My foreign friends - always try checking if subtitles are available.
 
 - https://www.youtube.com/@MarcinStrzyzewskioRosji
 - https://www.youtube.com/@GoodTimesBadTimesPL

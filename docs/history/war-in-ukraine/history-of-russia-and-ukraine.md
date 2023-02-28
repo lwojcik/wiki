@@ -1,6 +1,6 @@
 # History of Russia and Ukraine
 
-My attempt to note down all significant events leading to Russian aggression on Ukraine in 2022. Still under construction.
+My attempt to note down all significant events in Russia and Ukraine leading to Russian aggression on Ukraine in 2022. Still under construction.
 
 This is by no means a complete list. I can't say if there's a single timeline or cause and effect relationship between these events.
 
