@@ -6,7 +6,7 @@
   - RAM: 64 kB
 - Included peripherals:
   - Joystick: QuickJoy SuperCharger
-  - Joystick: small-ish and grey, no longer remember the brand or model
+  - Joystick: Quick Gun Turbo Micro 6
   - Casette tape drive: model CA12 for Atari
 - Included reference book:
   - [Atari XE - Podręcznik](https://masto.ai/@lukem/109672504062275143)
@@ -15,7 +15,7 @@
   - in the end of its life I got a 14-inch Junost 402b black-and-white TV to use exclusively as a display
 - had plenty of game compilations on casettes, but games needed time to load
   - and there was no guarantee they would load successfully at all
-- I learnt basics of BASIC programming language with it
+- I learnt basics of [BASIC programming language](../computer-languages/atari-basic) with it
   - but I never got into advanced structures like graphic modes, DATA commands or assembly language
 - It was bought in the era when 8-bit computers were outdated even for the standards of my country
   - at the time, some of my schoolmates had Amigas and some of them had PCs, but neither of them were prevalent yet

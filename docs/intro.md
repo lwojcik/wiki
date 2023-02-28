@@ -23,11 +23,11 @@ I use this wiki to:
 - spark other people's curiosity about stuff I'm curious about
 - answer questions about what I know to people who are interested in knowing what I know
 - put online what cannot fit into [my blog](https://offbeatbits.com/), which is more focused on narratives than collecting and organizing underprocessed notes
-- challenge the idea that modern web has to be inevitably 'corporate'. Instead, I use this is wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) as valid ways of thinking about owning your content on the web
+- challenge the idea that modern web has to be inevitably 'corporate' in order to be relevant. I use this wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) are valid ways of thinking about content ownership on the web
 
 ## What this wiki is NOT
 
-- it's not a rewrite of Wikipedia. I put notes only if they make it into my conscious memory
+- it's not a rewrite of Wikipedia. I put notes only if they make it into my conscious memory and / or I intuitively feel they may present value to me, either now or in the future. If I don't need it or don't remember it, it won't make it here
 - it's not a catalog of links. I can't avoid linking to external resources but the ultimate goal of this wiki is to thrive on its own even if all external hyperlinks break. Excluding a few sections that are somewhat messy _on purpose_, I try to be selective about _what_ and _how_ I link to stuff
 - it's not a scientific project. Biases, errors and bugs are staring at you from all sides as you flip through pages of this wiki. And you know what? I'm at peace with that. It's better to be alive and evolving than dead correct.
 
