@@ -12,7 +12,7 @@ Some of the events may be unrelated.
 - 1349 - the land is partitioned between the Kingdom of Poland and Grand Duchy of Lithuania
 - 1569 - the Union of Lublin - establishing Polish-Lithuanian Commonwealth - most of Ukrainian lands become Polish territory
 - 1648 - Cossack uprisings led by Bohdan Chmielnicki
-- 1654 - Pereiaslav Agreement - Ukraine forms alliance with Rusia and acknowledges loyalty to Russian tsar
+- 1654 - Pereiaslav Agreement - Ukraine forms alliance with Russia and acknowledges loyalty to Russian tsar
 - 1657-1686 - "The Ruin" - 30-year war amongst Russia, Poland, the Crimean Khanate, the Ottoman Empire, and Cossacks
 - 1686 - Treaty of Perpetual Peace between Russia and Poland - Cossack Hetmanate divided
 - 1686 - Metropolitanate of Kyiv was annexed by the Moscow Patriarchate
@@ -22,8 +22,8 @@ Some of the events may be unrelated.
 - 19th century - the rise of Ukrainian nationalism. Unlike Austria, Russia imposes severe restrictions against it
 - 1876 - Russia bans nearly all Ukrainian books from being published
 - after 1861 - Ukraine is late to join the Industrial Revolution due to Russian "serfdom" (form of slavery in which a slave could only be sold with a land it belonged to)
-  - apart from coal fields in Donbas, Odesa and Kyiv Ukraine remains mostly agricultural
-  - Ukrainians from parts taken by Austria face povery and migrate
+  - apart from coal fields in Donbas, Odesa and Kyiv, Ukraine remains mostly agricultural
+  - Ukrainians from parts taken by Austria face poverty, migrate and form 
 - 1914-1918 - World War I. Fights on Ukrainian soil keep raging until late 1921
   - the conflict evolves into Ukrainian War of Independence
 - 1919 - Ukrainian Soviet Socialist Republic is formed. Meanwhile, parts of western Ukraine taken by Second Polish Republic.
@@ -42,6 +42,7 @@ Some of the events may be unrelated.
 ## Sources
 
 - https://en.wikipedia.org/wiki/Ukraine
+- https://en.wikipedia.org/wiki/Ukrainian_Soviet_Republic
 - https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic
 - https://en.wikipedia.org/wiki/Great_Purge
 - https://en.wikipedia.org/wiki/Budapest_Memorandum
