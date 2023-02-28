@@ -8,6 +8,20 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://pubmed.ncbi.nlm.nih.gov/24110034/
+
+https://medium.com/@h_locke/why-dark-mode-causes-more-accessibility-issues-than-it-solves-d2f8359bb46a
+
+https://www.scienceabc.com/innovation/does-the-dark-mode-on-the-computer-actually-save-electricity.html
+
+https://alpaca.gold/@Jeremiah/109942036714921124
+
+https://www.manchester.ac.uk/discover/news/researchers-discover-when-its-good-to-get-the-blues/
+
+https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/
+
+https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/
+
 https://defensivecss.dev/
 
 https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
