@@ -8,6 +8,8 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja/
+
 https://pubmed.ncbi.nlm.nih.gov/24110034/
 
 https://medium.com/@h_locke/why-dark-mode-causes-more-accessibility-issues-than-it-solves-d2f8359bb46a
