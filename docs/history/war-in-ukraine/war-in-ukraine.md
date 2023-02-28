@@ -6,7 +6,9 @@ It was also a recurring topic of multiple conversations with my friends, especia
 
 This section contains my loose thoughts on how I see and think about the events.
 
-## Other related sources (quite a few in Polish)
+## Other related sources
+
+Quite a few in Polish. My foreign friends - always try checking if subtitles are available because those people know they're talking about.
 
 - https://www.youtube.com/@MarcinStrzyzewskioRosji
 - https://www.youtube.com/@GoodTimesBadTimesPL
