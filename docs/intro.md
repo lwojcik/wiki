@@ -23,7 +23,7 @@ I use this wiki to:
 - spark other people's curiosity about stuff I'm curious about
 - answer questions about what I know to people who are interested in knowing what I know
 - put online what cannot fit into [my blog](https://offbeatbits.com/), which is more focused on narratives than collecting and organizing underprocessed notes
-- challenge the idea that modern web has to be inevitably 'corporate'. Instead, I use this is wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) as valid ways of thinking about owning your content on the web
+- challenge the idea that modern web has to be inevitably 'corporate' in order to be relevant. I use this wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) are valid ways of thinking about content ownership on the web
 
 ## What this wiki is NOT
 
