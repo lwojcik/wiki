@@ -27,7 +27,7 @@ Thoughts on how I deal with information about Russo-Ukraine war.
 - no questioning or second-guessing decisions made by allied governments or army forces in public. Spreading doubt and fear is within enemy's interest. And nobody wants to hear your opinions anyway
   - you can have them, but that doesn't mean you have to post them on social media for controversy and attention. People are tired of reading the news already
   - if they call you a Russian troll on the internet, they may be right. All they can see is your statements that are in line with the enemy's propaganda. Back off. Neither you nor them can prove each other wrong.
-- Russian population has been living under hard dictatorship for decades and that heavily affects the way they behave. Don't be too quick to judge 
+- Russian population has been living under hard dictatorship for decades and that heavily affects the way they behave. Don't be too quick to judge
   - Russia had democratic periods in the past but it is not by any means a democracy
   - there's no such thing as general public polls
   - people are just scared of telling the truth that is not in line with Kremlin propaganda
