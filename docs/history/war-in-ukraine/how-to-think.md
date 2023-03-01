@@ -1,4 +1,4 @@
-# Approaching news about the war
+# Approaching news in war times
 
 Thoughts on how I deal with information about Russo-Ukraine war.
 
