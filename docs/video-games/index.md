@@ -20,5 +20,5 @@ See the page 👉 [Dropped](./lists/dropped/)
 
 ## See also
 
-- [Games I remember from Atari](../computers/atari-65xe/#games-i-remember-from-atari)
-- [Games I remember from Pegasus](../gaming-consoles/pegasus-mt-777dx/#games-i-remember-from-pegasus)
+- [Games I remember from Atari](../computers/atari-65xe.md#games-i-remember-from-atari)
+- [Games I remember from Pegasus](../video-game-consoles/pegasus-mt-777dx.md#games-i-remember-from-pegasus)

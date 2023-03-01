@@ -1,8 +1,7 @@
 # PlayStation Portable
 
 - bought it second-hand in early 2010s, sold it away a year or two later
-- played GTA: Vice City Stories and LittleBigPlanet on it
-  - also tried the demo of God of War: Chains Of Olympus but I didn't like it
+- I considered modding it but I eventually didn't
 - PS Vita was already a thing, so PSP was heavily outdated already
 - a lot of games to choose from, but not many new releases
   - I even found a physical shop in Warsaw that traded second-hand PSP games
@@ -18,3 +17,9 @@
 - it didn't get me hooked as much as Nintendo Switch did, perhaps the fact it was a dying platform had to do with it
   - I knew of PS Vita at the time but I didn't find it compelling enough to get into
     - And unlike these dayas, in early 2010s I couldn't afford having something as niche and obscure as portable gaming console
+
+## Games I remember from PlayStation Portable
+
+- GTA: Vice City Stories
+- [LittleBigPlanet (Demo)](../video-games/littlebigplanet.md)
+- God of War: Chains Of Olympus
