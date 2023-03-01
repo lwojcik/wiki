@@ -32,10 +32,10 @@ Some of the events may be unrelated.
 ### 1795 - 1945
 
 - 19th century - the rise of Ukrainian nationalism. Unlike Austria, Russia imposes severe restrictions against it
-- 1876 - Russia bans nearly all Ukrainian books from being published
 - after 1861 - Ukraine is late to join the Industrial Revolution due to Russian "serfdom" (form of slavery in which a slave could only be sold with a land it belonged to)
   - apart from coal fields in Donbas, Odesa and Kyiv, Ukraine remains mostly agricultural
   - Ukrainians from parts taken by Austria face poverty, migrate
+- 1876 - Russia bans nearly all Ukrainian books from being published
 - 1914-1918 - World War I. Fights on Ukrainian soil keep raging until late 1921
   - the conflict evolves into Ukrainian War of Independence
 - 1919 - Ukrainian Soviet Socialist Republic is formed. Meanwhile, parts of western Ukraine taken by Second Polish Republic.
