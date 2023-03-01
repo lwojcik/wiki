@@ -1,5 +1,6 @@
 {
   "line-length": false,
   "no-inline-html": false,
-  "no-bare-urls": false
+  "no-bare-urls": false,
+  "ol-prefix": false
 }
