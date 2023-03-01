@@ -22,6 +22,9 @@ Thoughts on how I deal with information about Russo-Ukraine war.
 - YouTubers and content creators who weren't covering history, political topics or warfare before February 2022 aren't credible sources of information
   - In February 2022 many channels engaged in everyday war news reporting
     - including quite a few unqualified ones that smelled a popular topic to monetize and spread uncorroborated or intentionally misleading information
+- social media is, for most of the time, poor channel to obtain any news, not only about war
+  - it can be easily manipulated by either side due to the fact people don't fact check information they read 
+  - unless you follow specific people or institutions whose credibility you can trust and verify
 - as of 2023 the conflict is happening on multiple levels and there's no single winning or losing side. Changes on maps and army movements alone are of limited significance to the war as a whole; they happen within wider strategical and political context and we know just a tiny fraction of it
 - no commenting or photographing any allied military vehicles you see in the area
   - silence saves lives
