@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Luke's Wiki",
   tagline: "Sharing what I know one note a time",
-  url: "https://wiki.lukem.net/",
+  url: "https://lukeswiki.eu/",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
