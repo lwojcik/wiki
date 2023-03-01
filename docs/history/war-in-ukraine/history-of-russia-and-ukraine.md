@@ -32,10 +32,10 @@ Some of the events may be unrelated.
 ### 1795 - 1945
 
 - 19th century - the rise of Ukrainian nationalism. Unlike Austria, Russia imposes severe restrictions against it
-- 1876 - Russia bans nearly all Ukrainian books from being published
 - after 1861 - Ukraine is late to join the Industrial Revolution due to Russian "serfdom" (form of slavery in which a slave could only be sold with a land it belonged to)
   - apart from coal fields in Donbas, Odesa and Kyiv, Ukraine remains mostly agricultural
   - Ukrainians from parts taken by Austria face poverty, migrate
+- 1876 - Russia bans nearly all Ukrainian books from being published
 - 1914-1918 - World War I. Fights on Ukrainian soil keep raging until late 1921
   - the conflict evolves into Ukrainian War of Independence
 - 1919 - Ukrainian Soviet Socialist Republic is formed. Meanwhile, parts of western Ukraine taken by Second Polish Republic.
@@ -107,7 +107,7 @@ Some of the events may be unrelated.
   - people took it to the streets after reports of the second round being rigged in favor of Yanukovych
   - after mass protests Ukraine's Supreme Court annulled results of the second round
   - revote happened in December, declared "free and fair" by domestic and international observers
-  - Yushchenko wins 52% of votes, Yanukowych gets 45%
+  - Yushchenko wins 52% of votes, Yanukovych gets 45%
   - with Yushchenko's inauguration Orange Revolution officially ends
   - years later reports suggested Putin took offence, didn't like the fact Ukraine would do what they want rather than do what's good for Russia
 - February 2007 - Munich speech of Vladimir Putin
@@ -148,6 +148,7 @@ Some of the events may be unrelated.
   - protesters were repressed and penalized
   - prominent activists were raided and searched
 - 2012-2018 - Putin's third presidential term
+- 2014 - Russia hosts winter olympic games in Sochi
 - 2018-present - Putin's fourth presidential term, ends 2024
 - (under construction)
 
