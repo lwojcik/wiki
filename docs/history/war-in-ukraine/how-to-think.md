@@ -34,7 +34,10 @@ Thoughts on how I deal with information about Russo-Ukraine war.
   - some of them may have been brainwashed to support their state simply because they want to survive
   - apart from Moscow and maybe Saint Petersburg people may not even care that much about politics because they live in poverty, struggling to make ends meet
   - unless the person explicitly expresses support for Putin's regime, they have little say about what their government has been doing. No need to give them hard time for that
+- if the news is controversial are looking dubious, notice how you react to it. Chances are it's meant to invoke certain feelings in you. But the essence of the news may not be that important per se, even if it looks 'breaking'
 
 ## Links
 
 - https://en.wikipedia.org/wiki/Information_warfare
+- https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/dealing-with-propaganda-misinformation-and-fake-news
+- https://disinformation-nation.org/combat-propaganda/
