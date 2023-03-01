@@ -9,8 +9,8 @@ Sorted alphabetically.
 
 - Forza Horizon 2
 - Forza Horizon 5
-- Lumines Remastered
+- Lumines Remastered - trying to unlock endless mode, I miss just one skin
 - The Red Strings Club
-- Tetris (Game Boy)
+- Tetris (Game Boy) - considering speedrunning, we'll see
 - Tetris 99 - speedrunning 150-line mode for fun
 - Tetris Effect: Connected - speedrunning journey mode for fun
