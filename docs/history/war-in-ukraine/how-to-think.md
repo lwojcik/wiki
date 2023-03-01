@@ -18,6 +18,7 @@ Thoughts on how I deal with information about Russo-Ukraine war.
   - they may not be telling everything they know or tell 100% truth all the time though
 - enemy's media cannot be treated as verifiable or trusted
   - as proved by many analysts, Russian media often engages in painting alternate versions of reality to mislead its own population
+- news from other regimes that aren't supporting either side but have political or financial interest in war (e.g. China) can't be trusted
 - YouTubers and content creators who weren't covering history, political topics or warfare before February 2022 aren't credible sources of information
   - In February 2022 many channels engaged in everyday war news reporting
     - including quite a few unqualified ones that smelled a popular topic to monetize and spread uncorroborated or intentionally misleading information
@@ -34,7 +35,7 @@ Thoughts on how I deal with information about Russo-Ukraine war.
   - some of them may have been brainwashed to support their state simply because they want to survive
   - apart from Moscow and maybe Saint Petersburg people may not even care that much about politics because they live in poverty, struggling to make ends meet
   - unless the person explicitly expresses support for Putin's regime, they have little say about what their government has been doing. No need to give them hard time for that
-- if the news is controversial are looking dubious, notice how you react to it. Chances are it's meant to invoke certain feelings in you. But the essence of the news may not be that important per se, even if it looks 'breaking'
+- if the news is controversial or in any way dubious, notice how you react to it. Chances are it's meant to invoke certain feelings in you. But the essence of the news may not be that important per se, even if it looks 'breaking'
 
 ## Links
 
