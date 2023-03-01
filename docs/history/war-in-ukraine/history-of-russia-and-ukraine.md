@@ -107,7 +107,7 @@ Some of the events may be unrelated.
   - people took it to the streets after reports of the second round being rigged in favor of Yanukovych
   - after mass protests Ukraine's Supreme Court annulled results of the second round
   - revote happened in December, declared "free and fair" by domestic and international observers
-  - Yushchenko wins 52% of votes, Yanukowych gets 45%
+  - Yushchenko wins 52% of votes, Yanukovych gets 45%
   - with Yushchenko's inauguration Orange Revolution officially ends
   - years later reports suggested Putin took offence, didn't like the fact Ukraine would do what they want rather than do what's good for Russia
 - February 2007 - Munich speech of Vladimir Putin
@@ -148,6 +148,7 @@ Some of the events may be unrelated.
   - protesters were repressed and penalized
   - prominent activists were raided and searched
 - 2012-2018 - Putin's third presidential term
+- 2014 - Russia hosts winter olympic games in Sochi
 - 2018-present - Putin's fourth presidential term, ends 2024
 - (under construction)
 
