@@ -1,4 +1,4 @@
-# Visit the site 👉 [Luke's Wiki](https://wiki.lukem.net)
+# Visit the site 👉 [Luke's Wiki](https://lukeswiki.eu)
 
 ## License
 
