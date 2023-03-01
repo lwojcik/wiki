@@ -29,7 +29,7 @@ Sorted alphabetically.
 - Hans Kloss
 - Miecze Valdgira
 - Milk Race
-- Moon Patrol
+- [Moon Patrol](../video-games/moon-patrol.md)
 - Operation Blood
 - Pitstop
 - River Raid

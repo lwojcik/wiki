@@ -4,19 +4,19 @@ This is a section where I track everything relevant to video games.
 
 ## In progress
 
-See the page 👉 [In progress](./in-progress/)
+See the page 👉 [In progress](./lists/in-progress/)
 
 ## Waitlist
 
-See the page 👉 [Waitlist](./waitlist/)
+See the page 👉 [Waitlist](./lists/waitlist/)
 
 ## Completed
 
-See the page 👉 [Completed](./completed/)
+See the page 👉 [Completed](./lists/completed/)
 
 ## Dropped
 
-See the page 👉 [Dropped](./dropped/)
+See the page 👉 [Dropped](./lists/dropped/)
 
 ## See also
 
