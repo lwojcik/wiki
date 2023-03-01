@@ -5,7 +5,6 @@ Distributed version control system used for building software.
 ## Personal notes
 
 - If I'm 100% sure my feature branch will get squashed, I'll use merge commits by default and squash commits when merging with development or main branch - but I'm not opinionated on this
-
   - in my open source projects contributors are allowed to use either merging or rebasing, depending on their preference
   - If a team I work with wants feature branches to be rebased and force pushed rather than merged, I can do that too
 - I do a lot of Git operations from Git web interface if there's one available
@@ -15,7 +14,7 @@ Distributed version control system used for building software.
 - https://github.com/
 - https://gitlab.com/
 - https://bitbucket.org/
-- https://sr.ht/ 
+- https://sr.ht/
 - https://codeberg.org/
 
 ## Self-hosted Git hosting solutions
@@ -37,4 +36,4 @@ That's where graphical interfaces to GIT come handy.
 ## Troubleshooting links
 
 - https://git-scm.com/doc - official docs
-- https://ohshitgit.com/ - various problematic Git scenarios and ways to solve them 
+- https://ohshitgit.com/ - various problematic Git scenarios and ways to solve them

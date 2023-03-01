@@ -13,7 +13,10 @@ Thoughts on how I deal with information about Russo-Ukraine war.
   - some of today's secret information will be revealed or leaked in the future when its impact will be lower
   - some news may be intentionally confusing or misleading for various reasons
     - example: US President Joe Biden's visit to Poland in February 2023
-      - until the very last moment only a few people knew president would visit Kyiv, official sources were in denial
+      - until the very last moment only a few people knew president would visit Kyiv
+      - official sources were either denying or sending mixed messages
+      - Russia was informed hours before the visit, but we don't know what they said
+        - I'm pretty sure someone will reveal what exactly happened there once the war is over
 - only official government channels are credible sources of first-party information
   - they may not be telling everything they know or tell 100% truth all the time though
 - enemy's media cannot be treated as verifiable or trusted
@@ -23,8 +26,9 @@ Thoughts on how I deal with information about Russo-Ukraine war.
   - In February 2022 many channels engaged in everyday war news reporting
     - including quite a few unqualified ones that smelled a popular topic to monetize and spread uncorroborated or intentionally misleading information
 - social media is, for most of the time, poor channel to obtain any news, not only about war
-  - it can be easily manipulated by either side due to the fact people don't fact check information they read 
-  - unless you follow specific people or institutions whose credibility you can trust and verify
+  - it can be easily manipulated by either side due to the fact people don't fact check information they read
+  - follow only specific people or institutions whose credibility you can trust and verify
+- no discussion of conspiracy theories. The sole act of reacting to them on social media gives them platform to spread
 - as of 2023 the conflict is happening on multiple levels and there's no single winning or losing side. Changes on maps and army movements alone are of limited significance to the war as a whole; they happen within wider strategical and political context and we know just a tiny fraction of it
 - no commenting or photographing any allied military vehicles you see in the area
   - silence saves lives
