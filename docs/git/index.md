@@ -8,6 +8,13 @@ Distributed version control system used for building software.
   - in my open source projects contributors are allowed to use either merging or rebasing, depending on their preference
   - If a team I work with wants feature branches to be rebased and force pushed rather than merged, I can do that too
 - I do a lot of Git operations from Git web interface if there's one available
+- I keep forgetting to delete branches
+  - On my local machine I periodically clean branches by hand with `git branch -d`
+  - On remote I'm a fan of automatic branch deletion after closing the PR
+    - On GitHub the process is nice, reversible and I see no downsides to turning it on
+    - For reasons I don't understand teams I work with are reluctant to have it on
+      - yet once in a while someone has to call out everyone to delete their merged branches
+      - what a waste of time and energy
 
 ## Git hosting services
 
