@@ -24,6 +24,11 @@ Medium for recording information in written form, typically separated into pages
 
 See the page 👉 [Waitlist](./waitlist.md)
 
+## In Progress
+
+See the page 👉 [In Progress](./in-progress.md)
+
+
 ## Completed
 
 See the page 👉 [Completed](./completed.md)
