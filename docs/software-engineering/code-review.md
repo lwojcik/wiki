@@ -72,3 +72,7 @@ Good companies should have their own standards of code review. If not, I try to 
 - ensure there's no code repetitions that could be abstracted away without obstructing understanding
 - ensure relevant components are placed in places they belong to (e.g. constants, stubs, helpers, types) 
 - ensure there's no accidental way for a human to fall off the happy path while using the feature
+
+## Links
+
+- https://www.youtube.com/watch?v=bLyl4VDNPyY
