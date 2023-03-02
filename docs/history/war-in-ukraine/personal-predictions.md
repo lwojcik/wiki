@@ -15,8 +15,8 @@ Nothing about this conflict is logical.
     - and I'm not sure if ALL Ukrainians would support that at all - not everyone wants to or should be a soldier at all
   - perhaps that's not a problem at all if you have enough modern military equipment
 - NATO won't send military personnel to Ukraine for as long as:
-  - Russia openly attacks any other NATO country
-  - if that is bound to happen (or is happening right now?), general public won't know about that immediately
+  - Russia doesn't openly attack any other NATO country
+  - if NATO soldiers show up in Ukraine (or if it's happening right now at all?), general public won't know about that immediately
 - whether Ukraine wins the war is not much of relevance
   - of course I wish they retain control over all of their territory, including the separatist ones, but I'm not sure if that's what's going to happen
   - moral and poltical victory doesn't change the fact Ukraine will have to spend a lot of money and labor to rebuild their country
