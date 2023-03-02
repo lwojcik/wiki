@@ -11,8 +11,8 @@ Gaming consoles can be portable, with screen and controller integrated into a si
 
 ## Video game consoles I own
 
-- Nintendo Switch
-- Xbox One X
+- [Nintendo Switch](./nintendo-switch.md)
+- [Xbox One X](./xbox-one-x.md)
 
 ## Video game consoles I used to own
 
