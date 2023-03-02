@@ -30,6 +30,7 @@ I use this wiki to:
 - it's not a rewrite of Wikipedia. I put notes only if they make it into my conscious memory and / or I intuitively feel they may present value to me, either now or in the future. If I don't need it or don't remember it, it won't make it here
 - it's not a catalog of links. I can't avoid linking to external resources but the ultimate goal of this wiki is to thrive on its own even if all external hyperlinks break. Excluding a few sections that are somewhat messy _on purpose_, I try to be selective about _what_ and _how_ I link to stuff
 - it's not a scientific project. Biases, errors and bugs are staring at you from all sides as you flip through pages of this wiki. And you know what? I'm at peace with that. It's better to be alive and evolving than dead correct.
+- it's not an encyclopedia. I filter knowledge through the set of my own opinions and I'm sometimes heavily political. And I'm okay if you disagree with me.
 
 ## Inspiration
 
