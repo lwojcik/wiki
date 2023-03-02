@@ -40,7 +40,7 @@ Sorted alphabetically.
 - Gravity Rider Zero
 - Jalopy
 - Jazz Jackrabbit 2
-- Legend of Zelda: Breath of the Wild
+- The Legend of Zelda: Breath of the Wild
 - Lego City Undercover
 - Mafia: Definitive Edition
 - Mafia 2

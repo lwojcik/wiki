@@ -7,10 +7,10 @@ This list contains games that:
 
 Sorted alphabetically.
 
-- Forza Horizon 2
-- Forza Horizon 5
+- Forza Horizon 2 - going through single player content
+- Forza Horizon 5 - going through single player content, playing with friends
 - Lumines Remastered - trying to unlock endless mode, I miss just one skin
-- The Red Strings Club
+- The Red Strings Club - still haven't done the story
 - Tetris (Game Boy) - considering speedrunning, we'll see
 - Tetris 99 - speedrunning 150-line mode for fun
 - Tetris Effect: Connected - speedrunning journey mode for fun
