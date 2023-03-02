@@ -52,10 +52,10 @@ It is a common practice in companies where teams of engineers work simultaneousl
 
 Good companies should have their own standards of code review. If not, I try to follow the following framework.
 
-- ensure the pull request follows agreed conventions about description, commit messages, etc.
+- [ ] ensure the pull request follows agreed conventions about description, commit messages, etc.
   - e.g. contains a Jira number of the task in question and / or short description
-- ensure feature branch is up-to-date against target branch and contains no conflicts  
-- read the task description. Ensure I have understanding of the problem being solved
+- [ ] ensure feature branch is up-to-date against target branch and contains no conflicts  
+- [ ] read the task description. Ensure I have understanding of the problem being solved
 - clone the feature branch to my computer
 - ensure I can launch the project
 - read the code that was added
