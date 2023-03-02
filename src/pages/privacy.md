@@ -13,3 +13,8 @@ If I ever decide to implement web analytics, I will use privacy-preserving analy
 I hate those cookie / GDPR popups. There's a reason you didn't see one here.
 
 If anything ever changes, I will update this policy.
+
+## Contact me
+
+- [Send a message](https://lukaszwojcik.net/contact/)
+- [Contact me via postal adress](https://lukem.net/contact/)
