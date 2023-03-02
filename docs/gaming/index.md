@@ -12,6 +12,7 @@ For many years desktop PC was my primary gaming platform. These days I use vario
 
 I enjoy tabletop and card-based games too but I don't play them often enough to discuss.
 
-- [Mobile Gaming](../mobile-gaming/)
-- [Video Games](../video-games/)
-- [Video Game Consoles](../video-game-consoles/)
+- [Mobile Gaming](../mobile-gaming)
+- [Video Games](../video-games)
+- [Video Game Consoles](../video-game-consoles)
+- [Video Game Development](../video-game-development)
