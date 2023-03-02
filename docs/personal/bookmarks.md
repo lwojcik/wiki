@@ -8,6 +8,8 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://www.seroundtable.com/google-on-lastmod-tag-in-xml-sitemap-34972.html
+
 https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/
 
 https://anarchy.center/@luna/109953357094361230
