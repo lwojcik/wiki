@@ -4,7 +4,7 @@ If I can't squash  / cherry-pick / rebase commits via Git web interface (e.g. Gi
 
 [GitHub Desktop](https://desktop.github.com/) is my favorite.
 
-The reason I prefer to do that with GUI rather than command line:
+Reasons I prefer to squash / rebase / cherry-pick with GUI rather than command line:
 
 - rebasing / squashing is not a natural way to use Git for me
   - I've been using merge commits for a long time
