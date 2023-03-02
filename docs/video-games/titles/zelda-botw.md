@@ -1,6 +1,6 @@
 # The Legend of Zelda: Breath of the Wild
 
-One of my first games on [Nintendo Switch](../video-game-consoles/nintendo-switch.md).
+One of my first games on [Nintendo Switch](../../video-game-consoles/nintendo-switch.md).
 
 - [Read my blog post on Offbeat Bits](https://offbeatbits.com/4-months-in-hyrule-but-is-the-world-my-oyster/#i-dont-like-fantasy-games)
   - tl;dr:

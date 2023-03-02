@@ -21,5 +21,5 @@
 ## Games I remember from PlayStation Portable
 
 - GTA: Vice City Stories
-- [LittleBigPlanet (Demo)](../video-games/littlebigplanet.md)
+- [LittleBigPlanet (Demo)](../video-games/titles/littlebigplanet.md)
 - God of War: Chains Of Olympus
