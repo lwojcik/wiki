@@ -2,7 +2,7 @@
 
 If I can't squash  / cherry-pick / rebase commits via Git web interface (e.g. GitHub), I resort to using a GUI tool.
 
-GitHub desktop is my favorite.
+[GitHub Desktop](https://desktop.github.com/) is my favorite.
 
 The reason I prefer to do that with GUI rather than command line:
 
