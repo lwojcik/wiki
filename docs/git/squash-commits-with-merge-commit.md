@@ -33,9 +33,9 @@ git reset --hard temp
 
 5. Push changes
 
- ```bash
- git push --force
- ```
+```bash
+git push --force
+```
 
 6. Delete the temporary branch
 
