@@ -1,6 +1,6 @@
 # Commentary
 
-These games I probably didn't play but I may have been asked about them or have something else to say.
+These games I probably didn't play but I may have something to say about them. Maybe I was asked about them before.
 
 Sorted alphabetically.
 
