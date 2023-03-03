@@ -54,7 +54,7 @@ Good companies should have their own standards of code review. If not, I try to 
 
 - ensure the pull request follows agreed conventions about description, commit messages, etc.
   - e.g. contains a Jira number of the task in question and / or short description
-- if my team uses the notion of Definiton of Done - check if task description states it clearly and the pull request meets it
+- if my team uses the notion of Definiton of Done / Acceptance Criteria - check if task description states it clearly and the pull request meets it
 - ensure feature branch is up-to-date against target branch and contains no conflicts  
 - read the task description. Ensure I have understanding of the problem being solved
 - clone the feature branch to my computer
