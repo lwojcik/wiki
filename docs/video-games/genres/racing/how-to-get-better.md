@@ -19,6 +19,7 @@ Typically applies to car simulators and simcades. Arcade racing games are usuall
     - in some games the sole fact of using manual transmission makes player way faster than another player using automatic transmission
 - you have one substantial resource to manage: **traction**
   - traction involves the degree to which your wheels contact the ground
+  - traction is affected by how your car is designed and how much downforce it gets 
   - different tyres give different degrees of traction
   - you lose traction if your wheels lose contact with the ground
     - and that happens often while braking, turning or accelerating
