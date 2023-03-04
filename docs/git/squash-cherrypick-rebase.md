@@ -6,20 +6,20 @@ If I can't squash  / cherry-pick / rebase commits via Git web interface (e.g. Gi
 
 Reasons I prefer to squash / rebase / cherry-pick with GUI rather than command line:
 
-- rebasing / squashing is not a natural way to use Git for me
+- rebasing is not a natural way to use Git for me
   - I've been using merge commits for a long time
-  - I squashing commits only on merging the PR with main branch
   - rewriting change history doesn't sit well with me but I can't explain why
-- I often do that under time pressure
+    - I'm okay with it if that's what my teams expect me to do 
+- squashing / cherry-picking is something I often do under time pressure
 - interactive rebasing in command line isn't intuitive to me
   - Git as a whole was initially developed by Linux kernel developers to replace the tool they didn't like
-    - which means a bunch of nerds that spent lifetime in the command line built a tool with legacy and conventions that may not be as readable to me to the same degree as to them
-    - while I do have my experience with Linux, including command line, I loathe unintuitive tools using unfamiliar conventions
-    - I don't use all Git features equally often
-      - Some of them I'm comfortable to use in my command line
-      - Some of them I use infrequently and I have no way to make them my muscle memory
+    - which means a bunch of nerds that spent lifetime in the command line built a tool with legacy and conventions that may not be as readable to me as to them
+    - while I do have my experience with Linux - including command line - I loathe unintuitive tools that use unfamiliar conventions
+    - I don't use each and every single Git feature with equal frequency
+      - Some of the Git activities I'm comfortable to do in my command line
+      - Others I do infrequently and I can't make them my muscle memory yet
 
-I try doing some Git operations with a command line if I'm not under time pressure. But I don't have enough confidence to ditch GUI tools yet.
+I try doing some Git operations with a command line if I have time for that. But I don't have enough confidence to ditch GUI tools yet.
 
 ## Squashing with GitHub Desktop
 

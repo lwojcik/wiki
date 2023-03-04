@@ -1,5 +1,9 @@
 # Visit the site 👉 [Luke's Wiki](https://lukeswiki.eu)
 
+## Quick links (mostly for myself)
+
+- [Bookmarks](./docs/personal/bookmarks.md)
+
 ## License
 
 ### Code

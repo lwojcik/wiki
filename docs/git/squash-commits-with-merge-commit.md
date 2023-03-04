@@ -1,10 +1,12 @@
 # Squash commits including at least one merge commit
 
-For reasons I never dug into, Git won't allow for straightforward commit squashing if selected commits contain at least one merge commit.
+For reasons I never had time to dig into, Git won't allow for straightforward commit squashing if selected commits contain at least one merge commit.
 
 In that scenario, I do the following sequence of steps:
 
 ## Steps
+
+(`develop` is the target branch. `my_feature_branch` is the branch I want to squash)
 
 1. Create a temporary branch from the one my feature branch targets (usually `develop`):
 
