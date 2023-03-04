@@ -1,3 +1,0 @@
-# Racing
-
-Under construction.
