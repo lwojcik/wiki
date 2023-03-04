@@ -92,7 +92,7 @@ Some of the events may be unrelated.
 - 2001-2016 - Operation Active Endeavour
   - maritime operation intended to disrupt terrorists moving weapons of mass destruction
   - NATO and several non-NATO countries (including Russia and Ukraine) took part in it
-  - in 20016 NATO authorized Russian ship to join
+  - in 2006 NATO authorized Russian ship to join
 - May 2002 - NATO-Russia Council (NRC) is formed
   - NATO website: "Its purpose is to serve as the principal structure and venue for advancing the relationship between NATO and Russia"
 - 2004–2008 - Putin's second presidential term
@@ -138,7 +138,9 @@ Some of the events may be unrelated.
     - "hard to tell what exactly happened, let's keep business as usual with Russia"
     - for Russia it was a sign: "we can keep doing this without punishment, nobody's gonna give a flying eff"
   - politicians in some countries were legitly concerned
-    - "Poland or Ukraine could be next"
+    - President of Poland Lech Kaczyński - together with presidents of Lithuania, Estonia and Ukraine and a PM of Latvia - visit Tbilisi
+      - he promises Georgians that they they can always couunt on help from their friends, that they don't walk alone in this fight
+    - Lech Kaczyński: "we know very well that today it's time for Georgia. But tomorrow it can be Ukraine. The day after tomorrow, Baltic states. Then maybe the time comes for my country, Poland"
 - 2010 - pro-Russian Victor Yanukovych wins presidential election in Ukraine
   - held office until 2014
 - June-July 2012 - Ukraine and Poland co-host UEFA European Football Championship
@@ -168,6 +170,7 @@ Some of the events may be unrelated.
 - https://2001-2009.state.gov/r/pa/ho/pubs/fs/85962.htm
 - https://en.wikipedia.org/wiki/2007_Munich_speech_of_Vladimir_Putin
 - https://en.wikipedia.org/wiki/Russo-Georgian_War
+- https://www.polskieradio.pl/39/156/artykul/2564082,mija-14-lat-od-pamietnego-przemowienia-lecha-kaczynskiego-w-tbilisi-gruzini-sa-za-to-wdzieczni-do-dzis
 - https://en.wikipedia.org/wiki/First_Chechen_War
 - https://en.wikipedia.org/wiki/International_recognition_of_Abkhazia_and_South_Ossetia
 - https://en.wikipedia.org/wiki/2011%E2%80%932013_Russian_protests

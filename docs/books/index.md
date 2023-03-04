@@ -28,7 +28,6 @@ See the page 👉 [Waitlist](./waitlist.md)
 
 See the page 👉 [In Progress](./in-progress.md)
 
-
 ## Completed
 
 See the page 👉 [Completed](./completed.md)
