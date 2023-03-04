@@ -19,7 +19,7 @@ Typically applies to car simulators and simcades. Arcade racing games are usuall
     - in some games the sole fact of using manual transmission makes player way faster than another player using automatic transmission
 - you have one substantial resource to manage: **traction**
   - traction involves the degree to which your wheels contact the ground
-  - traction is affected by how your car is designed and how much downforce it gets 
+  - traction is affected by how your car is designed and how much downforce it gets
   - different tyres give different degrees of traction
   - you lose traction if your wheels lose contact with the ground
     - and that happens often while braking, turning or accelerating
@@ -38,7 +38,7 @@ Typically applies to car simulators and simcades. Arcade racing games are usuall
       - car weight is effectively 'pulled' forward
       - car has tendency to understeer
         - since ront wheels are used for both turning and moving forward, FWD car doesn't turn as effectively as RWD car
-        - understeering can be mitigated by using handbrake and throttling at once, forcing read wheels to slide 
+        - understeering can be mitigated by using handbrake and throttling at once, forcing rear wheels to slide
     - all-wheel drive
       - both front and read wheels are powered by the engine
       - combine the best from both worlds, typically the easiest to control
@@ -72,4 +72,5 @@ Typically applies to car simulators and simcades. Arcade racing games are usuall
   - playing time trials on a selected circuit will enable you to develop muscle memory, learn where and how much you ought to brake or turn and where you should place your car to go through each turn in an optimal way
 - learn to launch your car properly while starting the race
   - different games have different launch sequences. Great launch can buy you a few extra places
-  - in some games it's not enough to just push throttle to the max and hope for the best  
+  - in some games it's not enough to just push throttle to the max and hope for the best
+  - some games (like Mario Kart) have very specific launch sequence that grants additional boost if done correctly
