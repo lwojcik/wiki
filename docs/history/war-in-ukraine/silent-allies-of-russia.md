@@ -13,7 +13,7 @@ It is one thing to expect a corporation to behave ethically. But as consumers we
 - quite a few Turkish companies
 - disgusting number of French and Italian companies
 - small yet still shameful number of German companies
-- quite a few companies from the rest of Europe, not less shameful as the ones above
+- quite a few companies from the rest of Europe, not less shameful than the ones above
 - one Polish company - Makrochem SA (?!!!)
 
 ### Some notable brands
