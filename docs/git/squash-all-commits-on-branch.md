@@ -19,6 +19,7 @@ git checkout my_branch
 git reset $(git merge-base develop $(git branch --show-current))
 git add -A
 git commit -m "Commit message on my_branch"
+git push --force
 ```
 
 ## Method 2
@@ -27,6 +28,7 @@ git commit -m "Commit message on my_branch"
 git switch my_branch
 git reset --soft $(git merge-base develop HEAD)
 git commit -m "Commit message on my_branch"
+git push --force
 ```
 
 ## Source
