@@ -28,3 +28,8 @@
   - I never experienced the original Prime on its original platform, with tech limitations of the time
   - even if remaster remains faithful to the original, it's still a game that uses language, paradigms and assumptions I may not find enjoyable in today's landscape
   - this is another game that solidifies my opinion that Nintendo's business model is monetizing on nostalgia of its fans
+
+## Links
+
+- https://www.youtube.com/watch?v=jpEuQAy-PGE - no-commentary walkthrough
+- https://www.speedrun.com/mp_remastered - speedrunning leaderboards
