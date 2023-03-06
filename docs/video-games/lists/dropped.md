@@ -83,6 +83,7 @@ Sorted alphabetically.
 - Mafia 3
 - Magic 2015
 - Mario Kart 8 Deluxe
+- [Metroid Prime Remastered](../titles/metroid-prime.md)
 - Mini Metro
 - Mini Motorways
 - Mortal Kombat 4
