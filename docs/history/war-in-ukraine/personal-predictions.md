@@ -4,7 +4,7 @@ I don't know anything for sure. I can just speculate. And nearly everything here
 
 Nothing about this conflict is logical.
 
-## Things I'm moderately certain of
+## Things I'm _moderately_ certain of
 
 - Russia won't win the war, either militarily or politically, for as long as:
   - NATO keeps supporting Ukraine
@@ -90,7 +90,8 @@ A few selected people in the world know the answers already. General public will
 - what the heck Vatican and Pope are doing
   - by staying passive and refusing to clearly condemn one side Pope effectively supports the attacking side
   - it is not unusual to see Vatican being involved in international politics
-    - e.g. pope John Paul II played a huge role in democratic changes in Europe in 20th century
+    - e.g. pope John Paul II played a certain role in democratic changes in Europe in 20th century
+      - not the biggest and not as a alone superhero
   - so why is Pope Francis playing as if he was a Putin ally?
 
 ## Links
