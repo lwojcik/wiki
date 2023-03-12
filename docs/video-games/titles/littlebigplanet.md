@@ -1,6 +1,6 @@
 # LittleBigPlanet
 
-- I played the demo of it somewhere in 2010s on [PlayStation Portable](../video-game-consoles/playstation-portable.md)
+- I played the demo of it somewhere in 2010s on [PlayStation Portable](../../video-game-consoles/playstation-portable.md)
 - very charming and good looking platformer
 - since PSP was my only Sony console ever, I don't know what happened to the franchise
   - after selling PSP away I never heard about it again

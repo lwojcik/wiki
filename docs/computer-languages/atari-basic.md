@@ -1,6 +1,6 @@
 # Atari BASIC
 
-A flavor of BASIC, the interpreted programming language, included with many Atari computers. I used it on [Atari 65XE](../computers/atari-65xe.md). Not very performant compared to assembly. Touted as beginner-friendly. I can't verify this statement because I had no comparison as a teenager.
+A flavor of BASIC, the interpreted programming language, included with many Atari computers. I used it on [Atari 65XE](/computers/atari-65xe.md). Not very performant compared to assembly. Touted as beginner-friendly. I can't verify this statement because I had no comparison as a teenager.
 
 The name BASIC is an abbreviation for _Beginner's All-Purpose Symbolic Instruction Code_.
 

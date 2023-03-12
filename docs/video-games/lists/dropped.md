@@ -83,7 +83,7 @@ Sorted alphabetically.
 - Mafia 3
 - Magic 2015
 - Mario Kart 8 Deluxe
-- [Metroid Prime Remastered](../titles/metroid-prime.md)
+- [Metroid Prime Remastered(/video-games/titles/metroid-prime-remastered.md)
 - Mini Metro
 - Mini Motorways
 - Mortal Kombat 4
@@ -103,6 +103,7 @@ Sorted alphabetically.
 - Project CARS 2
 - PUBG Mobile
 - Puyo Puyo Tetris 2
+- [The Red Strings Club](../titles/red-strings-club.md)
 - Redline Racer
 - Q.U.B.E. 2
 - Rocket League

@@ -56,6 +56,7 @@ Sorted alphabetically.
 - SC2VN
 - The Solitaire Conspiracy
 - StarCraft II
+- [Stay](../titles/stay.md)
 - Suicide Guy
 - Super Mario Bros.
 - Target
