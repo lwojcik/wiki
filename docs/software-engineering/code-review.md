@@ -77,3 +77,4 @@ Good companies should have their own standards of code review. If not, I try to 
 ## Links
 
 - https://www.youtube.com/watch?v=bLyl4VDNPyY
+- https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture
