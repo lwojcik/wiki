@@ -49,27 +49,62 @@ Some of the events may be unrelated.
 - 1936-1938 - The Great Purge / The Executed Renaissance
   - Stalin orders killing his perceived political enemies. A lot of Ukrainian intelligentsia is exterminated
 - 1939-1945 - World War II
+- 1939 - German and Soviet troops divide the territory of Poland
+  - previously separate parts of Ukraine become united
+  - majority of Ukrainians fight in or alongside the Soviet army
+- 1942 - in western Ukraine an independent Ukrainian Insurgent Army (UPA) is formed
+  - created as armed forces of Organization of Ukrainian Nationalists (OUN)
+  - both OUN and UPA supported the goal of an independent Ukrainian state
+- 1943 and later - UPA massacres ethnic Poles in the Volhynia and Eastern Galicia regions
+  - around 100k Polish civilians are killed
+  - that way OUN tries to establish homogenous Ukrainian state without Polish minority within its borders
+- until 1950s - UPA keeps fighting against the USSR
+  - at the same time Ukrainian Liberation Army fights alongside the German Nazis
 
 ### 1945 - 2000
 
+- 1945 - Ukrainian SSR becomes one of the founding member of the United Nations (UN)
+  - it is possible because Ukrainian SSR passes amendments to the Constitution that allows it to act both as a separate entity in certain cases while remaning a part of the Soviet Union
+- 1946-1947 - famine
+- 1953 - Stalin dies, Nikita Khrushchev becomes new USSR leader
+  - begins 'De-Stalinization' and 'Khrushchev Thaw' - reforms aimed at relaxing oppressive policies
+  - Crimea becomes part of Ukrainian SSR, formally as a 'friendship gift'
+  - at this point Ukraine forms its final shape that remains internationally recognized to this day
+- 1950s-1980s - period of post-war rebuild
+  - by 1950 Ukraine becomes a European leader in industrial production
+    - it also becomes the centre of Soviet arms industry and high-tech research
+  - Soviet government invests a lot in hydroelectric and nuclear power projects
+- April 1986 - Chernobyl nuclear power plant disaster
 - 1988-1991 - USSR collapses. 15 former Soviet republics, including Russia and Ukraine, declare independence
 - November 1990 - Treaty on Conventional Armed Forces in Europe is signed
   - signed by:
     - the then-16 NATO members
     - then-6 Warsaw Treaty states, including Soviet Union
   - ratified 1992
+- 24 August 1991 - Ukraine declares itself an independent state
+  - 90% of citizens vote for independence from the Soviet Union
+  - 56% of ethnic Russians in Crimea also vote for it
+- December 1991 - July 1994 - Leonid Kravchuk serves as the first president of Ukraine
+- 2 December 1991 - Poland and Canada recognize Ukraine's independence as the first countries
 - 5 December 1994 - Budapest Memorandum
+  - 3 political agreements signed by Ukraine with Russia, UK and the USA
+  - Russia, UK and USA are prohibited from threating or using military force against Ukraine, Belarus and Kazakhstan except in self-defence
+  - in exchange, Belarus, Kazakhstan and Ukraine give up their nuclear weaponry
+- July 1994 - Leonid Kuchma is elected as the second president of Ukraine
+  - remains in office for two consecutive terms until 2005
 - December 1994 - August 1996 - First Chechen War
   - Chechen Republic of Ichkeria against Russia and loyalist opposition
   - Chechnya wins and remains de facto independent until the second war
   - Russia withdraws its military
+- Ukraine gives up their last nuclear warheads to Russia in 1996, effectively becoming a non-nuclear nation
+- June 1996 - Ukraine adopts its constitution
 - March 1997 - June 1998 - President Boris Yeltsin appoints Vladimir Putin deputy chef of the Presidential Staff
 - August 1999 - April 2009 - Second Chechen War between Chechnya and Russian Federation
 - July 1998 - President Boris Yeltsin appoints Putin director of FSB (Federal Security Service)
 - August 1998 - Yeltsin appoints Putin acting prime minister and points at him as his successor. Putin runs the presidency
 - March 1999 - Poland, Czechia and Hungary join NATO
   - from Russian point of view it can be viewed as a change in the European architecture of warfare theater
-  - NATO gets closer to Russian borders  
+  - NATO gets closer to Russian borders
 - 31 December 1999 - Yeltsin resigns, Putin becomes Acting President of Russian Federation
 - March 2000 - presidential election. Putin wins in the first round with 53% of votes
 
@@ -85,7 +120,7 @@ Some of the events may be unrelated.
   - Russians suggest collision with NATO submarine but no evidence is given to support this statement
   - Putin blames media and oligarchs for the poor state of Russian military
 - September 2001 - 9/11 attacks in the US. Russia offers sympathy and help in war against terrorism
-  - Period of friendly cooperation between the USA and Russia in terms of intelligence and logistics  
+  - Period of friendly cooperation between the USA and Russia in terms of intelligence and logistics
 - October 2001 - Russia discontinues military bases in Cuba and Vietnam
   - an act of good will of Russia towards the USA
   - according to Putin the USA never paid back for that present
@@ -160,6 +195,7 @@ Some of the events may be unrelated.
 - https://en.wikipedia.org/wiki/Ukraine
 - https://en.wikipedia.org/wiki/Ukrainian_Soviet_Republic
 - https://en.wikipedia.org/wiki/Ukrainian_Soviet_Socialist_Republic
+- https://en.wikipedia.org/wiki/Modern_history_of_Ukraine
 - https://en.wikipedia.org/wiki/Great_Purge
 - https://en.wikipedia.org/wiki/Budapest_Memorandum
 - https://en.wikipedia.org/wiki/Vladimir_Putin
