@@ -7,6 +7,7 @@ This list contains games that:
 
 Sorted alphabetically.
 
+- Cross the Moon
 - Forza Horizon 2 - going through single player content
 - Forza Horizon 5 - going through single player content, playing with friends
 - Lumines Remastered - trying to unlock endless mode, I miss just one skin
