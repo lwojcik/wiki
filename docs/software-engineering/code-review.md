@@ -78,3 +78,4 @@ Good companies should have their own standards of code review. If not, I try to 
 
 - https://www.youtube.com/watch?v=bLyl4VDNPyY
 - https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture
+- https://the.curlybracket.net/2020/08/24/nitpicking.html
