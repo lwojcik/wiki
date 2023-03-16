@@ -38,8 +38,6 @@ https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/
 
 https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/
 
-https://defensivecss.dev/
-
 https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
 
 https://help.archive.org/help/how-do-i-request-to-remove-something-from-archive-org/
