@@ -90,10 +90,6 @@ https://web.archive.org/web/20210212022243/https://web.archive.org/web/201706281
 
 https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
 
-https://una.im/css-color-theming/
-
-https://blog.logrocket.com/building-color-palette-css/
-
 https://uses.tech/
 
 https://hbr.org/2022/12/what-to-do-when-a-direct-report-is-bullying-you
