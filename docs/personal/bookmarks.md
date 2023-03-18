@@ -8,6 +8,8 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://www.section.io/engineering-education/why-unikernels-may-soon-replace-docker/ 
+
 https://browser.engineering/
 
 https://controlaltdelete.technology/index.html
@@ -35,8 +37,6 @@ https://www.manchester.ac.uk/discover/news/researchers-discover-when-its-good-to
 https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/
 
 https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/
-
-https://defensivecss.dev/
 
 https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
 
@@ -89,10 +89,6 @@ https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues
 https://web.archive.org/web/20210212022243/https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html
 
 https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
-
-https://una.im/css-color-theming/
-
-https://blog.logrocket.com/building-color-palette-css/
 
 https://uses.tech/
 
