@@ -1,6 +1,6 @@
 # React
 
-User interface framework using developed by Facebook.
+User interface framework developed by Facebook.
 
 ## Assorted links
 
