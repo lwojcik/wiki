@@ -1,4 +1,4 @@
-# My political compass
+# My Political Compass
 
 I'm aware of opinions that the political compass is so imprecise it should be considered as a meme. However, it's proven to be a nice conversation starter and I see value in it as a thought-provoking exercise followed by reflection on current state on politics in my country.
 

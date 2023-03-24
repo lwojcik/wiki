@@ -1,4 +1,4 @@
-# Code review
+# Code Review
 
 Code review is a process intended to ensure better software quality in which one or few people look at source code and share ideas for improvement.
 
@@ -40,7 +40,7 @@ It is a common practice in companies where teams of engineers work simultaneousl
 
 - it's an egoless process. Not a competition. There's nothing personal about it
 - it's much more difficult to read and maintain code than to write it
-  - code review is meant to make this easy enough to alleviate any future pains 
+  - code review is meant to make this easy enough to alleviate any future pains
 - it's the easiest way to learn craft. You're being given solutions to common problems on a golden platter by other people who wish you the best
 - it's a great way to discover new techniques and approaches you may not be aware
 - it's good to have another pair of eyes in case we make mistakes
@@ -55,7 +55,7 @@ Good companies should have their own standards of code review. If not, I try to 
 - ensure the pull request follows agreed conventions about description, commit messages, etc.
   - e.g. contains a Jira number of the task in question and / or short description
 - if my team uses the notion of Definiton of Done / Acceptance Criteria - check if task description states it clearly and the pull request meets it
-- ensure feature branch is up-to-date against target branch and contains no conflicts  
+- ensure feature branch is up-to-date against target branch and contains no conflicts
 - read the task description. Ensure I have understanding of the problem being solved
 - clone the feature branch to my computer
 - ensure I can launch the project
@@ -71,7 +71,7 @@ Good companies should have their own standards of code review. If not, I try to 
 - ensure names don't contain typo
 - ensure potential errors are sufficiently handled
 - ensure there's no code repetitions that could be abstracted away without obstructing understanding
-- ensure relevant components are placed in places they belong to (e.g. constants, stubs, helpers, types) 
+- ensure relevant components are placed in places they belong to (e.g. constants, stubs, helpers, types)
 - ensure there's no accidental way for a human to fall off the happy path while using the feature
 
 ## Links

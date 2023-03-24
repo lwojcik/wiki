@@ -1,4 +1,4 @@
-# Wearable devices
+# Wearable Devices
 
 Class of electronic devices that are designed to wear as part of clothing or an accessory, excluding headsets, portable music players and a few others. They may share or derive their roots from [mobile devices](/mobile-devices/), but in my opinion they are significant enough to form a separate category.
 

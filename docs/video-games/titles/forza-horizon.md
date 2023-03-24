@@ -1,0 +1,36 @@
+# Forza Horizon
+
+- Got a physical copy, completed on Xbox Series X in early 2023
+- Aged reasonably well, but the graphics is a little dated and it runs in 30fps :(
+  - I saw people emulating it but I never dug into it
+- Online component missing, expansion packs aren't available any more
+- Super nostalgic journey
+  - unlike modern installments, the game had fully fledged story and a memorable villain
+    - and we play as an ordinary festival participant rather than uber-boss, hence we have to work our way up
+  - there's something emotional about seeing where it all began
+  - real life references, real companies acting as 'sponsors'
+  - the whole festival vibe feels very convincing
+- mostly racing events (which I didn't mind)
+  - no offroad - free roaming outside of roads is not possible except a few open areas
+  - a few rally races are present-
+    - but just like in other installments, rally usually means 90% asphalt, 10% dirt
+    - speed traps and speed zones available
+      - traffic isn't ghosted so they're a bit frustrating to do if you played Forza Horizon 4
+  - a few things to do involve drifting but cars are very poorly tuned for that
+- perhaps the most memorable soundtrack in the whole franchise that elevates this game to a completely different level
+  - Porter Robinson - Language
+    - game menu song
+  - Rusko - Everyday (Netsky VIP Remix)
+    - introductory racing song
+    - don't confuse it with Netsky Remix (without the VIP part), which sounds similar, but doesn't have the same vibe
+  - Avicii - Levels (Skrillex Remix)
+    - one of the songs used in the introductory cut scene
+  - Benny Benassi - Cinema (Skrillex Remix)
+  - Blind Faith ft. Liam Bailey - Chase and Status (No More Idols)
+  - Digitalism - Encore
+  - DJ Fresh ft. Dizzee Rascal - The Power
+  - Modestep - Show Me A Sign
+  - Mord Fustang - Lick The Rainbow
+  - New Order - Blue Monday 88
+  - Rusko - Somebody To Love (Sigma Remix)
+  - and MANY more

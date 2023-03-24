@@ -70,6 +70,10 @@ Games belonging to this franchise share the following characteristics:
   - online racing, ranked and unranked modes
   - groups of players can form convoys and cruise across the map
 
+## My notes on single installments
+
+- [Forza Horizon](../../titles/forza-horizon.md)
+
 ## Personal notes
 
 - I was 'infected' with Forza Horizon franchise on [blu's Twitch stream](https://www.twitch.tv/blu_fall)
