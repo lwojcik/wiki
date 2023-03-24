@@ -8,6 +8,8 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164
+
 https://overreacted.io/npm-audit-broken-by-design/
 
 https://www.section.io/engineering-education/why-unikernels-may-soon-replace-docker/
