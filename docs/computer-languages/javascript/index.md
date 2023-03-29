@@ -8,6 +8,7 @@
   - Netscape also considered embedding Sun's Java language
   - eventually Eich was asked to create a language with syntax similar to Java
   - the language was briefly called LiveScript, but it was renamed to JavaScript
+  - **development done in 10 days! :O**
 - developed to this day, follows ECMAScript standard
 
 Can be used in a few ways:
