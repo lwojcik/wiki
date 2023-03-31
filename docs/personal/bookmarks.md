@@ -8,6 +8,8 @@ See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-q
 
 ## Links
 
+https://www.nature.com/articles/d41586-023-00890-9
+
 https://medium.com/@dbottiau/the-rise-of-the-serverless-monoliths-63d3d2d98164
 
 https://overreacted.io/npm-audit-broken-by-design/
