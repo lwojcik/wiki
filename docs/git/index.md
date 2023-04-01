@@ -44,3 +44,7 @@ That's where graphical interfaces to GIT come handy.
 
 - https://git-scm.com/doc - official docs
 - https://ohshitgit.com/ - various problematic Git scenarios and ways to solve them
+
+## Assorted links
+
+- https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/ - This is how I git, by Daniel Stenberg, the author of Curl

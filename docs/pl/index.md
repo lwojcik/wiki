@@ -1,6 +1,5 @@
 ---
 title: Po polsku 🇵🇱
-slug: /pl/
 ---
 
 Tutaj będą notatki, których z różnych powodów nie ma sensu pisać po angielsku, bo nikt poza moimi rodakami z nich nie skorzysta.

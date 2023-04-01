@@ -1,0 +1,11 @@
+# Ciekawe Linki
+
+Linki do polskojęzycznych treści, na które trafiłem, przykuły moją uwagę i jeszcze nie wiem, co z nimi zrobić.
+
+Przeważająca większość tego, co czytam w internecie, jest tworzona po angielsku, jednak okazjonalnie trafiam na rzeczy tworzone przez Polaków, adresowane do Polaków i dotyczące Polaków.
+
+Anglojęzyczny odpowiednik tej strony 👉 [Bookmarks](../personal/bookmarks.md)
+
+## Linki
+
+- https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja/

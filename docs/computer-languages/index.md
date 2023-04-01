@@ -72,3 +72,7 @@ Languages I never wrote a single line of but I recognize their names. I may not 
 
 [^1]: [https://stackoverflow.com/questions/2497146/is-css-turing-complete](https://stackoverflow.com/questions/2497146/is-css-turing-complete)
 [^2]: [https://stackoverflow.com/questions/900055/is-sql-or-even-tsql-turing-complete](https://stackoverflow.com/questions/900055/is-sql-or-even-tsql-turing-complete)
+
+## Assorted links
+
+- https://www.programming-idioms.org/ - Programming Idioms in multiple languages

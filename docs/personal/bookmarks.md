@@ -6,17 +6,13 @@ I still use bookmarks bar in my browser and occasionally sync it with this page 
 
 See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/)
 
+For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
+
 ## Links
 
 https://observatory.db.erau.edu/generators/signs/
 
-https://www.seroundtable.com/google-on-lastmod-tag-in-xml-sitemap-34972.html
-
-https://www.spicyweb.dev/the-great-gaslighting-of-the-js-age/
-
 https://23khz.babka.net/
-
-https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja/
 
 https://pubmed.ncbi.nlm.nih.gov/24110034/
 
@@ -104,15 +100,11 @@ https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/
 
 https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
 
-https://www.htmhell.dev/adventcalendar/2022/19/
-
 https://www.uni-goettingen.de/de/document/download/bed2706fd34e29822004dbe29cd00bb5.pdf/Johannes_Haushofer_CV_of_Failures[1].pdf
 
 https://www.themarshallproject.org/2022/12/21/prison-banned-books-new-york-florida-censorship
 
 https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more
-
-https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
 
 https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883
 
@@ -131,8 +123,6 @@ https://www.eurovps.com/blog/20-ways-to-secure-linux-vps/
 https://medium.com/softonic-eng/docker-compose-from-development-to-production-88000124a57c
 
 https://www.freva.com/how-to-install-an-os-on-an-ssd-with-the-raspberry-pi-imager/
-
-https://geshan.com.np/blog/2019/11/how-to-use-docker-multi-stage-build/
 
 https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
 
@@ -198,8 +188,6 @@ https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-d
 
 https://mythirdbrain.substack.com/p/how-to-be-curious-for-yourself
 
-https://css-tricks.com/direction-aware-hover-effects/
-
 https://csswizardry.com/2020/05/the-fastest-google-fonts/
 
 https://www.filamentgroup.com/lab/font-events.html
@@ -210,11 +198,7 @@ https://www.smashingmagazine.com/2020/11/internationalization-localization-stati
 
 https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/
 
-https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/
-
 https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
-
-https://www.chrismytton.com/be-prolific/
 
 https://unixsheikh.com/articles/choose-your-browser-carefully.html
 
@@ -235,8 +219,6 @@ https://medium.com/@sairamkrish/simple-ansible-script-to-deploy-nodejs-microserv
 https://css-tricks.com/more-control-over-css-borders-with-background-image/
 
 https://medium.com/collaborne-engineering/typescript-create-library-for-nodejs-and-browser-fece291d517f
-
-https://listshareapp.com/
 
 https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
 
@@ -270,12 +252,6 @@ https://uxdesign.cc/7-web-typography-rules-27de68c60f6
 
 https://skeleventy.netlify.com/blog/post-3/
 
-https://ngrok.com/pricing
-
-https://danluu.com/learning-to-program/#fixing-totally-broken-danluu-com-wat-situations
-
-https://danluu.com/programmer-moneyball/
-
 https://markmcgranaghan.com/recruiting
 
 https://medium.com/swlh/how-i-structure-my-node-js-rest-apis-4e8904ccd2fb
@@ -284,27 +260,15 @@ https://manisuec.blog/2020/03/01/streams-nodejs.html
 
 https://fs.blog/mental-models/
 
-https://medium.com/@rivoltafilippo/why-you-should-use-generic-types-in-typescript-a-simple-example-4708e69a003b
-
 https://news.ycombinator.com/item?id=21858822
 
 https://leewarrick.com/blog/react-use-effect-explained/
 
 https://houssein.me/progressive-react
 
-https://blog-origin.adioma.com/tag/paul-graham/?utm_source=morning_brew
-
-https://payhip.com/b/09Od
-
-https://wattenberger.com/blog/react-hooks
-
-https://swr.now.sh/
-
-https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+https://blog-origin.adioma.com/tag/paul-graham/
 
 https://www.weci2i.com/articles/facebook-dumped-me/
-
-https://inessential.com/2019/11/03/this_feature_should_be_easy
 
 http://misc-stuff.terraaeon.com/articles/introverted-nerd.html
 
@@ -318,31 +282,17 @@ https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-t
 
 https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 
-https://tinacms.org/blog/announcing-tinacms/
-
 https://coderwall.com/p/oqtj8w/the-single-most-useful-thing-in-bash
 
 https://www.robinwieruch.de/react-rxjs-state-management-tutorial
 
 https://tombrow.com/dark-mode-website-css
 
-https://wattenberger.com/blog/react-hooks
-
-https://www.programming-idioms.org/
-
 https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/
-
-https://kentcdodds.com/blog/react-hooks-pitfalls
 
 https://nehalist.io/5-typescript-tips-to-improve-your-architecture/
 
-https://codepen.io/oliviale/full/mgWjpq
-
-https://dev.to/ananyaneogi/css-can-do-that-18g7
-
 https://every-layout.dev/
-
-https://blog.npmjs.org/post/184553141742/easy-automatic-npm-publishes
 
 https://medium.com/@liran.tal/demystifying-jest-async-testing-patterns-b730d4cca4ec
 
@@ -391,10 +341,10 @@ http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html
 
 http://idlewords.com/talks/website_obesity.htm
 
-https://www.commitstrip.com/en/2018/06/22/are-you-any-good-at-it/?
+https://www.commitstrip.com/en/2018/06/22/are-you-any-good-at-it/
 
-https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/?utm_source=nodeweekly&utm_medium=email
+https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.2kxre8bx7
 
-https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.cud4bcods
+https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f

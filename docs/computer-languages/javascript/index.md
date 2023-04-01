@@ -26,4 +26,4 @@ Can be used in a few ways:
 - https://github.com/tc39/proposals - actice ECMAScript proposals
 - https://en.wikipedia.org/wiki/JavaScript
 - https://algassert.com/visualization/2014/03/27/Better-JS-Equality-Table.html
-- https://overreacted.io/npm-audit-broken-by-design/
+- https://payhip.com/b/09Od - Deep JavaScript, ebook by Dr. Axel Rauschmayer
