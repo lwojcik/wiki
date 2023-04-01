@@ -8,7 +8,8 @@ Nothing about this conflict is logical.
 
 - Russia won't win the war, either militarily or politically, for as long as:
   - NATO keeps supporting Ukraine
-  - no other country joins Russian side
+  - no other _powerful_ country joins Russian side
+    - support of countries like Serbia or Chechnya is largely irrelevant for the final result of the war
 - the war will end as soon as Russia depletes its military personnel
   - their current strategy is to send as many poorly armed soldiers as possible without the regard for their own losses or army morale
   - Ukraine has less people and they can't follow that strategy
@@ -17,7 +18,7 @@ Nothing about this conflict is logical.
 - NATO won't send military personnel to Ukraine for as long as Russia doesn't openly attack any other NATO country
   - if NATO soldiers show up in Ukraine (or if it's happening right now at all?), general public won't know about that immediately
 - whether Ukraine wins the war or not is a question of medium relevance, there are more important ones to answer
-  - of course I wish they retain control over all of their territories - including the separatist one - but I'm not sure if that's what's going to happen
+  - of course I wish they retain control over all of their territories - including the separatist ones - but I'm not sure if that's what's going to happen
   - moral and poltical victory doesn't change the fact Ukraine will spend a lot of money and labor to rebuild their country
   - the world - at least Europe - will be morally obligated to help Ukraine get back to shape
   - there will be strong pressure on Russia to pay reparations
@@ -30,8 +31,10 @@ Nothing about this conflict is logical.
   - Russian opposition is pretty much irrelevant for the time being
     - I doubt they'll manage to trigger any meaningful change
     - even if they do, there's no guarantee they'll indeed be any _better_
-      - I don't know who exactly opposition leaders are (e.g. Navalny) and what their exact endgame is
+      - I don't know what is the true nature of Russian opposition and what their exact endgame is
+        - [Alexei Navalny](./alexei-navalny.md), commonly regarded as the leader of Russian opposition, is a complicated persona
 - other countries, especially China, have influenced the war outcome in subtle ways but as a general public we don't know that officially
+  - it was speculated China said 'no' to locating nuclear weapons in Belarus
 - nuclear weaponry is scary, but its real purpose is to keep the other side from doing stupid things. Everyone loses if even one nuclear missile is launched
 - in case of war spreading over NATO countries, US military impact in Europe may be limited
   - they're on the other side of a huge puddle called the Atlantic Ocean and they need time to transport military equipment to Europe
@@ -55,11 +58,12 @@ A few selected people in the world know the answers already. General public will
 - what's the real stance of China and what's their desired outcome of war
   - I think their endgame is economic dominance and they need other countries to sell stuff to them
     - it doesn't matter if it's Russia or Europe
+    - Russia doesn't have many viable alternatives and they still are forced to sell for lower prices than they would like
   - they don't play well with the USA on political terms
     - see Donald Trump banning TikTok
     - or Huawei losing access to Google Play Store
   - war always creates economic opportunites for the selected few. And China may belong to them
-- will Belarus send their military personnel to join Russians
+- will Belarus send their military personnel to join Russians or provide more support
   - Belarus is clearly on Russian side, they allow Russia to use their territories for missile strikes
   - Lukashenko is merely Putin's puppet but he's _still_ a powerful dictator in his country
   - Belarussian opposition is stronger than the Russian one
@@ -80,6 +84,8 @@ A few selected people in the world know the answers already. General public will
   - but they _still_ have their own policy to may not be compatible with what NATO or EU wants
     - e.g. opposing Finland and Sweden join NATO without meeting their demands
       - [talks are in progress](https://www.reuters.com/world/europe/turkeys-nato-talks-with-sweden-finland-resume-march-9-2023-02-27/)
+      - March 2023: [Turkey eventually said yes to Finland](https://edition.cnn.com/2023/03/17/world/turkey-finland-nato-intl/index.html) after months of
+        - what _exactly_ happened here? What made Turkey change their mind?
 - what's the real stance of Hungary
   - despite being a NATO and EU member Hungarian government behaves very passively as if they supported the war but they were too scared to admit it publicly and I find it disgusting
     - [Orbán doesn't want to send aid to Ukraine](https://www.politico.eu/article/hungary-vetoes-ukraine-aid-eu-seeks-alternative-solution/)
@@ -91,7 +97,7 @@ A few selected people in the world know the answers already. General public will
   - by staying passive and refusing to clearly condemn one side Pope effectively supports the attacking side
   - it is not unusual to see Vatican being involved in international politics
     - e.g. pope John Paul II played a certain role in democratic changes in Europe in 20th century
-      - not the biggest and not as a alone superhero
+      - of course not the biggest and not as a alone superhero
   - so why is Pope Francis playing as if he was a Putin ally?
 
 ## Links
