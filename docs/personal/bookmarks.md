@@ -264,8 +264,6 @@ https://news.ycombinator.com/item?id=21858822
 
 https://leewarrick.com/blog/react-use-effect-explained/
 
-https://houssein.me/progressive-react
-
 https://blog-origin.adioma.com/tag/paul-graham/
 
 https://www.weci2i.com/articles/facebook-dumped-me/
