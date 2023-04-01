@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# Hello there! 👋
+# Luke's Wiki
 
 I'm [Łukasz](https://lukaszwojcik.net/) and this is my personal wiki. I use it to take notes and catalog stuff I know, want to know, find interesting or just care about in general.
 
