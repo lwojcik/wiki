@@ -32,6 +32,10 @@ Some of the events may be irrelevant or unrelated.
 
 - under construction
 
+## 2023
+
+- 4th April - Finland officially joins NATO
+
 ## Sources
 
 - https://en.wikipedia.org/wiki/Russo-Ukrainian_War
