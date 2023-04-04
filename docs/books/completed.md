@@ -18,5 +18,5 @@ Sorted alphabetically.
 - Silver Linings Playbook - Matthew Quick
 - Sophie's World - Jostein Gaarder
 - Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life - Mark Manson
-- This is esports (and How to Spell it) - Paul Chaloner and
+- This is esports (and How to Spell it) - Paul Chaloner
 - Ubik - Philip K. Dick
