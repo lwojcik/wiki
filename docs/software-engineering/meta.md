@@ -1,6 +1,6 @@
 # Meta
 
-Assorted links that partially, sometimes very indirectly, answer the question 'how to be a better software engineer'.
+Assorted links that partially, sometimes very indirectly, answer the question 'how to be a better software engineer' or 'how it's like to be a software engineer'.
 
 ## Links
 
@@ -8,3 +8,4 @@ Assorted links that partially, sometimes very indirectly, answer the question 'h
 - https://inessential.com/2019/11/03/this_feature_should_be_easy - This Feature Should Be Easy (it rarely is tho)
 - https://wizardzines.com/comics/bugs-are-normal/ - Writing code with bugs is normal
 - https://github.com/kamranahmedse/developer-roadmap - Developer roadmaps
+- https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/ - Programmer Interrupted: The Real Cost of Interruption and Context Switching
