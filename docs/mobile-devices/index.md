@@ -22,7 +22,7 @@ Those are devices that are in active duty as we speak
 
 Ordered alphabetically.
 
-- Amazon Kindle Paperwhite
+- Amazon Kindle Paperwhite 5 Signature Edition (2021) 
 - Samsung Galaxy A52 5G - work phone
 - Samsung Galaxy S21 FE 5G (SM-G990), codename Martini - personal daily driver
 - Samsung Galaxy Tab S7 FE (T736) - tablet with stylus
@@ -33,6 +33,7 @@ Those are devices that used to be my daily drivers.
 
 Ordered alphabetically.
 
+- Amazon Kindle Paperwhite 2
 - [Apple iPhone 3GS](./iphone/3gs/)
 - Archos 80 G9 Turbo
 - Motorola V2288
