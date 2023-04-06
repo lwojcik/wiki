@@ -64,8 +64,6 @@ https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_sc
 
 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/internet-explorer-11-desktop-app-retirement-faq/ba-p/2366549
 
-https://rachelbythebay.com/w/2013/02/20/toast/
-
 https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/
 
 https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
