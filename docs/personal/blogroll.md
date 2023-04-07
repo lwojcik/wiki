@@ -6,6 +6,7 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 
 ## Links
 
+- https://www.dannyguo.com/blog
 - https://controlaltdelete.technology/
 - https://photogabble.co.uk/
 - https://www.zachleat.com/
