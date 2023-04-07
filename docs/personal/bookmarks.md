@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://gource.io/
+
 https://pythonislove.com/docker-101
 
 https://kindlemodding.gitbook.io/kindlemodding/
