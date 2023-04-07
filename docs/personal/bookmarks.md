@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://robotic.substack.com/p/behind-the-curtain-ai
+
 https://gource.io/
 
 https://pythonislove.com/docker-101
