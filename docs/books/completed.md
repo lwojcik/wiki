@@ -6,6 +6,7 @@ Permanently incomplete no matter how hard I try.
 
 Sorted alphabetically.
 
+- Byłem księdzem - Roman Kotliński
 - Decline and Fall of IBM: End of an American Icon? - Robert X Cringely
 - Finansowy Ninja - Michał Szafrański
 - Ender's Game - Orson Scott Card
