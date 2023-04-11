@@ -2,6 +2,7 @@
 
 Various resources related to AI.
 
+- https://platform.openai.com/docs/plugins/bot - user agent and IPs used by ChatGPT plugins
 - https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/ - How to Block ChatGPT From Using Your Website Content
 - https://geekflare.com/stop-chatgpt-plugins-from-scraping-website/ - How to Stop ChatGPT Plugins from Scraping Your Website Content
 - https://www.youtube.com/watch?v=9EN_HoEk3KY - Ilya Sutskever: OpenAI Meta-Learning and Self-Play | MIT Artificial General Intelligence (AGI) (2018)
