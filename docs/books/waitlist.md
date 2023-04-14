@@ -20,3 +20,4 @@ Sorted alphabetically.
 - Code Work: Hacking across the US/México Techno-Borderlands - Héctor Beltrán - [available 14 November 2023](https://press.princeton.edu/books/paperback/9780691245041/code-work)
 - Najlepsze miejsce na świecie. Gdzie Wschód zderza się z Zachodem - Jacek Bartosiak
 - Black Sci-Fi Short Stories (Gothic Fantasy) - Tia Ross, Dr. Sandra M. Grayson, Temi Oh
+- The Elements of Digital Ethics by Per Axbom - https://debook.axbom.com/
