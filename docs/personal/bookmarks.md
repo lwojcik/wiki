@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://keepassxc.org/blog/2023-04-15-audit-report/
+
 https://www.usethehumanvoice.com/formats/
 
 https://siteinspire.com
