@@ -10,6 +10,18 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://siteinspire.com
+
+https://landings.dev
+
+https://godly.website 
+
+https://landingfolio.com
+
+https://minimal.Gallery
+
+https://hoverstat.es
+
 https://perell.com/essay/50-ideas-that-changed-my-life/
 
 https://robotic.substack.com/p/behind-the-curtain-ai
