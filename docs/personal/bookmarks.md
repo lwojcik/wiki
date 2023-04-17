@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.usethehumanvoice.com/formats/
+
 https://siteinspire.com
 
 https://landings.dev
