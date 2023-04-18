@@ -2,6 +2,11 @@
 
 Various resources related to AI.
 
+
+## Interesting tools
+
+- https://gpt4all.io/ - locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot
+
 ## Unsorted
 
 - https://platform.openai.com/docs/plugins/bot - user agent and IPs used by ChatGPT plugins
@@ -12,7 +17,3 @@ Various resources related to AI.
 - https://www.youtube.com/watch?v=L_Guz73e6fw -  Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast 367 (March 2023)
 - https://arxiv.org/abs/2209.15259 - SoK: On the Impossible Security of Very Large Foundation Models
 - https://www.nytimes.com/2023/04/07/technology/ai-chatbots-google-microsoft.html - In A.I. Race, Microsoft and Google Choose Speed Over Caution
-
-## Interesting tools
-
-- https://gpt4all.io/ - locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot
