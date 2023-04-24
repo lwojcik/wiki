@@ -21,3 +21,4 @@ Sorted alphabetically.
 - Najlepsze miejsce na świecie. Gdzie Wschód zderza się z Zachodem - Jacek Bartosiak
 - Black Sci-Fi Short Stories (Gothic Fantasy) - Tia Ross, Dr. Sandra M. Grayson, Temi Oh
 - The Elements of Digital Ethics by Per Axbom - https://debook.axbom.com/
+- Dominik Héjj - Węgry na nowo. Jak Viktor Orbán zaprogramował narodową tożsamość - https://upolujebooka.pl/oferta,159780,wegry_na_nowo_jak_viktor_orbn_zaprogramowal_narodowa_tozsamosc.html
