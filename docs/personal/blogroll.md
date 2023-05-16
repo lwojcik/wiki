@@ -26,3 +26,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://misterwilliamreilly.com/blog/
 - https://robbowen.digital/writing
 - https://daverupert.com/
+- https://honeypot.net/
