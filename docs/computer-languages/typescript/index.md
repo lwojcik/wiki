@@ -1,6 +1,6 @@
 # TypeScript
 
-Typed subset of JavaScript.
+JavaScript with types.
 
 ## Assorted links
 
