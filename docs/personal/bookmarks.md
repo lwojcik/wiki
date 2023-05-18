@@ -10,6 +10,12 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.wired.co.uk/article/dark-mode-chrome-android-ios-science
+
+https://pubmed.ncbi.nlm.nih.gov/23654206/
+
+https://wppool.dev/is-dark-mode-better-for-your-eyes/
+
 https://9to5google.com/2023/05/03/gmail-blue-checkmark/
 
 https://keepassxc.org/blog/2023-04-15-audit-report/
