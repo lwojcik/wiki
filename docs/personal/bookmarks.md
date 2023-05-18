@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://old.reddit.com/r/ExperiencedDevs/comments/13k4x51/i_investigated_the_underground_economy_of/
+
 https://www.wired.co.uk/article/dark-mode-chrome-android-ios-science
 
 https://pubmed.ncbi.nlm.nih.gov/23654206/
