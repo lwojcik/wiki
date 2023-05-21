@@ -62,6 +62,7 @@ Sorted alphabetically.
 - Fall Guys: Ultimate Knockout
 - FIFA 98: Road to the World Cup
 - Fortnite
+- Forza Horizon 5
 - Forza Motorsport 7
 - Fruit Ninja
 - Grand Theft Auto 2

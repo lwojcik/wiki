@@ -6,7 +6,7 @@
 - okay, "completed" is a bit of an overstatement, but I stick to it
   - I saw one out of 7 endings (took around 5-6 hours + 30-minute downtime)
 - I loved the concept
-  - I loved how devs were poking around the 4th wall showing player stats
+  - I loved how devs were poking around the 4th wall by showing stats of other players' choices
   - It's dark and horrorish but still believable
   - gives me Black Mirror: Bandersnatch vibes
   - soundtrack really sets the mood

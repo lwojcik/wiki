@@ -11,7 +11,6 @@ Sorted alphabetically.
 - The Crew: Motorfest
 - Cyberpunk 2077
 - Grand Theft Auto VI
-- Red Dead Redemption
 - Splatoon 2
 - Splatoon 3
 - Test Drive Unlimited: Solar Crown

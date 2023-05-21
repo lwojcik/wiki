@@ -31,6 +31,7 @@ Sorted alphabetically.
 - Far Cry 3
 - Far Cry 5
 - Forza Horizon
+- Forza Horizon 2
 - Forza Horizon 3
 - Forza Horizon 4
 - Grand Theft Auto

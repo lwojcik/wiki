@@ -13,8 +13,10 @@ Currently I do not do any active research around AI but I sometimes encounter an
   - [Craiyon](https://www.craiyon.com/)
 - rescaling / enhancement of existing images and videos:
   - [EnhanceFox AI](https://play.google.com/store/apps/details?id=com.changpeng.enhancefox)
+  - [ihancer](https://play.google.com/store/apps/details?id=com.appsmotor.imageenhancer)
   - anything that comes up at 'ai image resize' on Google Play / App Store
 - programming help
+  - [CodeGeeX](https://codegeex.cn/)
   - [GitHub Copilot](https://github.com/features/copilot)
 - conversations
   - [ChatGPT](https://chat.openai.com/)
@@ -24,7 +26,7 @@ Currently I do not do any active research around AI but I sometimes encounter an
 - I'm still studying impact and concerns about AI
 - I'm aware image generation relies on using other people's works and I [sympathize with artists protesting against that](https://www.socialmediatoday.com/news/Artists-Launch-Legal-Action-to-Stop-AI-Generative-Tools-Using-Their-Work/640461/)
   - I used Dall-E-generated images on [my blog](https://offbeatbits.com) until I learnt of the above
-  - I noticed AI-generated art often looks creepy and grabs my attention from the work it's included with
+  - I noticed AI-generated art often looks creepy and distracts my attention
 - AI without boundaries will inevitably turn into a tool for abuse in ways I'm currently not aware of
 - AI is surprisingly efficient at enhancing images of very poor quality, e.g. taken with early digital cameras or old phones
   - its impact is often very limited to specific areas - e.g. tools that are great at retouching people's faces but mediocre at processing other parts of the image

@@ -2,6 +2,8 @@
 
 Medium for recording information in written form, typically separated into pages.
 
+For notes on Polish books I read, see the section 👉 [Książki](../pl/ksiazki/index.md)
+
 ## Personal notes
 
 - I don't have preference about books vs e-books, I love both formats for different things

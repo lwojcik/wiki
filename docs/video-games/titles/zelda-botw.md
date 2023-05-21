@@ -21,5 +21,4 @@ One of my first games on [Nintendo Switch](../../video-game-consoles/nintendo-sw
 ## Links
 
 - https://www.youtube.com/watch?v=QyMsF31NdNc - Nintendo discussing how some of the convention-breaking mechanics were implemented
-- https://www.youtube.com/watch?v=hMpjSCnfTdw - multiplayer mod
 - https://www.speedrun.com/botw - speedrun leaderboards

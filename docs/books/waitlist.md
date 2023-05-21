@@ -22,5 +22,5 @@ Sorted alphabetically.
 - Black Sci-Fi Short Stories (Gothic Fantasy) - Tia Ross, Dr. Sandra M. Grayson, Temi Oh
 - The Elements of Digital Ethics by Per Axbom - https://debook.axbom.com/
 - Dominik Héjj - Węgry na nowo. Jak Viktor Orbán zaprogramował narodową tożsamość - https://upolujebooka.pl/oferta,159780,wegry_na_nowo_jak_viktor_orbn_zaprogramowal_narodowa_tozsamosc.html
--  Rebecca Giblin, Cory Doctorow - Chokepoint Capitalism: How Big Tech and Big Content Captured Creative Labor Markets and How We'll Win Them Back  https://chokepointcapitalism.com/
--  Blake J. Harris - Console Wars: Sega, Nintendo, and the Battle that Defined a Generation - https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/1483004244
+- Rebecca Giblin, Cory Doctorow - Chokepoint Capitalism: How Big Tech and Big Content Captured Creative Labor Markets and How We'll Win Them Back  https://chokepointcapitalism.com/
+- Blake J. Harris - Console Wars: Sega, Nintendo, and the Battle that Defined a Generation - https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/1483004244
