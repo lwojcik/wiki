@@ -2,7 +2,7 @@
 
 Links related to any aspect of music production, mostly using computers and software.
 
-Decades ago I played a bit with MAGIX Music Maker and I have shallow understanding how it all works. Trying out modern tools for music production is somewhere on my wishlist though.
+Decades ago I played a bit with MAGIX Music Maker and I have shallow understanding how it all works. Trying out modern tools for music production is somewhere on my wishlist.
 
 ## DAWs (Digital Audio Workstations)
 
