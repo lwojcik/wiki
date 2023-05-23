@@ -15,6 +15,7 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 - https://ardour.org/ - Ardour (open source)
 - https://www.eclipsedsounds.com/solaria - English native AI vocalist that provides a professional quality singer
 - https://www.audiotool.com/ - collaborative music production tool
+- https://www.presonus.com/en-US/studio-one.html - Studio One
 
 ## Tutorials
 
