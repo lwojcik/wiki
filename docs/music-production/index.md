@@ -13,7 +13,6 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 - https://www.renoise.com/ - Renoise
 - https://dirtywave.com/ - DirtyWave - Synthesizer + Sampler + Sequencer
 - https://ardour.org/ - Ardour (open source)
-- https://www.eclipsedsounds.com/solaria - English native AI vocalist that provides a professional quality singer
 - https://www.audiotool.com/ - collaborative music production tool
 - https://www.presonus.com/en-US/studio-one.html - Studio One
 
@@ -34,3 +33,4 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 ## Other tools
 
 - https://www.scales-chords.com/
+- https://www.eclipsedsounds.com/solaria - English native AI vocalist that provides a professional quality singer
