@@ -4,7 +4,7 @@ Links related to any aspect of music production, mostly using computers and soft
 
 Decades ago I played a bit with MAGIX Music Maker and I have shallow understanding how it all works. Trying out modern tools for music production is somewhere on my wishlist though.
 
-## Software / tools
+## DAWs (Digital Audio Workstations)
 
 - https://www.ableton.com/en/ - Ableton Live
 - https://www.image-line.com/ - FL Studio
@@ -29,3 +29,7 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 
 - https://citizen-dj.labs.loc.gov/
 - https://www.spitfireaudio.com/bbc-symphony-orchestra-discover
+
+## Other tools
+
+- https://www.scales-chords.com/
