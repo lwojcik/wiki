@@ -34,4 +34,5 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 ## Other tools
 
 - https://www.scales-chords.com/
+- https://www.antarestech.com/ - Auto-Tune
 - https://www.eclipsedsounds.com/solaria - English native AI vocalist that provides a professional quality singer
