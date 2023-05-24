@@ -7,6 +7,7 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 ## DAWs (Digital Audio Workstations)
 
 - https://www.ableton.com/en/ - Ableton Live
+- https://www.avid.com/pro-tools - Avid Pro Tools
 - https://www.image-line.com/ - FL Studio
 - https://glicol.org/ - Glicol, next-generation computer music language
 - https://www.bitwig.com/ - Bitwig Studio
