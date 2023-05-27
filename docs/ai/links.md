@@ -17,3 +17,4 @@ Various resources related to AI.
 - https://arxiv.org/abs/2209.15259 - SoK: On the Impossible Security of Very Large Foundation Models
 - https://www.nytimes.com/2023/04/07/technology/ai-chatbots-google-microsoft.html - In A.I. Race, Microsoft and Google Choose Speed Over Caution
 - https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html - How to talk about A.I. like an insider
+- https://rodneybrooks.com/what-will-transformers-transform/ - What Will Transformers Transform
