@@ -13,6 +13,7 @@ Quite a few in Polish. My foreign friends - always try checking if subtitles are
 - https://www.youtube.com/@MarcinStrzyzewskioRosji
 - https://www.youtube.com/@GoodTimesBadTimesPL
 - https://www.youtube.com/@GoodTimesBadTimes - English
+- https://www.youtube.com/@GoodTimesBadTimesES - Spanish
 - https://www.youtube.com/channel/UCApcGjfy1TV704c8mQ-F7nQ - French
 - https://www.youtube.com/channel/UCbF9Crz7tLbGqjv62tR4xeQ - German
 - https://www.youtube.com/channel/UCQKtoxFtQA2dd7VXOt38PKA - Russian
