@@ -28,3 +28,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://daverupert.com/
 - https://honeypot.net/
 - https://morepablo.com/
+- https://www.jimsrules.com/
