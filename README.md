@@ -3,6 +3,7 @@
 ## Quick links (mostly for myself)
 
 - [Bookmarks](./docs/personal/bookmarks.md)
+- [Blogroll](./docs/personal/blogroll.md)
 
 ## License
 
