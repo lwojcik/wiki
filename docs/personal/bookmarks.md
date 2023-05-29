@@ -382,3 +382,5 @@ https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-s
 https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108#.2kxre8bx7
 
 https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f
+
+https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/
