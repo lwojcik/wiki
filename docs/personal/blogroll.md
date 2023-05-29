@@ -31,3 +31,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://www.jimsrules.com/
 - https://www.jerixmx.com/
 - https://roundingoffinfinity.com/
+- https://words.theresnotime.co.uk/
