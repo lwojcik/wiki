@@ -388,3 +388,5 @@ https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-cli
 https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/
 
 https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
+
+https://european-alternatives.eu/
