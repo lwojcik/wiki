@@ -384,3 +384,7 @@ https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3
 https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f
 
 https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/
+
+https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/
+
+https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
