@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html
+
 https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html
 
 https://old.reddit.com/r/ExperiencedDevs/comments/13k4x51/i_investigated_the_underground_economy_of/
