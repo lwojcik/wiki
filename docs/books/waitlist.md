@@ -25,3 +25,4 @@ Sorted alphabetically.
 - Rebecca Giblin, Cory Doctorow - Chokepoint Capitalism: How Big Tech and Big Content Captured Creative Labor Markets and How We'll Win Them Back  https://chokepointcapitalism.com/
 - Blake J. Harris - Console Wars: Sega, Nintendo, and the Battle that Defined a Generation - https://www.amazon.com/Console-Wars-Nintendo-Defined-Generation/dp/1483004244
 - Bartłomiej Kluska - Legendy gier wideo
+- Aleksander Kaczorowski - Prezydent. Aleksander Kwaśniewski w rozmowie z Aleksandrem Kaczorowskim - https://ebooki.swiatczytnikow.pl/ebook/9788324096404,aleksander-kaczorowski--prezydent-aleksander-kwasniewski-w-rozmowie-z-aleksandre.html
