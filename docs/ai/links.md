@@ -20,3 +20,5 @@ Various resources related to AI.
 - https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html - How to talk about A.I. like an insider
 - https://rodneybrooks.com/what-will-transformers-transform/ - What Will Transformers Transform
 - http://neil-clarke.com/ai-statement/ - Neil Clarke's AI statement 
+- https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/ - Japan Goes All In: Copyright Doesn’t Apply To AI Training
+- https://technomancers.ai/ai-regulation-is-dead-nvidia-killed-it/ - AI Regulation Is Dead, Nvidia Killed it
