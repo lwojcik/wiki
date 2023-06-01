@@ -21,4 +21,5 @@ Various resources related to AI.
 - https://rodneybrooks.com/what-will-transformers-transform/ - What Will Transformers Transform
 - http://neil-clarke.com/ai-statement/ - Neil Clarke's AI statement 
 - https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/ - Japan Goes All In: Copyright Doesn’t Apply To AI Training
+- https://asianews.network/japan-to-promote-use-of-generative-ai-while-addressing-risks/ - Japan to promote use of generative AI while addressing risks
 - https://technomancers.ai/ai-regulation-is-dead-nvidia-killed-it/ - AI Regulation Is Dead, Nvidia Killed it
