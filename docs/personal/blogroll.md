@@ -38,3 +38,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://agileotter.blogspot.com/
 - https://taeluralexis.com/
 - https://davestewart.co.uk/blog/
+- https://larsfosdal.blog/
