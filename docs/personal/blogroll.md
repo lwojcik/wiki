@@ -36,3 +36,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://lubieniebieski.pl/
 - https://www.jeremiahlee.com/posts/
 - https://agileotter.blogspot.com/
+- https://taeluralexis.com/
