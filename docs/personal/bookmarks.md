@@ -10,6 +10,14 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.developing.dev/p/maximizing-impact-in-the-layoff-era?utm_source=substack&utm_medium=email
+
+https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/
+
+https://blog.logrocket.com/product-management/how-to-give-receive-constructive-criticism-with-examples/
+
+https://github.com/readme/guides/engineering-career-success
+
 http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html
 
 https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html
