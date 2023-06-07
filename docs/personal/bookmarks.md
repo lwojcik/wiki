@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/
+
 https://jvns.ca/blog/2023/06/05/some-blogging-myths/
 
 https://www.developing.dev/p/maximizing-impact-in-the-layoff-era?utm_source=substack&utm_medium=email
