@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
+
 https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/
 
 https://jvns.ca/blog/2023/06/05/some-blogging-myths/
