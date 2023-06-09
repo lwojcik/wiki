@@ -23,3 +23,5 @@ Various resources related to AI.
 - https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/ - Japan Goes All In: Copyright Doesn’t Apply To AI Training
 - https://asianews.network/japan-to-promote-use-of-generative-ai-while-addressing-risks/ - Japan to promote use of generative AI while addressing risks
 - https://technomancers.ai/ai-regulation-is-dead-nvidia-killed-it/ - AI Regulation Is Dead, Nvidia Killed it
+- https://pmarca.substack.com/p/why-ai-will-save-the-world - Why AI Will Save The World, by Marc Andreessen
+- https://archive.is/yZDqA - Marc Andreessen Is (Mostly) Wrong This Time
