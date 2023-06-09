@@ -6,6 +6,10 @@ Various resources related to AI.
 
 - https://gpt4all.io/ - locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot
 
+## Tutorials / Manuals / Howtos
+
+- https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a - How to Create Your Local LLM Model
+
 ## Unsorted
 
 - https://platform.openai.com/docs/plugins/bot - user agent and IPs used by ChatGPT plugins
