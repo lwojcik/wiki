@@ -10,6 +10,10 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption
+
+https://www.youtube.com/watch?v=3albqwME4V0
+
 https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
 
 https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/
