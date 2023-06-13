@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://levelup.gitconnected.com/when-github-actions-get-painful-to-troubleshoot-try-this-instead-9a134c9e9baf
+
 https://www.optoutproject.net/
 
 https://chriscoyier.net/2023/06/06/modern-css-in-real-life/
