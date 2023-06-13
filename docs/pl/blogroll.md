@@ -7,3 +7,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 ## Linki
 
 - https://fuse.pl/beton/
+- https://www.marcinsocha.pl/
