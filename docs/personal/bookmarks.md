@@ -10,6 +10,10 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.cyberdemon.org/2023/06/14/reddit-moat.html
+
+https://defector.com/the-last-page-of-the-internet
+
 https://levelup.gitconnected.com/when-github-actions-get-painful-to-troubleshoot-try-this-instead-9a134c9e9baf
 
 https://www.optoutproject.net/
