@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://leahreich.substack.com/p/who-gets-to-have-it-all
+
 https://dev.to/dragosnedelcu/9-senior-developer-mental-models-every-programmer-should-master-1jlk
 
 https://www.cyberdemon.org/2023/06/14/reddit-moat.html
