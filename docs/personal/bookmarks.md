@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f
+
 https://archive.is/92VkK
 
 https://leahreich.substack.com/p/who-gets-to-have-it-all
