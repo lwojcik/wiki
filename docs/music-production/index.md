@@ -10,11 +10,12 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 - https://www.avid.com/pro-tools - Avid Pro Tools
 - https://www.image-line.com/ - FL Studio
 - https://glicol.org/ - Glicol, next-generation computer music language
+- https://lmms.io/ - LMMS - free, cross-platform
 - https://www.bitwig.com/ - Bitwig Studio
 - https://www.renoise.com/ - Renoise
 - https://dirtywave.com/ - DirtyWave - Synthesizer + Sampler + Sequencer
 - https://ardour.org/ - Ardour (open source)
-- https://www.audiotool.com/ - collaborative music production tool
+- https://www.audiotool.com/ - in-browser collaborative music production tool
 - https://www.presonus.com/en-US/studio-one.html - Studio One
 
 ## Tutorials
