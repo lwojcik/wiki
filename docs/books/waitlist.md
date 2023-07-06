@@ -27,3 +27,4 @@ Sorted alphabetically.
 - Bartłomiej Kluska - Legendy gier wideo
 - Aleksander Kaczorowski - Prezydent. Aleksander Kwaśniewski w rozmowie z Aleksandrem Kaczorowskim - https://ebooki.swiatczytnikow.pl/ebook/9788324096404,aleksander-kaczorowski--prezydent-aleksander-kwasniewski-w-rozmowie-z-aleksandre.html
 - Bartosz Borkowski - Ku wojnie. Oblicza XX wieku
+-  Kit Yates - How to Expect the Unexpected: The Science of Making Predictions and the Art of Knowing When Not To - https://geni.us/KitYatesBooks
