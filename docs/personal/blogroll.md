@@ -6,6 +6,7 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 
 ## Links
 
+- https://web.koyu.space/
 - https://drewdevault.com/
 - https://www.dannyguo.com/blog
 - https://controlaltdelete.technology/
