@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.oddbird.net/2023/07/05/contain-root/
+
 https://www.wired.com/story/tiktok-platforms-cory-doctorow/
 
 https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f
