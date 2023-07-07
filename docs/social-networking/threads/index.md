@@ -2,6 +2,8 @@
 
 [Threads](https://www.threads.net) is a proprietary social media platform built by Meta (aka Facebook) and derived from Instagram.
 
+Similar to Twitter - supports posting statuses up to 500 characters and media.
+
 Available only via mobile apps.
 
 Profile viewing is possible via web browser. URL format: `www.threads.net/@username`. Example: [Netflix](https://www.threads.net/@netflix)  
