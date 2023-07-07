@@ -1,6 +1,6 @@
 # Threads
 
-Threads is a proprietary social media platform built by Meta (aka Facebook) and derived from Instagram.
+[Threads](https://www.threads.net) is a proprietary social media platform built by Meta (aka Facebook) and derived from Instagram.
 
 Available only via mobile apps.
 
