@@ -9,3 +9,4 @@ Anglojęzyczny odpowiednik tej strony 👉 [Bookmarks](../personal/bookmarks.md)
 ## Linki
 
 - https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja/
+- https://dostepnik.substack.com/p/dostepnik-o-nazwie-roli-i-wartosci
