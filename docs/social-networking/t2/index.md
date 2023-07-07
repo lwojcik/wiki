@@ -4,7 +4,7 @@ Assorted stuff about [T2 (t2.social)](https://t2.social).
 
 T2 is a proprietary social networking platform founded by former Twitter employees: [Sarah Oh](https://t2.social/sarah) and [Gabor Cselle](https://t2.social/gabor).
 
-Works in web browser and as a mobile PWA.
+Works in web browser and as a PWA.
 
 No API ([being considered](https://t2.social/Bry/status/107821)), no official mobile app, no third-party clients.
 
