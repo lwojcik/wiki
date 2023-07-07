@@ -8,7 +8,7 @@ Available only via mobile apps.
 
 Profile viewing is possible via web browser. URL format: `www.threads.net/@username`. Example: [Netflix](https://www.threads.net/@netflix)  
 
-Currently not available in the European Union (viewing profile is possible).
+Currently not available in the European Union (viewing profiles in a web browser is still possible).
 
 ActivityPub support (e.g. interoperability with Mastodon) is planned.
 
