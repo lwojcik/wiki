@@ -12,7 +12,7 @@ No API ([being considered](https://t2.social/Bry/status/107821)), no official mo
 
 I _probably_ have one and I can send it to you. [Contact me](https://lukaszwojcik.net/contact/).
 
-## Assorted links
+## Assorted resources
 
 - https://t2.social/about - About section
 - https://t2.social/sarah/status/97676 - how to get a verification checkmark
