@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+ https://www.npmjs.com/package/docusaurus-plugin-search-local
+
 https://szybkiewypo.pl/
 
 https://tech.lgbt/@sudaksis/110672507494797021
