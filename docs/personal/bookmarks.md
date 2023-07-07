@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://tech.lgbt/@sudaksis/110672507494797021
+
 https://www.oddbird.net/2023/07/05/contain-root/
 
 https://www.wired.com/story/tiktok-platforms-cory-doctorow/
