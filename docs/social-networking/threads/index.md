@@ -4,9 +4,11 @@ Threads is a proprietary social media platform built by Meta (aka Facebook) and 
 
 Available only via mobile apps.
 
-Currently not available in the European Union.
+Profile viewing is possible via web browser. URL format: `www.threads.net/@username`. Example: [Netflix](https://www.threads.net/@netflix)  
 
-ActivityPub support (e.g. interoperability with Mastodon) is planned but not yet available.
+Currently not available in the European Union (viewing profile is possible).
+
+ActivityPub support (e.g. interoperability with Mastodon) is planned.
 
 ## Resources
 
