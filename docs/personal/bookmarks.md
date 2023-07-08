@@ -10,7 +10,9 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
- https://www.npmjs.com/package/docusaurus-plugin-search-local
+https://shaneafsar.com/blog/trying-the-bluesky-api/
+
+https://www.npmjs.com/package/docusaurus-plugin-search-local
 
 https://szybkiewypo.pl/
 
