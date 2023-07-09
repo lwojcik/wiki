@@ -250,7 +250,7 @@ https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people
 
 https://medium.com/crowdbotics/react-native-performance-do-and-dont-88424e873bbd
 
-https://www.tik.dev/tech-interviews
+https://www.tik.dev/blog/tech-interviews
 
 https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb
 
