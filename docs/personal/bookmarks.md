@@ -82,7 +82,7 @@ https://siteinspire.com
 
 https://landings.dev
 
-https://godly.website 
+https://godly.website
 
 https://landingfolio.com
 
