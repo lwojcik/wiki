@@ -18,3 +18,5 @@ I _probably_ have one and I can send it to you. [Contact me](https://lukaszwojci
 - https://t2.social/about - About section
 - https://t2.social/sarah/status/97676 - how to get a verification checkmark
 - https://t2.social/Bry/status/107804 - Town Hall Meeting Notes from 6th July 2023
+- https://t2.social/limhi/status/30522 - Tips for new community members
+- https://github.com/ericrosenberg1/t2unofficial/tree/main - unofficial Android app
