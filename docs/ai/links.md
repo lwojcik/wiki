@@ -30,3 +30,4 @@ Various resources related to AI.
 - https://pmarca.substack.com/p/why-ai-will-save-the-world - Why AI Will Save The World, by Marc Andreessen
 - https://archive.is/yZDqA - Marc Andreessen Is (Mostly) Wrong This Time
 - https://time.com/6287136/eu-ai-regulation/ - E.U. Takes a Step Closer to Passing the World's Most Comprehensive AI Regulation
+- https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating - OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation
