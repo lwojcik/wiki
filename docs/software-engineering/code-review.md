@@ -74,8 +74,9 @@ Good companies should have their own standards of code review. If not, I try to 
 - ensure relevant components are placed in places they belong to (e.g. constants, stubs, helpers, types)
 - ensure there's no accidental way for a human to fall off the happy path while using the feature
 
-## Links
+## Assorted links
 
-- https://www.youtube.com/watch?v=bLyl4VDNPyY
-- https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture
-- https://the.curlybracket.net/2020/08/24/nitpicking.html
+- https://www.youtube.com/watch?v=bLyl4VDNPyY - Jack Herrington: 5 Software Job Secrets From A Senior Developer
+- https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture - Guidelines for a healthy code review culture, by Wikimedia
+- https://the.curlybracket.net/2020/08/24/nitpicking.html - Ulrike Uhlig: Code reviews: from nitpicking to cooperation
+- https://careercutler.substack.com/p/dont-make-the-same-3-code-review - Jordan Cutler: Don't make the same 3 code review mistakes I made
