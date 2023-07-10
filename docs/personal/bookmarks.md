@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://gizmodo.com/10-internet-rage-baiting-techniques-to-know-about-1850615967
+
 https://sizeof.cat/post/website-discovery/
 
 https://www.npmjs.com/package/docusaurus-plugin-search-local
