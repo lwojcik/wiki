@@ -8,7 +8,7 @@ jobs:
   DeploySite:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy site
+      - name: Deploy site to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
           platform: netlify
