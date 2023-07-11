@@ -19,6 +19,7 @@ ActivityPub support (e.g. interoperability with Mastodon) is planned.
 
 ## Assorted links
 
+- https://github.com/junhoyeo/threads-api - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads
 - https://www.euronews.com/next/2023/07/06/why-has-threads-metas-answer-to-twitter-not-launched-in-the-eu - Why has Threads, Meta’s answer to Twitter, not launched in the EU? 
 - https://jogblog.substack.com/p/facebooks-threads-is-so-depressing - Facebook's Threads is so depressing
 - https://techcrunch.com/2023/07/05/adam-mosseri-says-metas-threads-app-wont-have-activitypub-support-at-launch/ - Instagram head Adam Mosseri says Threads app won't have ActivityPub support at launch
