@@ -6,6 +6,7 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 
 ## Links
 
+- https://hilton.org.uk/blog/
 - https://www.nequalsonelifestyle.com/
 - https://ploum.net/index_en.html
 - https://web.koyu.space/
