@@ -1,7 +1,7 @@
 name: Scheduled deployment
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 */8 * * *' # Runs every 4 hours, on the hour
+#   schedule: # Run workflow automatically
+#     - cron: '0 */8 * * *' # Runs every 4 hours, on the hour
   workflow_dispatch:
   
 jobs:
