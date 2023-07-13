@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://tilvids.com/w/41f5284e-b79e-4c84-97e5-664a6ac5a1ee
+
 https://privacy.thenexus.today/just-blocking-threads-isnt-enough/
 
 https://gizmodo.com/10-internet-rage-baiting-techniques-to-know-about-1850615967
