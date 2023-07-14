@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.entrepreneur.com/science-technology/linkedin-changed-its-algorithms-heres-how-your-posts/454728
+
 https://ademcatamak.medium.com/layers-in-ddd-projects-bd492aa2b8aa
 
 https://tilvids.com/w/41f5284e-b79e-4c84-97e5-664a6ac5a1ee
