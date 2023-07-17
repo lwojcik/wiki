@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://en.wikipedia.org/wiki/List_of_common_misconceptions
+
 https://www.entrepreneur.com/science-technology/linkedin-changed-its-algorithms-heres-how-your-posts/454728
 
 https://ademcatamak.medium.com/layers-in-ddd-projects-bd492aa2b8aa
