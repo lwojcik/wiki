@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/
+
 https://en.wikipedia.org/wiki/List_of_common_misconceptions
 
 https://www.entrepreneur.com/science-technology/linkedin-changed-its-algorithms-heres-how-your-posts/454728
