@@ -5,6 +5,7 @@ Various resources related to AI.
 ## Interesting tools
 
 - https://gpt4all.io/ - locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot
+- https://ai.meta.com/llama/ - open-source LLM by Meta
 
 ## Tutorials / Manuals / Howtos
 
