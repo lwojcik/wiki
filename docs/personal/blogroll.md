@@ -6,6 +6,7 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 
 ## Links
 
+- https://kalabro.tech/
 - https://danielwarshaw.com/archive/
 - https://hilton.org.uk/blog/
 - https://www.nequalsonelifestyle.com/
