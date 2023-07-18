@@ -32,3 +32,4 @@ Various resources related to AI.
 - https://time.com/6287136/eu-ai-regulation/ - E.U. Takes a Step Closer to Passing the World's Most Comprehensive AI Regulation
 - https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating - OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation
 - https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says - AI revolution puts skilled jobs at highest risk, OECD says
+- https://arxiv.org/abs/2307.07367 - Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow
