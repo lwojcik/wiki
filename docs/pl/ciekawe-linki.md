@@ -10,3 +10,4 @@ Anglojęzyczny odpowiednik tej strony 👉 [Bookmarks](../personal/bookmarks.md)
 
 - https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja/
 - https://dostepnik.substack.com/p/dostepnik-o-nazwie-roli-i-wartosci
+- https://writefreely.pl/didleth/o-co-chodzi-z-tym-feminizmem-patriarchatem-i-dyskryminacja-kobiet
