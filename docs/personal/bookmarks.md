@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://archive.is/58UAF
+
 https://web.archive.org/web/20130721030250/http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html
 
 https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/
