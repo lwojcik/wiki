@@ -6,6 +6,8 @@ Various resources related to AI.
 
 - https://gpt4all.io/ - locally-running AI chat application powered by the GPT4All-J Apache 2 Licensed chatbot
 - https://ai.meta.com/llama/ - open-source LLM by Meta
+- https://www.tabnine.com/ - AI assistant for software developers
+- https://github.com/THUDM/CodeGeeX - A Multilingual Code Generation Model
 
 ## Tutorials / Manuals / Howtos
 
