@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://github.com/alicezwatson/personal-data-pollution/blob/main/README.md
+
 https://actionsbook.com/
 
 https://github.com/RupertBenWiser/Web-Environment-Integrity/issues/28
