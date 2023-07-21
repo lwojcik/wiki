@@ -8,3 +8,6 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 
 - https://fuse.pl/beton/
 - https://www.marcinsocha.pl/
+- https://katarzynajanoska.pl/
+- https://bobiko.blog/
+- https://horodecki.net/
