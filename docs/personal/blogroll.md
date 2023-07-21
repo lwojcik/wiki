@@ -6,6 +6,7 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 
 ## Links
 
+- https://ohhelloana.blog/posts/
 - https://jakub.jankiewicz.org/blog/
 - https://benjiweber.co.uk/
 - https://kalabro.tech/
