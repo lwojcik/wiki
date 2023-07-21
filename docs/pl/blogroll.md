@@ -11,3 +11,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://katarzynajanoska.pl/
 - https://bobiko.blog/
 - https://horodecki.net/
+- https://writefreely.pl/didleth/
