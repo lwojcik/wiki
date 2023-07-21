@@ -14,3 +14,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://horodecki.net/
 - https://writefreely.pl/didleth/
 - https://writefreely.pl/brayozz/ 
+- https://ameliakusiak.medium.com/
