@@ -15,3 +15,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://writefreely.pl/didleth/
 - https://writefreely.pl/brayozz/ 
 - https://ameliakusiak.medium.com/
+- https://medium.com/@marta.drozdz
