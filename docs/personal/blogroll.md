@@ -51,3 +51,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://larsfosdal.blog/
 - https://coryd.dev/
 - https://woodbytes.me/en/blog
+- https://www.star-shaped.org/about/
