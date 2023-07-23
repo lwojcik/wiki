@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+
 https://www.freeillustrations.club/
 
 https://github.com/alicezwatson/personal-data-pollution/blob/main/README.md
