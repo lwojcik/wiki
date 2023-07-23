@@ -54,3 +54,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://www.star-shaped.org/about/
 - https://noidea.dog/blog
 - https://taliaringer.wordpress.com/
+- https://www.alexmolas.com/blog
