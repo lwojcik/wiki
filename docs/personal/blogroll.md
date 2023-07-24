@@ -59,3 +59,4 @@ In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I ca
 - https://cohost.org/Cadey-Bunny
 - https://tomlarrow.com/
 - https://dustycloud.org/
+- https://blog.jim-nielsen.com/
