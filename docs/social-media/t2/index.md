@@ -9,6 +9,7 @@ T2 is a proprietary social networking platform founded by former Twitter employe
 - no API ([being considered](https://t2.social/Bry/status/107821))
 - no official mobile apps or third-party clients
 - no ads ([monetization being discussed](https://t2.social/Bry/status/107812))
+- supports some post formatting (bold and italic) - https://t2.social/schmutzie/status/150550 
 
 ## Want an invite link?
 
