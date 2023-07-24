@@ -470,3 +470,9 @@ https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-d
 https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
 
 https://european-alternatives.eu/
+
+https://www.washingtonpost.com/politics/2023/07/24/twitter-rival-mastodon-rife-with-child-abuse-material-study-finds/
+
+https://purl.stanford.edu/vb515nd6874
+
+https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-report.pdf
