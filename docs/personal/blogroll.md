@@ -2,7 +2,7 @@
 
 Separate section of my bookmarks devoted to blogs that drew my attention.
 
-In 2000s and 2010s I used RSS and Google Reader to follow blogs. These days I can't find a reader that fits the reality of consuming internet on multiple devices and [doesn't turn into shit at some point](https://www.pcmag.com/news/feedly-faces-backlash-over-protest-tracking-ai-models).
+To easily track blogs I like, I built [Blogworm - my personal blog aggregator](https://blogworm.eu/). Some of the blogs from the list below will eventually be added there.
 
 ## Links
 
