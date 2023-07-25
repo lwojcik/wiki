@@ -15,7 +15,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://hilton.org.uk/blog/
 - https://www.nequalsonelifestyle.com/
 - https://ploum.net/index_en.html
-- https://web.koyu.space/
 - https://drewdevault.com/
 - https://www.dannyguo.com/blog
 - https://controlaltdelete.technology/
@@ -36,7 +35,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://morepablo.com/
 - https://www.jimsrules.com/
 - https://www.jerixmx.com/
-- https://www.ellyloel.com/blog/
 - https://lubieniebieski.pl/
 - https://www.jeremiahlee.com/posts/
 - https://davestewart.co.uk/blog/
@@ -47,10 +45,10 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://taliaringer.wordpress.com/
 - https://www.alexmolas.com/blog
 - https://mekka-tech.com/
-- https://cohost.org/Cadey-Bunny
 - https://tomlarrow.com/
 - https://dustycloud.org/
 - https://blog.jim-nielsen.com/
 - https://rknight.me/blog/
 - https://lisamelton.net/
 - https://blog.ungra.dev/
+- https://www.lenesaile.com/en/blog/
