@@ -37,3 +37,4 @@ Various resources related to AI.
 - https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says - AI revolution puts skilled jobs at highest risk, OECD says
 - https://arxiv.org/abs/2307.07367 - Are Large Language Models a Threat to Digital Public Goods? Evidence from Activity on Stack Overflow
 - https://techcrunch.com/2023/07/18/thousands-of-authors-sign-letter-urging-ai-makers-to-stop-stealing-books/ - Thousands of authors sign letter urging AI makers to stop stealing books
+- https://www.businessinsider.com/chatgpt-sam-altman-jobs-replaced-ai-openai-2023-7?IR=T - ChatGPT creator says AI advocates are fooling themselves if they think the technology is only going to be good for workers: 'Jobs are definitely going to go away'
