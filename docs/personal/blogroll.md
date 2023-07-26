@@ -54,3 +54,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://www.lenesaile.com/en/blog/
 - https://multiline.co/mment
 - https://tim.kicker.dev/
+- https://elizabethtai.com/
