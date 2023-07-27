@@ -28,7 +28,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://honeypot.net/
 - https://morepablo.com/
 - https://www.jimsrules.com/
-- https://www.jerixmx.com/
 - https://www.jeremiahlee.com/posts/
 - https://davestewart.co.uk/blog/
 - https://larsfosdal.blog/
@@ -37,7 +36,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://noidea.dog/blog
 - https://taliaringer.wordpress.com/
 - https://www.alexmolas.com/blog
-- https://mekka-tech.com/
 - https://tomlarrow.com/
 - https://dustycloud.org/
 - https://blog.jim-nielsen.com/
