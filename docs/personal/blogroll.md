@@ -27,7 +27,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://daniel.haxx.se/blog/
 - https://www.chrismytton.com/articles/
 - https://inessential.com/
-- https://blog.lea.lgbt/
 - https://misterwilliamreilly.com/blog/
 - https://robbowen.digital/writing
 - https://daverupert.com/
@@ -35,7 +34,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://morepablo.com/
 - https://www.jimsrules.com/
 - https://www.jerixmx.com/
-- https://lubieniebieski.pl/
 - https://www.jeremiahlee.com/posts/
 - https://davestewart.co.uk/blog/
 - https://larsfosdal.blog/
