@@ -39,3 +39,4 @@ Various resources related to AI.
 - https://techcrunch.com/2023/07/18/thousands-of-authors-sign-letter-urging-ai-makers-to-stop-stealing-books/ - Thousands of authors sign letter urging AI makers to stop stealing books
 - https://www.businessinsider.com/chatgpt-sam-altman-jobs-replaced-ai-openai-2023-7?IR=T - ChatGPT creator says AI advocates are fooling themselves if they think the technology is only going to be good for workers: 'Jobs are definitely going to go away'
 - https://en.wikipedia.org/wiki/Wikipedia:Large_language_models - Wikipedia's guidance on LLMs
+- https://archive.vn/KSOv4 - Our Oppenheimer Moment: The Creation of A.I. Weapons, by Alexander C. Karp, CEO of Palantir Technologies
