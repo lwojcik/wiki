@@ -8,7 +8,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 
 - https://ohhelloana.blog/posts/
 - https://danielwarshaw.com/archive/
-- https://www.nequalsonelifestyle.com/
 - https://ploum.net/index_en.html
 - https://rachelbythebay.com/w/
 - https://inessential.com/
