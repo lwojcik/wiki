@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://labzero.com/blog/upgrading-an-ancient-react-application
+
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://css-tricks.com/snippets/css/complete-guide-grid/
