@@ -80,3 +80,4 @@ Good companies should have their own standards of code review. If not, I try to 
 - https://www.mediawiki.org/wiki/Guidelines_for_a_healthy_code_review_culture - Guidelines for a healthy code review culture, by Wikimedia
 - https://the.curlybracket.net/2020/08/24/nitpicking.html - Ulrike Uhlig: Code reviews: from nitpicking to cooperation
 - https://careercutler.substack.com/p/dont-make-the-same-3-code-review - Jordan Cutler: Don't make the same 3 code review mistakes I made
+- https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7 - The Importance of Being a Code Reviewer - A framework for giving feedback to others’ code
