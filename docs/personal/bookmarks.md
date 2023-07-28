@@ -10,6 +10,10 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
 https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 
 https://www.freeillustrations.club/
