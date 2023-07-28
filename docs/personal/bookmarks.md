@@ -10,6 +10,10 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://www.eventstorming.com/book/
+
+https://en.wikipedia.org/wiki/Event_storming
+
 https://labzero.com/blog/upgrading-an-ancient-react-application
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
