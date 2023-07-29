@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/
+
 https://www.eventstorming.com/book/
 
 https://en.wikipedia.org/wiki/Event_storming
