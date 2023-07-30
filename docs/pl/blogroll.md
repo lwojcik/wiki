@@ -18,3 +18,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://medium.com/@marta.drozdz
 - https://writefreely.pl/mstankiewicz/
 - https://otwartastrona.org/
+- https://pelnakulturka.art/
