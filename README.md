@@ -2,8 +2,10 @@
 
 ## Quick links (mostly for myself)
 
-- [Bookmarks](./docs/personal/bookmarks.md)
-- [Blogroll](./docs/personal/blogroll.md)
+- [Bookmarks (EN)](./docs/personal/bookmarks.md)
+- [Blogroll (EN)](./docs/personal/blogroll.md)
+- [Bookmarks (PL)](./docs/pl/ciekawe-linki.mdmd)
+- [Blogroll (PL)](./docs/pl/blogroll.md)
 
 ## License
 
