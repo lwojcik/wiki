@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Luke's Wiki",
-  tagline: "Sharing what I know one note a time",
+  tagline: "Noting down and bookmarking stuff I care about",
   url: "https://lukeswiki.eu/",
   baseUrl: "/",
   onBrokenLinks: "warn",
@@ -24,8 +24,7 @@ const config = {
           showLastUpdateTime: true,
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          // Please change this to your repo.
-          editUrl: "https://github.com/lwojcik/wiki/tree/main/",
+          editUrl: "https://github.com/lwojcik/wiki/edit/main/",
         },
         blog: false,
         theme: {
