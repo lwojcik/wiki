@@ -29,3 +29,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://ericwbailey.website/published/
 - https://olu.online/blog/
 - https://hazelweakly.me/blog/
+- https://jenniferplusplus.com/
