@@ -65,13 +65,13 @@ const config = {
         style: "dark",
         copyright: `© ${new Date().getFullYear()} <a href="https://lukaszwojcik.net/">Łukasz Wójcik</a> &bull; Licence: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> &bull; <a href="/privacy">Privacy policy</a>`,
       },
-      // algolia: {
-      //   // Application ID provided by Algolia
-      //   // appId: "",
-      //   // Public API key
-      //   // apiKey: "",
-      //   // indexName: "",
-      // },
+      algolia: {
+        // Application ID provided by Algolia
+        appId: "6LD8XK0RNE",
+        // Public API key
+        apiKey: "ec2a491fecd6a0c04af2cf85f7eccbfb",
+        indexName: "lukeseu",
+      },
     }),
 };
 
