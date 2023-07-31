@@ -1,4 +1,4 @@
-# Blogroll
+# Blogroll (polskie blogi)
 
 Blogi, na które zdarza mi się zaglądać.
 
