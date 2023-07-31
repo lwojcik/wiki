@@ -26,3 +26,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://www.neelc.org/
 - https://erinkissane.com
 - https://andy-bell.co.uk/blog/
+- https://ericwbailey.website/published/
