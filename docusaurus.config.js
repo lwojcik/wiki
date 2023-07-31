@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "favicon.ico",
   organizationName: "lwojcik", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
   presets: [
