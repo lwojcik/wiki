@@ -21,9 +21,8 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://tomlarrow.com/
 - https://rknight.me/blog/
 - https://lisamelton.net/
-- https://blog.ungra.dev/
-- https://www.lenesaile.com/en/blog/
 - https://localghost.dev/blog/
 - https://multiline.co/mment
 - https://www.neelc.org/
 - https://erinkissane.com
+- https://andy-bell.co.uk/blog/
