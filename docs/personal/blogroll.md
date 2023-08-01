@@ -16,7 +16,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://honeypot.net/
 - https://morepablo.com/
 - https://www.jimsrules.com/
-- https://davestewart.co.uk/blog/
 - https://noidea.dog/blog
 - https://tomlarrow.com/
 - https://rknight.me/blog/
