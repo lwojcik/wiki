@@ -9,6 +9,7 @@ Sorted alphabetically.
 - Inglorious Basterds (2009)
 - Interstellar (2014)
 - The Office Space (1999)
+- Oppenheimer (2023)
 - The Pianist (2002)
 - Warsaw '44 / Miasto 44 (2014)
 - Whiplash (2014)
