@@ -23,7 +23,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://localghost.dev/blog/
 - https://multiline.co/mment
 - https://www.neelc.org/
-- https://erinkissane.com
 - https://andy-bell.co.uk/blog/
 - https://ericwbailey.website/published/
 - https://olu.online/blog/
