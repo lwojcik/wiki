@@ -6,7 +6,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 
 ## Links
 
-- https://ohhelloana.blog/posts/
 - https://danielwarshaw.com/archive/
 - https://rachelbythebay.com/w/
 - https://inessential.com/
