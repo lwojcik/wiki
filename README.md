@@ -4,6 +4,9 @@
 
 - [Bookmarks (EN)](./docs/personal/bookmarks.md)
 - [Blogroll (EN)](./docs/personal/blogroll.md)
+
+### In Polish
+
 - [Bookmarks (PL)](./docs/pl/ciekawe-linki.mdmd)
 - [Blogroll (PL)](./docs/pl/blogroll.md)
 
