@@ -31,6 +31,11 @@ Links to all of my public profiles where I identify myself using real credential
 ## Photography
 
 - https://500px.com/p/lwojcik
+- https://www.deviantart.com/lukemgraphy
+- https://instagram.com/lukemgraphy
+- https://pixelfed.social/lukemgraphy
+- https://tumblr.com/lukemgraphy
+- https://youpic.com/lukemgraphy
 
 ## Software
 
@@ -44,14 +49,4 @@ Links to all of my public profiles where I identify myself using real credential
 - https://trovo.live/s/lukem
 - https://www.youtube.com/@lukem_tt
 
-## LukemGraphy
-
-Links related to my upcoming photography project.
-
-- https://lukemgraphy.eu/ - duh?
-- https://www.deviantart.com/lukemgraphy
-- https://instagram.com/lukemgraphy
-- https://pixelfed.social/lukemgraphy
-- https://tumblr.com/lukemgraphy
-- https://youpic.com/lukemgraphy
   
