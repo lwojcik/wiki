@@ -9,7 +9,6 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://blog.tomaszdunia.pl/
 - https://www.marcinsocha.pl/
 - https://katarzynajanoska.pl/
-- https://writefreely.pl/didleth/
 - https://writefreely.pl/brayozz/ 
 - https://ameliakusiak.medium.com/
 - https://medium.com/@marta.drozdz
