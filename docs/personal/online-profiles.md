@@ -2,11 +2,14 @@
 
 Links to all of my public profiles where I identify myself using real credentials.
 
-## General / Messaging
+## Social Media / Messaging
 
+- https://bsky.app/profile/lukem.bsky.social
 - https://discord.com/users/194383973156126720
 - https://www.linkedin.com/in/lukaszwojcik/
 - https://matrix.to/#/@lukem:aria-net.org
+- https://post.news/@/elukem
+- https://t2.social/lukem
 
 ## Fediverse
 
@@ -16,6 +19,11 @@ Links to all of my public profiles where I identify myself using real credential
 - https://mstdn.games/@lukem
 - https://pixelfed.social/lukem
 - https://pol.social/@lukem
+
+## Writing
+
+- https://dev.to/lwojcik
+- https://medium.com/@lukaszwojcik
 
 ## Gaming
 
@@ -35,6 +43,7 @@ Links to all of my public profiles where I identify myself using real credential
 - https://www.deviantart.com/lukemgraphy
 - https://instagram.com/lukemgraphy
 - https://pixelfed.social/lukemgraphy
+- https://www.tiktok.com/@lukemgraphy
 - https://tumblr.com/lukemgraphy
 - https://youpic.com/lukemgraphy
 
@@ -50,5 +59,15 @@ Links to all of my public profiles where I identify myself using real credential
 - https://twitch.tv/lukem_tt
 - https://trovo.live/s/lukem
 - https://www.youtube.com/@lukem_tt
+
+## Project-related
+
+- Lukem.net:
+  - https://www.threads.net/@lukemnet
+- Offbeat Bits:
+  - https://buttondown.email/offbeatbits/
+  - https://post.news/@/offbeatbits
+  - https://bsky.app/profile/offbeatbits.com
+  - https://mas.to/@offbeatbits
 
   
