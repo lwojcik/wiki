@@ -40,3 +40,4 @@ Various resources related to AI.
 - https://www.businessinsider.com/chatgpt-sam-altman-jobs-replaced-ai-openai-2023-7?IR=T - ChatGPT creator says AI advocates are fooling themselves if they think the technology is only going to be good for workers: 'Jobs are definitely going to go away'
 - https://en.wikipedia.org/wiki/Wikipedia:Large_language_models - Wikipedia's guidance on LLMs
 - https://archive.vn/KSOv4 - Our Oppenheimer Moment: The Creation of A.I. Weapons, by Alexander C. Karp, CEO of Palantir Technologies
+- https://www.businessinsider.com/student-uses-playrgound-ai-for-professional-headshot-turned-white-2023-8?IR=T - An Asian MIT student asked AI to turn an image of her into a professional headshot. It made her white, with lighter skin and blue eyes.
