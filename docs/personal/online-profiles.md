@@ -2,10 +2,11 @@
 
 Links to all of my public profiles where I identify myself using real credentials.
 
-## General
+## General / Messaging
 
 - https://discord.com/users/194383973156126720
 - https://www.linkedin.com/in/lukaszwojcik/
+- https://matrix.to/#/@lukem:aria-net.org
 
 ## Fediverse
 
