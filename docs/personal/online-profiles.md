@@ -37,11 +37,12 @@ Links to all of my public profiles where I identify myself using real credential
 - https://tumblr.com/lukemgraphy
 - https://youpic.com/lukemgraphy
 
-## Software
+## Software / IT
 
 - https://github.com/lwojcik
 - https://codeberg.org/lukem
 - https://gitlab.com/lukaszwojcik
+- https://safeweb.norton.com/profile/Lukemnet
 
 ## Video / Live Streaming
 
