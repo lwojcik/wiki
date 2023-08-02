@@ -9,5 +9,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://www.marcinsocha.pl/
 - https://katarzynajanoska.pl/
 - https://ameliakusiak.medium.com/
-- https://medium.com/@marta.drozdz
 - https://pelnakulturka.art/
