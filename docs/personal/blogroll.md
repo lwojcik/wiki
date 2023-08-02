@@ -24,3 +24,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://jenniferplusplus.com/
 - https://samholstein.com/articles/
 - https://ploum.net/
+- https://hamatti.org/blog/
