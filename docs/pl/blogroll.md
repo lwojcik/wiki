@@ -6,12 +6,9 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 
 ## Linki
 
-- https://fuse.pl/beton/
 - https://blog.tomaszdunia.pl/
 - https://www.marcinsocha.pl/
 - https://katarzynajanoska.pl/
-- https://bobiko.blog/
-- https://horodecki.net/
 - https://writefreely.pl/didleth/
 - https://writefreely.pl/brayozz/ 
 - https://ameliakusiak.medium.com/
