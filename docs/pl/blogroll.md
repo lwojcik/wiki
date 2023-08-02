@@ -6,7 +6,6 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 
 ## Linki
 
-- https://blog.tomaszdunia.pl/
 - https://www.marcinsocha.pl/
 - https://katarzynajanoska.pl/
 - https://ameliakusiak.medium.com/
