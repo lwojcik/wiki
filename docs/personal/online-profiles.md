@@ -18,7 +18,7 @@ Links to all of my public profiles where I identify myself using real credential
 
 ## Gaming
 
-- Nintendo Switch Online Friend Code: 6484-8367-5110 / https://nin.codes/lukem
+- Nintendo Switch Online friend code: **6484-8367-5110** / https://nin.codes/lukem
 - https://steamcommunity.com/id/lukem_tt/
 - https://www.speedrun.com/users/lukem_tt
 - https://account.xbox.com/en-US/Profile?gamerTag=LukemTT
