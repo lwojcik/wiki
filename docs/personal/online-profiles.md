@@ -10,6 +10,8 @@ Links to all of my public profiles where I identify myself using real credential
 - https://matrix.to/#/@lukem:aria-net.org
 - https://post.news/@/elukem
 - https://t2.social/lukem
+- https://twitter.com/lukaszwojcik
+- https://twitter.com/Lukem_tt
 
 ## Fediverse
 
