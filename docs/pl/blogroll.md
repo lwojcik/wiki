@@ -10,3 +10,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://katarzynajanoska.pl/
 - https://ameliakusiak.medium.com/
 - https://zvbr.substack.com/
+- https://turystyka-niecodzienna.pl/
