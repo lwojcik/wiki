@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
 
 ## Links
 
+https://fred-gu.medium.com/fix-the-annoying-web-page-caching-issue-permanently-5d16527d0b5a
+
 https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/
 
 https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/
