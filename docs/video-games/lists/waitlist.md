@@ -14,3 +14,5 @@ Sorted alphabetically.
 - Splatoon 2
 - Splatoon 3
 - Test Drive Unlimited: Solar Crown
+- Pikmin 4
+- Not For Broadcast
