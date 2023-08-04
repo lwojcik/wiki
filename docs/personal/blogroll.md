@@ -13,7 +13,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://daverupert.com/
 - https://morepablo.com/
 - https://www.jimsrules.com/
-- https://noidea.dog/blog
 - https://tomlarrow.com/
 - https://rknight.me/blog/
 - https://localghost.dev/blog/
@@ -25,3 +24,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://samholstein.com/articles/
 - https://ploum.net/
 - https://hamatti.org/blog/
+- https://ben.balter.com/
