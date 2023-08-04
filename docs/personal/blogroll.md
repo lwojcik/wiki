@@ -6,7 +6,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 
 ## Links
 
-- https://danielwarshaw.com/archive/
 - https://rachelbythebay.com/w/
 - https://inessential.com/
 - https://robbowen.digital/writing
