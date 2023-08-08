@@ -492,3 +492,5 @@ https://www.washingtonpost.com/politics/2023/07/24/twitter-rival-mastodon-rife-w
 https://purl.stanford.edu/vb515nd6874
 
 https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-report.pdf
+
+https://www.spacebar.news/p/stop-using-brave-browser
