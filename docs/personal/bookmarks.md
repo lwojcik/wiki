@@ -1,4 +1,4 @@
-# Bookmarks
+7# Bookmarks
 
 Dump from my browser bookmarks bar, waiting for its turn to process. Maybe this is the base for my next blog post. Maybe there is a million dollar idea lurking somewhere there. Maybe there is something valuable out there and I want to keep that.
 
@@ -498,3 +498,5 @@ https://www.spacebar.news/p/stop-using-brave-browser
 https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/
 
 https://www.totaltypescript.com/type-vs-interface-which-should-you-use?utm_source=tldrwebdev
+
+https://openwebdocs.org/content/posts/micro-benevolences/
