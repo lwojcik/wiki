@@ -494,3 +494,5 @@ https://purl.stanford.edu/vb515nd6874
 https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-report.pdf
 
 https://www.spacebar.news/p/stop-using-brave-browser
+
+https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/
