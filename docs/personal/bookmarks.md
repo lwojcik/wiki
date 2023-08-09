@@ -496,3 +496,5 @@ https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-repor
 https://www.spacebar.news/p/stop-using-brave-browser
 
 https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/
+
+https://www.totaltypescript.com/type-vs-interface-which-should-you-use?utm_source=tldrwebdev
