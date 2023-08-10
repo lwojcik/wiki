@@ -500,3 +500,5 @@ https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-too
 https://www.totaltypescript.com/type-vs-interface-which-should-you-use?utm_source=tldrwebdev
 
 https://openwebdocs.org/content/posts/micro-benevolences/
+
+https://github.com/aasimsani/meow-learning
