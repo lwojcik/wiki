@@ -1,4 +1,4 @@
-7# Bookmarks
+# Bookmarks
 
 Dump from my browser bookmarks bar, waiting for its turn to process. Maybe this is the base for my next blog post. Maybe there is a million dollar idea lurking somewhere there. Maybe there is something valuable out there and I want to keep that.
 
@@ -506,3 +506,5 @@ https://github.com/aasimsani/meow-learning
 https://github.com/jimp-dev/jimp
 
 https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/?utm_source=tldrwebdev
+
+https://twitter.com/sahilbloom/status/1686713822529110016?utm_source=tldrwebdev
