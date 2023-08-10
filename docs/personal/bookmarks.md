@@ -502,3 +502,5 @@ https://www.totaltypescript.com/type-vs-interface-which-should-you-use?utm_sourc
 https://openwebdocs.org/content/posts/micro-benevolences/
 
 https://github.com/aasimsani/meow-learning
+
+https://github.com/jimp-dev/jimp
