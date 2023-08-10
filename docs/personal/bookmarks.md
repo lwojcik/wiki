@@ -504,3 +504,5 @@ https://openwebdocs.org/content/posts/micro-benevolences/
 https://github.com/aasimsani/meow-learning
 
 https://github.com/jimp-dev/jimp
+
+https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/?utm_source=tldrwebdev
