@@ -43,3 +43,4 @@ Various resources related to AI.
 - https://www.businessinsider.com/student-uses-playrgound-ai-for-professional-headshot-turned-white-2023-8?IR=T - An Asian MIT student asked AI to turn an image of her into a professional headshot. It made her white, with lighter skin and blue eyes.
 - https://archive.is/HjiZq - Business Insider: AI is ruining the internet
 - https://www.youtube.com/watch?v=Se91Pn3xxSs - How AI Will Disrupt the Entire World in 3 Years (Prepare Now While Others Panic) | Emad Mostaque
+- https://www.theguardian.com/technology/2023/aug/09/google-says-ai-systems-should-be-able-to-mine-publishers-work-unless-companies-opt-out - The Guardian: Google says AI systems should be able to mine publishers’ work unless companies opt out
