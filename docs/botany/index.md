@@ -6,4 +6,4 @@ I know very little about plants. I can't keep them alive at home. I forget to wa
 
 ## Links
 
-- https://www.nature.com/articles/d41586-023-00890-9 - Stressed plants ‘cry’ — and some animals can probably hear them
+- https://archive.is/mpdmG - Stressed plants ‘cry’ — and some animals can probably hear them
