@@ -9,3 +9,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 - https://katarzynajanoska.pl/
 - https://ameliakusiak.medium.com/
 - https://writefreely.pl/slavistapl/
+- https://ciemnastrona.com.pl
