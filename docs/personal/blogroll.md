@@ -25,3 +25,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://hamatti.org/blog/
 - https://ben.balter.com/
 - https://darnell.day/
+- https://chadkohalyk.com/
