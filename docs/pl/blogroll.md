@@ -6,8 +6,6 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 
 ## Linki
 
-- https://www.marcinsocha.pl/
 - https://katarzynajanoska.pl/
 - https://ameliakusiak.medium.com/
-- https://zvbr.substack.com/
-- https://turystyka-niecodzienna.pl/
+- https://writefreely.pl/slavistapl/
