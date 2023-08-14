@@ -510,3 +510,5 @@ https://www.mux.com/blog/what-are-react-server-components?utm_source=tldrwebdev
 https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/?utm_source=tldrwebdev
 
 https://twitter.com/sahilbloom/status/1686713822529110016?utm_source=tldrwebdev
+
+https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/
