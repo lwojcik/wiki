@@ -30,3 +30,4 @@ Sorted alphabetically.
 - Kit Yates - How to Expect the Unexpected: The Science of Making Predictions and the Art of Knowing When Not To - https://geni.us/KitYatesBooks
 - Ethan Marcotte - You Deserve a Tech Union - https://abookapart.com/products/you-deserve-a-tech-union
 - Dominik Héjj - Węgry na nowo. Jak Viktor Orbán zaprogramował narodową tożsamość - https://upolujebooka.pl/oferta,159780,wegry_na_nowo_jak_viktor_orbn_zaprogramowal_narodowa_tozsamosc.html
+- Kamil Dziubka - Kulisy PiS - https://www.empik.com/kulisy-pis-kamil-dziubka,p1396154252,ksiazka-p
