@@ -51,6 +51,7 @@ Sorted alphabetically.
 - Not Tonight: Take Back Control Edition
 - Orwell
 - Orwell: Ignorance Is Strength
+- [Pikmin 4](../titles/pikmin4.md)
 - Quake
 - Quake II
 - REPLICA
