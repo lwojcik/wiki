@@ -516,3 +516,5 @@ https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/
 https://hamatti.org/posts/bloggers-i-read-tuesday/
 
 https://dodov.dev/blog/why-does-email-development-have-to-suck?utm_source=tldrnewsletter
+
+https://love2dev.com/blog/how-to-uninstall-a-service-worker/
