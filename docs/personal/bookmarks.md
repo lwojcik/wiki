@@ -518,3 +518,5 @@ https://hamatti.org/posts/bloggers-i-read-tuesday/
 https://dodov.dev/blog/why-does-email-development-have-to-suck?utm_source=tldrnewsletter
 
 https://love2dev.com/blog/how-to-uninstall-a-service-worker/
+
+https://cytag.nl/@fox/110898581862395192
