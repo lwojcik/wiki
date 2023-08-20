@@ -16,6 +16,11 @@ Think of it as my note-taking app, digital brain or a collection of ideas at var
 
 I maintain it in the open because various stuff I've learnt in my life was once openly available for everyone to learn, or somebody was kind enough to spend time and teach me - and now I benefit from knowing it. I want to keep this circle going.
 
+## How to use this wiki?
+
+- Choose one of the sections from the menu
+- Use search function - available in top right corner or on [a dedicated page](./search/)
+
 ## Purpose of this wiki
 
 I use this wiki to:
