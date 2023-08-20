@@ -17,6 +17,7 @@ Decades ago I played a bit with MAGIX Music Maker and I have shallow understandi
 - https://ardour.org/ - Ardour (open source)
 - https://www.audiotool.com/ - in-browser collaborative music production tool
 - https://www.presonus.com/en-US/studio-one.html - Studio One
+- https://www.apple.com/logic-pro/ - Logic Pro
 
 ## Tutorials
 
