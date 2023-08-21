@@ -7,7 +7,7 @@
 - Dandori battles and challenges are great
 - great game overall, but...
   - I hated Engulfed Castle with passion
-  - after the first 'ending' the game loses a lot of its momentum
+  - after the first 'ending' the game loses a lot of its momentum - plot twist isn't interesting enough to justify dragging the game even more
   - I caught myself multiple times thinking 'are we there yet? Please?' 
   - final sequence needlessly dragged to the point of frustration (the final cave consists of 20 levels and an annoying multi-stage boss fight - I cursed a lot while playing through this nonsense)
   - target auto-lock mechanic cannot be disabled, making some missions unnecessarily difficult
