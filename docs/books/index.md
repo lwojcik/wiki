@@ -1,8 +1,6 @@
-# Books
+# 📖 Books
 
-Medium for recording information in written form, typically separated into pages.
-
-For notes on Polish books I read, see the section 👉 [Książki](../pl/ksiazki/index.md)
+For notes on books I read in Polish, see the section 👉 [📖 Książki](../pl/ksiazki/index.md)
 
 ## Personal notes
 
