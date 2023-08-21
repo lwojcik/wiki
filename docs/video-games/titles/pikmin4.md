@@ -20,3 +20,4 @@
 - https://www.youtube.com/watch?v=EKzOR2SM2BU - Pikmin 4 - All Dandori Challenges (Platinum Rank) by UTAGaming
 - https://www.youtube.com/watch?v=Glfb_d3pKaA - Pikmin 4 - All Night Expeditions by BeardBear
 - https://www.youtube.com/watch?v=W2CbePF1H7s - Pikmin 4 - Full Olimar's Shipwreck Tale (No Deaths) by BeardBear
+- https://www.youtube.com/watch?v=BJFEtAjJd2g - Pikmin 4 - Trial of the Sage Leaf - All Platinum Medals / No Deaths by Ice cube
