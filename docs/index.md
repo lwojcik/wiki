@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# Welcome to Luke's Wiki! 👋
+# 👋 Welcome to Luke's Wiki!
 
 <head>
   <link rel="me" href="https://hachyderm.io/@lukem" />
@@ -19,7 +19,7 @@ I maintain it in the open because various stuff I've learnt in my life was once 
 ## How to use this wiki?
 
 - Choose one of the sections from the menu
-- Use search function - available in top right corner or on [a dedicated page](./search/)
+- Use the search function - available in the top right corner or on [a dedicated page](./search/)
 
 ## Purpose of this wiki
 
