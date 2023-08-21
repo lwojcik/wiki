@@ -9,7 +9,8 @@
   - I hated Engulfed Castle with passion
   - after the first 'ending' the game loses a lot of its momentum
   - I caught myself multiple times thinking 'are we there yet? Please?' 
-  - final sequence needlessly dragged to the point of frustration (final cave consists of 20 levels and a multi-stage boss fight - I cursed a lot while playing through this nonsense)
+  - final sequence needlessly dragged to the point of frustration (the final cave consists of 20 levels and an annoying multi-stage boss fight - I cursed a lot while playing through this nonsense)
+  - target auto-lock mechanic cannot be disabled, making some missions unnecessarily difficult
 - even though I enjoy the franchise and all Pikmin installments are available on Nintendo Switch, I have no plans of playing them for now
 
 ## Links
