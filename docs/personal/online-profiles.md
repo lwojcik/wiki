@@ -68,6 +68,7 @@ Links to all of my public profiles where I identify myself using real credential
 - Lukem.net:
   - https://www.instagram.com/lukemnet/
   - https://twitter.com/lukem_net
+  - https://www.tiktok.com/@lukemnet
   - https://www.threads.net/@lukemnet
 - Offbeat Bits:
   - https://buttondown.email/offbeatbits/
