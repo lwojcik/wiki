@@ -1,4 +1,4 @@
-# Photography
+# 📷 Photography
 
 The practice of creating images by capturing light into a light-sensitive surface in a way it's possible to reproduce and use those images.
 
