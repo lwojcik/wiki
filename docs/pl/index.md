@@ -1,5 +1,5 @@
 ---
-title: Po polsku 🇵🇱
+title: 🇵🇱 Po polsku
 ---
 
 <head>
