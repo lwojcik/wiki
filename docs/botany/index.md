@@ -1,4 +1,4 @@
-# Botany
+# 🪴 Botany
 
 Assorted stuff related to botany.
 
