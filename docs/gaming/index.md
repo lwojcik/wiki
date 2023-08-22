@@ -1,4 +1,4 @@
-# Gaming
+# 🎮 Gaming
 
 This is a meta section that links everything related to games in my life.
 
