@@ -1,4 +1,4 @@
-# AI (Artificial Intelligence)
+# 🤖 AI (Artificial Intelligence)
 
 Umbrella term for tools, approaches, research and methodologies revolving around training and utilizing machines to process information. My understanding of this term is wide and includes machine learning and large language models.
 
