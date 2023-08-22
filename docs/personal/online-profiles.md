@@ -4,7 +4,7 @@ Links to all of my public profiles where I identify myself using real credential
 
 ## Social Media / Messaging
 
-- https://bsky.app/profile/lukem.bsky.social
+- https://bsky.app/profile/lukaszwojcik.net
 - https://discord.com/users/194383973156126720
 - https://www.linkedin.com/in/lukaszwojcik/
 - https://matrix.to/#/@lukem:aria-net.org
