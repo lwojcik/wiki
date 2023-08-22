@@ -45,3 +45,4 @@ Various resources related to AI.
 - https://www.youtube.com/watch?v=Se91Pn3xxSs - How AI Will Disrupt the Entire World in 3 Years (Prepare Now While Others Panic) | Emad Mostaque
 - https://www.theguardian.com/technology/2023/aug/09/google-says-ai-systems-should-be-able-to-mine-publishers-work-unless-companies-opt-out - The Guardian: Google says AI systems should be able to mine publishers’ work unless companies opt out
 - https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/ - These Women Tried to Warn Us About AI
+- https://blog.eladgil.com/p/early-days-of-ai - Early days of AI by Elad Gil
