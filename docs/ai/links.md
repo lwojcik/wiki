@@ -46,3 +46,4 @@ Various resources related to AI.
 - https://www.theguardian.com/technology/2023/aug/09/google-says-ai-systems-should-be-able-to-mine-publishers-work-unless-companies-opt-out - The Guardian: Google says AI systems should be able to mine publishers’ work unless companies opt out
 - https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/ - These Women Tried to Warn Us About AI
 - https://blog.eladgil.com/p/early-days-of-ai - Early days of AI by Elad Gil
+- https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination - The Verge: Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’
