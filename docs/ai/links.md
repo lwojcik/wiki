@@ -48,3 +48,4 @@ Various resources related to AI.
 - https://blog.eladgil.com/p/early-days-of-ai - Early days of AI by Elad Gil
 - https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination - The Verge: Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’
 - https://www.theregister.com/2023/08/23/ilo_ai_jobs_impact_study/ - Generative AI won't steal your job, just change it, says UN (Unless you're a woman in a clerical position, in which case your role might never come into existence)
+- https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back - USCF: How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back
