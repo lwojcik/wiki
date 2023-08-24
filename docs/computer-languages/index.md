@@ -1,4 +1,4 @@
-# Computer Languages
+# 📜 Computer Languages
 
 Formalized sets of instructions and syntax rules intended to facilite building computer programs (applications).
 
