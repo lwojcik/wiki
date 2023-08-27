@@ -524,3 +524,5 @@ https://cytag.nl/@fox/110898581862395192
 https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
 
 https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
+
+https://charlesroper.com/ (homepage inspiration)
