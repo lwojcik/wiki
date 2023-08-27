@@ -7,6 +7,4 @@ Od czasu uśmiercenia Google Readera nie potrafię znaleźć wygodnego sposobu n
 ## Linki
 
 - https://katarzynajanoska.pl/
-- https://ameliakusiak.medium.com/
-- https://writefreely.pl/slavistapl/
 - https://crouschynca.blogspot.com/
