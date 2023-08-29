@@ -4,7 +4,7 @@ Blogi, na które zdarza mi się zaglądać.
 
 Od czasu śmierci Google Readera żadna z alternatyw mi nie leżała, więc do śledzenia blogów zbudowałem sobie własny projekt:
 
-[Blognik.pl - agregator ciekawych blogów](https://blognik.pl).
+[Blognik.pl - agregator ciekawych blogów](https://blognik.pl)
 
 Dodaję tam (za zgodą osób piszących) większość blogów, którę chcę regularnie czytać.
 
