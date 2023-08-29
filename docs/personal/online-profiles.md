@@ -19,9 +19,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://karab.in/u/lukem
 - https://kbin.social/u/lukem
 - https://mobilizon.pl/@lukem
-- https://mstdn.games/@lukem
-- https://pixelfed.social/lukem
-- https://pol.social/@lukem
 
 ## Writing
 
@@ -75,5 +72,3 @@ Links to all of my public profiles where I identify myself using real credential
   - https://post.news/@/offbeatbits
   - https://bsky.app/profile/offbeatbits.com
   - https://mas.to/@offbeatbits
-
-  
