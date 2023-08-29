@@ -12,5 +12,4 @@ Tutaj natomiast spisuję sobie linki do blogów, które wpadły mi w oko, ale je
 
 ## Linki
 
-- https://informaton.blog/
-- https://crouschynca.blogspot.com/
+-
