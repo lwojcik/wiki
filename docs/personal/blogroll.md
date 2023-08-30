@@ -24,3 +24,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://chadkohalyk.com/
 - https://robinrendle.com/notes/
 - https://rys.io/en/
+- https://scopique.com/
