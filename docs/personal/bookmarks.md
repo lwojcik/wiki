@@ -534,3 +534,11 @@ https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
 https://charlesroper.com/ (homepage inspiration)
 
 https://www.wired.com/story/poland-train-radio-stop-attack/
+
+https://patkay.com/pages/photography
+
+https://www.mpkelley.com/vespertine
+
+https://www.pedrontheworld.com/automotive-1
+
+https://www.lnaylor.com/
