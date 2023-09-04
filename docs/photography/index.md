@@ -16,3 +16,7 @@ Section is under construction.
 - https://www.tumblr.com/lukemgraphy
 - https://www.deviantart.com/lukemgraphy
 - https://pixelfed.social/lukemgraphy
+
+## Related sections
+
+- [Digital Photography](../digital-photography)
