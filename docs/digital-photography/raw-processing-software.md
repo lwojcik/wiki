@@ -10,6 +10,7 @@ In 2020s I'm still making up my mind which software I should switch to.
 
 - https://www.darktable.org/ - darktable (Linux, Windows, macOS) - open source
 - https://krita.org/en/ - Krita (Linux, Windows, macOS) - open source
+- https://www.nikonusa.com/en/nikon-products/imaging-software/nx-studio.page - Nikon NX Studio (macOS, Windows) - proprietary
 - https://www.photopea.com/ - Photopea (online)
 - https://www.rawtherapee.com/ - RawTherapee (Linux, Windows, macOS) - open source
 
