@@ -1,4 +1,4 @@
-# Mobile Devices
+# 📱 Mobile Devices
 
 Class of hardware devices designed to fulfill their function independently of the place they're used at, usually designed to be easy to carry and containing rechargable or replaceable battery. Also called 'portable devices'.
 
