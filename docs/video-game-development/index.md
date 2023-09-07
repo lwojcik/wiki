@@ -1,4 +1,4 @@
-# Video Game Development
+# 🎮 Video Game Development
 
 Processes, approaches, techniques and tools related to video game development. Commonly referred to as **gamedev**.
 

@@ -1,4 +1,4 @@
-# Video Games
+# 🎮 Video Games
 
 This is a section where I track everything relevant to video games.
 

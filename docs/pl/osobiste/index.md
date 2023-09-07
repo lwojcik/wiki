@@ -1,4 +1,4 @@
-# Osobiste
+# 🧑 Osobiste
 
 Różne rzeczy, które trzymam tu głównie na swoje potrzeby.
 

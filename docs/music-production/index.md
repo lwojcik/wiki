@@ -1,4 +1,4 @@
-# Music Production
+# 🎵 Music Production
 
 Links related to any aspect of music production, mostly using computers and software.
 
