@@ -1,4 +1,4 @@
-# Web Browsers
+# 🌐 Web Browsers
 
 Assorted material on web browsers.
 
