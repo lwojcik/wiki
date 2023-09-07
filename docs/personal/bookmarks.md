@@ -6,7 +6,7 @@ I still use bookmarks bar in my browser and occasionally sync it with this page 
 
 See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/)
 
-For links in Polish, see 👉 [Ciekawe linki](../pl/ciekawe-linki.md)
+For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
