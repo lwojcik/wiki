@@ -45,7 +45,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://pixelfed.social/lukemgraphy
 - https://www.tiktok.com/@lukemgraphy
 - https://tumblr.com/lukemgraphy
-- https://youpic.com/lukemgraphy
 
 ## Software / IT
 
