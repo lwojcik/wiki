@@ -1,4 +1,4 @@
-# Mobile Operating Systems
+# 📱 Mobile Operating Systems
 
 Class of operating systems built for [mobile devices](../mobile-devices/). Unlike phone firmware, they are written in high-level languages and they are often architecturally similar to computer operating systems. A non-distinctive feature of mobile operating systems is that they allow for running custom software.
 
