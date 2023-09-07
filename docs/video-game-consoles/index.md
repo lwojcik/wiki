@@ -1,4 +1,4 @@
-# Video Game Consoles
+# 🎮 Video Game Consoles
 
 Specialized class of computers designed to run video games, usually delivered in form of proprietary storage devices (cartridges, discs, memory cards) or digitally via manufacturer's digital store. They usually run specialized firmware and software that may be derived from open software and architectures but isn't 100% compatible with them.
 
