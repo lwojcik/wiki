@@ -7,8 +7,8 @@
 
 ### In Polish
 
-- [Bookmarks (PL)](./docs/pl/ciekawe-linki.mdmd)
-- [Blogroll (PL)](./docs/pl/blogroll.md)
+- [Bookmarks (PL)](./docs/pl/osobiste/ciekawe-linki.md)
+- [Blogroll (PL)](./docs/pl/osobiste/blogroll.md)
 
 ## License
 
