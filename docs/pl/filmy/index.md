@@ -1,4 +1,4 @@
-# Filmy
+# 🎥 Filmy
 
 Sekcja poświęcona polskojęzycznym filmom, które obejrzałem lub chcę obejrzeć.
 

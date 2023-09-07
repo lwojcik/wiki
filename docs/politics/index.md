@@ -1,4 +1,4 @@
-# Politics
+# 📥 Politics
 
 Set of beliefs and activites revolving around groups of people, including power relations, resource distributions, decision making and more. The way groups of people organize themselves and solve common problems.
 

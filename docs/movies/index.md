@@ -1,4 +1,4 @@
-# Movies
+# 🎥 Movies
 
 Films, movies, whatever - moving pictures, right?
 
