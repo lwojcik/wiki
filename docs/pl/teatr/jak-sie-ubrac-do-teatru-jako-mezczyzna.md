@@ -4,6 +4,7 @@
 - nie, nie trzeba zakładać pełnego garnituru i krawata
   - chyba, że to premiera - to zazwyczaj ważne wydarzenie i na to warto się ubrać lepiej
   - i zapewne inne normy panują w Teatrze Narodowym niż w teatrach komediowych (z czasem to zweryfikuję)
+    - np. Teatr Wielki Opera Narodowa ma taką akcję: https://teatrwielki.pl/wejdz-w-obiektyw/
   - ale też bez przesady
     - pooglądaj zdjęcia z premier spektakli na stronach teatrów (powinny być w sekcji aktualności)
     - np. premiera Okna na parlament w Och-Teatrze: https://www.ochteatr.com.pl/pr/796851/premiera-okna-na-parlament
