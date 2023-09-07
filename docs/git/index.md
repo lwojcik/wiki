@@ -23,6 +23,7 @@ Distributed version control system used for building software.
 - https://bitbucket.org/
 - https://sr.ht/
 - https://codeberg.org/
+- http://gitee.com/ (Chinese - very slow outside of China)
 
 ## Self-hosted Git hosting solutions
 
