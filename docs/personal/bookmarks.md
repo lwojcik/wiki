@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
+https://careercutler.substack.com/p/how-to-be-the-mentor-you-wish-you
+
 https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1
 
 http://www.ws.binghamton.edu/fridrich/cube.html
