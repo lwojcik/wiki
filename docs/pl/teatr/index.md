@@ -27,6 +27,7 @@ Byłem tam na co najmniej jednym spektaklu.
 
 Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obejrzał, albo pracuje tam ktoś znany, kogo chciałbym zobaczyć na deskach.
 
+- Scena Relax - https://scenarelax.pl/
 - Teatr 6.piętro, Warszawa - https://teatr6pietro.pl/
 - Teatr Capitol, Warszawa - https://teatrcapitol.pl/
 - Teatr Kamienica - https://teatrkamienica.pl/pl/
