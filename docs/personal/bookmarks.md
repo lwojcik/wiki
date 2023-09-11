@@ -12,6 +12,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 https://redact.dev/
 
+https://www.paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security/
+
 https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too
 
 https://careercutler.substack.com/p/how-to-be-the-mentor-you-wish-you
