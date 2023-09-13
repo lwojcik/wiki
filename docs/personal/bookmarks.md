@@ -12,6 +12,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 https://redact.dev/
 
+https://hachyderm.io/@djlink@mastodon.gamedev.place/111052944755862881
+
 https://www.paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security/
 
 https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too
