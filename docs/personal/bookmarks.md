@@ -558,3 +558,5 @@ https://www.mpkelley.com/vespertine
 https://www.pedrontheworld.com/automotive-1
 
 https://www.lnaylor.com/
+
+https://adactio.com/journal/20442
