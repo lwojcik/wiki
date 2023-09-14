@@ -8,3 +8,4 @@ Sorted alphabetically.
 
 - Blackberry (2023)
 - Tetris (2023)
+- Zielona Granica (release in Poland: 22 September 2023)
