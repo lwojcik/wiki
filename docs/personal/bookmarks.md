@@ -560,3 +560,5 @@ https://www.pedrontheworld.com/automotive-1
 https://www.lnaylor.com/
 
 https://adactio.com/journal/20442
+
+https://superuser.com/questions/1595994/dont-let-websites-overwrite-clipboard-in-firefox-without-explicitly-giving-perm
