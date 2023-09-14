@@ -34,3 +34,4 @@ User interface framework developed by Facebook.
 - https://overreacted.io/making-setinterval-declarative-with-react-hooks/ - Making setInterval Declarative with React Hooks
 - https://kentcdodds.com/blog/react-hooks-pitfalls - 5 Tips to Help You Avoid React Hooks Pitfalls
 - https://houssein.me/progressive-react - progressive React
+- https://semaphoreci.com/blog/react-portals - A Guide to React Portals
