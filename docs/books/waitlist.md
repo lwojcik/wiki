@@ -12,7 +12,6 @@ Sorted alphabetically.
 - Sukces w releacjach międzyludzkich - Alex W. Barszczewski
 - Wiek paradoksów. Czy technologia nas ocali? - Natalia Hatalska
 - Invasion: Russia’s Bloody War and Ukraine’s Fight - Luke Harding
-- Hacking Capitalism - Kris Nóva
 - The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change - Tanya Reilly
 - Clean Code: A Handbook of Agile Software Craftsmanship - Robert Martin aka Uncle Bob
 - Clean Coder, The: A Code of Conduct for Professional Programmers - Robert Martin aka Uncle Bob
