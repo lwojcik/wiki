@@ -15,7 +15,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://tomlarrow.com/
 - https://rknight.me/blog/
 - https://ericwbailey.website/published/
-- https://olu.online/blog/
 - https://hazelweakly.me/blog/
 - https://jenniferplusplus.com/
 - https://samholstein.com/articles/
