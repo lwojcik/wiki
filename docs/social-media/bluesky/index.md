@@ -19,6 +19,7 @@ Want an invitation code? While I can't guarantee having one right away, don't be
 - https://atproto.com/ - The AT Protocol
 - https://github.com/bluesky-social - Bluesky on GitHub
 - https://atproto.com/blog/create-post - Posting via the Bluesky API
+- https://www.npmjs.com/package/easy-bsky-bot-sdk - TypeScript SDK for writing bots
 
 ## Assorted links
 
