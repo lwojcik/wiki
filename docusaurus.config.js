@@ -20,11 +20,11 @@ const config = {
       "@docusaurus/plugin-client-redirects",
       {
         fromExtensions: ["html", "htm"], // /myPage.html -> /myPage
-        toExtensions: ["exe", "zip"], // /myAsset -> /myAsset.zip (if latter exists)
+        // toExtensions: ["exe", "zip"], // /myAsset -> /myAsset.zip (if latter exists)
         redirects: [
           {
             from: ["/docs/social-media/t2"],
-            to: "/docs/social-media/pebble",
+            to: "/docs/social-media/pebble/index.md",
           },
         ],
         // createRedirects(existingPath) {
