@@ -6,6 +6,7 @@ Sorted alphabetically.
 
 - Cinema Paradiso (1988)
 - Ford v Ferrari / Le Mans '66 (2019)
+- [The Green Border (2023)](./titles/green-border.md)
 - Inglorious Basterds (2009)
 - Interstellar (2014)
 - The Office Space (1999)
