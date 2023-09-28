@@ -8,6 +8,8 @@ Various resources related to AI.
 - https://ai.meta.com/llama/ - open-source LLM by Meta
 - https://www.tabnine.com/ - AI assistant for software developers
 - https://github.com/THUDM/CodeGeeX - A Multilingual Code Generation Model
+- https://mist-project.github.io/index_en.html - image preprocessing tool designed for the purpose of protecting the style and content of images from being mimicked by state-of-the-art AI-for-Art applications
+- https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
 
 ## Tutorials / Manuals / Howtos
 
