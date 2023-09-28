@@ -12,6 +12,7 @@ Various resources related to AI.
 ## Tutorials / Manuals / Howtos
 
 - https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a - How to Create Your Local LLM Model
+- https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/ - Block the Bots that Feed “AI” Models by Scraping Your Website
 
 ## Unsorted
 
