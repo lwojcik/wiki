@@ -574,3 +574,7 @@ https://un.curl.dev/
 https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
 
 https://www.shareicon.net/pack/social-icons-circular-black?p=2
+
+https://sibelius.substack.com/p/we-dont-have-seniors-anymore
+
+https://datapacrat.com/Opinion/Reciprocality/r0/index.html
