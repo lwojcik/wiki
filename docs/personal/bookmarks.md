@@ -578,3 +578,5 @@ https://www.shareicon.net/pack/social-icons-circular-black?p=2
 https://sibelius.substack.com/p/we-dont-have-seniors-anymore
 
 https://datapacrat.com/Opinion/Reciprocality/r0/index.html
+
+https://springframework.guru/gang-of-four-design-patterns/
