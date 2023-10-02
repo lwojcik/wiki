@@ -37,7 +37,9 @@ Sorted alphabetically.
 - Clash of Clans
 - Clash Royale
 - Clicker Heroes
+- Coffee Talk Episode 2
 - Counter-Strike: Global Offensive
+- The Crew: Motorfest
 - Cut the Rope
 - Cyber Hook
 - Cyber Protocol
@@ -107,6 +109,7 @@ Sorted alphabetically.
 - [The Red Strings Club](../titles/red-strings-club.md)
 - Redline Racer
 - Q.U.B.E. 2
+- Red Dead Redemption
 - Rocket League
 - Settlers 2
 - Settlers Online
@@ -118,6 +121,8 @@ Sorted alphabetically.
 - Super Smash Bros
 - Teeworlds
 - Tekken 7
+- Tetris (Game Boy)
+- Tetris 99
 - Temple Run
 - This War of Mine
 - Tom Clancy's The Division 2

@@ -1,0 +1,29 @@
+# The Crew: Motorfest
+
+- I played the closed beta in July 2023, then subscribed for a month of Ubisoft+ in September 2023 to check it out
+- Enjoyed it overall
+- It's very similar to Forza Horizon 5, but it still retains a lot of its own personality known previous The Crew titles
+- set on an island of Hawaii
+- much more interesting map than in Forza Horizon 5 - it's not as flat and dull
+  - the map in TC:M isn't used for Eliminator mode, so it can be much more varied
+  - streets are wider
+  - rally raids (equivalent of cross-country races) are more interesting as terrain is more varied
+  - cities and urban architecture is present
+- car selection is similar to FH5, but there are also bikes and boats
+  - I found a few cars I didn't see in FH5 (e.g. concept cars)
+- bikes are tons of funs, especially in rally raids
+- playlists are built differently than in FH5
+  - more events and more varied
+  - racing events are longer (anywhere between 2-10 minutes)
+  - photo opportunities, collectibles and feats (skills) are parts of playlists
+- most playlists (as of September 2023) involve cars and bikes
+  - there is one playlist for boats
+- great game for cruising overall
+- not the greatest game for racing per se:
+  - opponent AI is just as bad as in Forza Horizon titles
+  - rubberbanding is atrocious
+  - driving model is better than in The Crew 2, but it's still very weird
+  - drifting physics makes no sense and cars are poorly tuned for that - without drifting assist I couldn't even get the most basic powersliding to work
+  - cars don't handle well while cornering
+  - braking lines are virtually useless and in many cases completely invisible
+- good game, but too expensive, both for the release price ($70) and as a subscription (~$15)

@@ -43,6 +43,7 @@ Sorted alphabetically.
 - Jazz Jackrabbit 2
 - The Legend of Zelda: Breath of the Wild
 - Lego City Undercover
+- Lumines Remastered
 - Mafia: Definitive Edition
 - Mafia 2
 - Metroid Dread

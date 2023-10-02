@@ -7,9 +7,4 @@ This list contains games that:
 
 Sorted alphabetically.
 
-- Coffee Talk Episode 2
-- Lumines Remastered - trying to unlock endless mode, I miss just one skin
-- Red Dead Redemption - single player campaign
-- Tetris (Game Boy) - considering speedrunning, we'll see
-- Tetris 99 - speedrunning 150-line mode for fun
-- Tetris Effect: Connected - speedrunning journey mode for fun
+- (nothing at the moment)
