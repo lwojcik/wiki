@@ -59,3 +59,4 @@ Various resources related to AI.
 - https://techcrunch.com/2023/09/20/github-ceo-despite-ai-gains-demand-for-software-developers-will-still-outweigh-supply/ - GitHub CEO: Despite AI gains, demand for software developers will still outweigh supply
 - https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/ - Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’
 - https://arstechnica.com/information-technology/2023/09/can-you-melt-eggs-quoras-ai-says-yes-and-google-is-sharing-the-result/ - Can you melt eggs? Quora’s AI says “yes,” and Google is sharing the result
+- https://arstechnica.com/science/2023/09/ai-is-getting-better-at-hurricane-forecasting/ - AI is getting better at hurricane forecasting
