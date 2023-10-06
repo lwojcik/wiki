@@ -23,3 +23,7 @@ I _probably_ have one and I can send it to you. [Contact me](https://lukaszwojci
 - https://pebble.is/Bry/status/107804 - Town Hall Meeting Notes from 6th July 2023
 - https://pebble.is/limhi/status/30522 - Tips for new community members
 - https://github.com/ericrosenberg1/t2unofficial/tree/main - unofficial Android app
+
+## Other links
+
+- https://qz.com/how-the-ex-twitter-founders-of-pebble-plan-to-compete-w-1850866565 - Quartz: How the ex-Twitter founders of Pebble plan to compete with their old employer
