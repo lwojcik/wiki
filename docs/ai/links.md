@@ -63,3 +63,4 @@ Various resources related to AI.
 - https://venturebeat.com/ai/oops-google-search-caught-publicly-indexing-users-conversations-with-bard-ai/ - Google Search caught publicly indexing users’ conversations with Bard AI
 - https://www.npr.org/sections/goatsandsoda/2023/10/06/1201840678/ai-was-asked-to-create-images-of-black-african-docs-treating-white-kids-howd-it- - NPR: AI was asked to create images of Black African docs treating white kids. How'd it go?
 - https://www.creativebloq.com/news/ai-is-taking-artists-jobs - Creative Bloq: AI is replacing artists, and here's the proof
+- https://www.404media.co/4chan-uses-bing-to-flood-the-internet-with-racist-images/ - 404 Media: 4chan Uses Bing to Flood the Internet With Racist Images
