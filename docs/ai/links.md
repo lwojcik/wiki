@@ -61,3 +61,5 @@ Various resources related to AI.
 - https://arstechnica.com/information-technology/2023/09/can-you-melt-eggs-quoras-ai-says-yes-and-google-is-sharing-the-result/ - Can you melt eggs? Quora’s AI says “yes,” and Google is sharing the result
 - https://arstechnica.com/science/2023/09/ai-is-getting-better-at-hurricane-forecasting/ - AI is getting better at hurricane forecasting
 - https://venturebeat.com/ai/oops-google-search-caught-publicly-indexing-users-conversations-with-bard-ai/ - Google Search caught publicly indexing users’ conversations with Bard AI
+- https://www.npr.org/sections/goatsandsoda/2023/10/06/1201840678/ai-was-asked-to-create-images-of-black-african-docs-treating-white-kids-howd-it- - NPR: AI was asked to create images of Black African docs treating white kids. How'd it go?
+- https://www.creativebloq.com/news/ai-is-taking-artists-jobs - Creative Bloq: AI is replacing artists, and here's the proof
