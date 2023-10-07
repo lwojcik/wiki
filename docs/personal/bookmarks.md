@@ -582,3 +582,5 @@ https://datapacrat.com/Opinion/Reciprocality/r0/index.html
 https://springframework.guru/gang-of-four-design-patterns/
 
 https://fs.blog/feynman-technique/
+
+https://blog.meain.io/2023/what-is-in-dot-git/
