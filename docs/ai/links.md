@@ -19,9 +19,10 @@ Various resources related to AI
 - https://www.youtube.com/watch?v=RO_GPH0g3pw - A conversation with OpenAI's CEO, Sam Altman, hosted by IDEAS NCBR
 - https://www.youtube.com/watch?v=L_Guz73e6fw -  Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast 367 (March 2023)
 
-## Tutorials / Manuals / Howtos
+## Tutorials / Manuals / Explainers
 
 - https://thomascherickal.medium.com/how-to-create-your-own-llm-model-2598615a039a - How to Create Your Local LLM Model
+- https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html - How to talk about A.I. like an insider
 
 ## Defending against AI's abuse of content
 
@@ -99,7 +100,6 @@ Various resources related to AI
 
 ## Unsorted
 
-- https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html - How to talk about A.I. like an insider
 - https://en.wikipedia.org/wiki/Wikipedia:Large_language_models - Wikipedia's guidance on LLMs
 - https://archive.is/HjiZq - Business Insider: AI is ruining the internet
 - https://www.youtube.com/watch?v=Se91Pn3xxSs - How AI Will Disrupt the Entire World in 3 Years (Prepare Now While Others Panic) | Emad Mostaque
