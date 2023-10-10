@@ -93,10 +93,11 @@ Various resources related to AI
 - https://time.com/6287136/eu-ai-regulation/ - E.U. Takes a Step Closer to Passing the World's Most Comprehensive AI Regulation
 - https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating - OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation
 
-## AI being (somewhat) awesome
+## AI being (somewhat) good
 
 - https://arstechnica.com/science/2023/09/ai-is-getting-better-at-hurricane-forecasting/ - AI is getting better at hurricane forecasting
 - https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back - USCF: How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back
+- https://www.wired.com/story/googles-ai-traffic-lights-driving-annoying/ - Wired: Google’s AI Is Making Traffic Lights More Efficient and Less Annoying
 
 ## Unsorted
 
