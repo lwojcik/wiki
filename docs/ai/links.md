@@ -47,6 +47,7 @@ Various resources related to AI
 
 - https://archive.is/yZDqA - Marc Andreessen Is (Mostly) Wrong This Time
 - https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/ - Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’
+- https://www.youtube.com/watch?v=aC99lNQdNmA - Patrick (H) Willems: A.I. Filmmaking Is Not the Future. It's a Grift
 
 ### Nuanced
 
