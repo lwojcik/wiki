@@ -584,3 +584,5 @@ https://springframework.guru/gang-of-four-design-patterns/
 https://fs.blog/feynman-technique/
 
 https://blog.meain.io/2023/what-is-in-dot-git/
+
+https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/
