@@ -69,6 +69,7 @@ Various resources related to AI
 - https://venturebeat.com/ai/oops-google-search-caught-publicly-indexing-users-conversations-with-bard-ai/ - Google Search caught publicly indexing users’ conversations with Bard AI
 - https://www.theguardian.com/technology/2023/aug/09/google-says-ai-systems-should-be-able-to-mine-publishers-work-unless-companies-opt-out - The Guardian: Google says AI systems should be able to mine publishers’ work unless companies opt out
 - https://www.businessinsider.com/google-search-helpful-content-update-results-drop-ai-generated-2023-9?IR=T - Google recently cut 'people' from its Search guidelines. Now, website owners say a flood of AI content is pushing them down in search results
+- https://searchengineland.com/google-extended-does-not-stop-google-search-generative-experience-from-using-your-sites-content-433058 - Google-Extended does not stop Google Search Generative Experience from using your site’s content
 
 ## Environmental impact of AI
 
