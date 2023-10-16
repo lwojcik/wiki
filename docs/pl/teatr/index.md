@@ -21,7 +21,7 @@ Byłem tam na co najmniej jednym spektaklu.
 - Och-Teatr, Warszawa - https://www.ochteatr.com.pl/
 - Teatr Ateneum im. Stefana Jaracza, Warszawa - https://teatrateneum.pl/
 - Teatr im. Juliusza Osterwy, Lublin - https://www.teatrosterwy.pl/
-- Teatr Kamienica - https://teatrkamienica.pl/pl/
+- Teatr Kamienica, Warszawa - https://teatrkamienica.pl/pl/
 - Teatr Narodowy, Warszawa - https://narodowy.pl/
 
 ## Teatry, w których jeszcze nie byłem
