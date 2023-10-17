@@ -107,6 +107,7 @@ Various resources related to AI
 - https://en.wikipedia.org/wiki/Wikipedia:Large_language_models - Wikipedia's guidance on LLMs
 - https://archive.is/HjiZq - Business Insider: AI is ruining the internet
 - https://www.youtube.com/watch?v=Se91Pn3xxSs - How AI Will Disrupt the Entire World in 3 Years (Prepare Now While Others Panic) | Emad Mostaque
+- https://www.noemamag.com/artificial-general-intelligence-is-already-here/ - Noema: Artificial General Intelligence Is Already Here
 - https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/ - These Women Tried to Warn Us About AI
 - https://blog.eladgil.com/p/early-days-of-ai - Early days of AI by Elad Gil
 - https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549 - Gizmodo: So Far, AI Is a Money Pit That Isn't Paying Off
