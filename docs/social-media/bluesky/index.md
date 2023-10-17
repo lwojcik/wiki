@@ -19,11 +19,11 @@ Want an invitation code? While I can't guarantee having one right away, don't be
 - https://atproto.com/ - The AT Protocol
 - https://github.com/bluesky-social - Bluesky on GitHub
 - https://atproto.com/blog/create-post - Posting via the Bluesky API
-- https://www.npmjs.com/package/easy-bsky-bot-sdk - TypeScript SDK for writing bots
 
 ## Assorted links
 
 - https://www.npmjs.com/package/easy-bsky-bot-sdk - TypeScript SDK for easily writing bots for bsky.app
+- https://skyview.social/ - View and share BlueSky threads without needing a BlueSky account
 - https://shaneafsar.com/blog/trying-the-bluesky-api/ - Trying the Bluesky API
 - https://atscan.net/pds - map of AT Protocol instances
 - https://github.com/qwell/bsky-exploits - exploit modules for Bluesky, using a framework that simplifies the creation of new modules as new exploits are discovered
