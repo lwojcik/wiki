@@ -101,6 +101,7 @@ Various resources related to AI
 - https://arstechnica.com/science/2023/09/ai-is-getting-better-at-hurricane-forecasting/ - AI is getting better at hurricane forecasting
 - https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back - USCF: How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back
 - https://www.wired.com/story/googles-ai-traffic-lights-driving-annoying/ - Wired: Google’s AI Is Making Traffic Lights More Efficient and Less Annoying
+- https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843 - Today: A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis
 
 ## Unsorted
 
