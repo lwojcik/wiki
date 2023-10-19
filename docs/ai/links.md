@@ -49,6 +49,7 @@ Various resources related to AI
 - https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/ - Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’
 - https://www.youtube.com/watch?v=aC99lNQdNmA - Patrick (H) Willems: A.I. Filmmaking Is Not the Future. It's a Grift
 - https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604681 - AI Art and its Impact on Artists
+- https://gist.github.com/sleepyfox/6c6c11f7272a57c7ea08a898eaac9373 - The problem with AI coders
 
 ### Nuanced
 
