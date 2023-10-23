@@ -29,3 +29,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://localghost.dev/blog/
 - https://popagandhi.com/
 - https://katexcellence.com/
+- https://ianbetteridge.com/
