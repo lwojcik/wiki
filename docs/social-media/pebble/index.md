@@ -1,16 +1,16 @@
 # Pebble
 
-Assorted stuff about [Pebble (pebble.is)](https://pebble.is) (formerly known as T2 / t2.social).
+Assorted stuff about Pebble (pebble.is) (formerly known as T2 / t2.social).
 
-Pebble was a proprietary social networking platform founded by former Twitter employees: [Sarah Oh](https://pebble.is/sarah) and [Gabor Cselle](https://pebble.is/gabor).
+Pebble was a proprietary social networking platform founded by former Twitter employees: Sarah Oh and Gabor Cselle.
 
 - until 19 September 2023 it functioned under a temporary name "T2"
-- works in web browser and as a PWA
-- no API ([being considered](https://pebble.is/Bry/status/107821))
+- worked in web browser and as a PWA
+- no API (it was considered)
 - no official mobile apps or third-party clients
-- no ads ([monetization being discussed](https://pebble.is/Bry/status/107812))
-- supports some post formatting (bold and italic) - https://pebble.is/schmutzie/status/150550
-- uses AI functions
+- no ads (monetization was being discussed)
+- supported some post formatting (bold and italic)
+- used AI features
 
 On 24 October 2023 Pebble was announced to shut down on November 1st. The following statement was sent by email:
 
