@@ -7,6 +7,7 @@ Pebble was a proprietary social networking platform founded by former Twitter em
 - until 19 September 2023 it functioned under a temporary name "T2"
 - worked in web browser and as a PWA
 - no API (it was considered)
+- it had a verification system similar to Twitter / X checkmarks, initially it was manual, then switched to automatic process using Persona
 - no official mobile apps or third-party clients
 - no ads (monetization was being discussed)
 - supported some post formatting (bold and italic)
