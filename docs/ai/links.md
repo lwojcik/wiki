@@ -49,6 +49,7 @@ Various resources related to AI
 - https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/ - Signal’s Meredith Whittaker: AI is fundamentally ‘a surveillance technology’
 - https://www.youtube.com/watch?v=aC99lNQdNmA - Patrick (H) Willems: A.I. Filmmaking Is Not the Future. It's a Grift
 - https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604681 - AI Art and its Impact on Artists
+- https://gist.github.com/sleepyfox/6c6c11f7272a57c7ea08a898eaac9373 - The problem with AI coders
 
 ### Nuanced
 
@@ -89,6 +90,7 @@ Various resources related to AI
 
 - https://www.businessinsider.com/student-uses-playrgound-ai-for-professional-headshot-turned-white-2023-8?IR=T - An Asian MIT student asked AI to turn an image of her into a professional headshot. It made her white, with lighter skin and blue eyes.
 - https://www.npr.org/sections/goatsandsoda/2023/10/06/1201840678/ai-was-asked-to-create-images-of-black-african-docs-treating-white-kids-howd-it- - NPR: AI was asked to create images of Black African docs treating white kids. How'd it go?
+- https://restofworld.org/2023/ai-image-stereotypes/ - Rest of World: How AI reduces the world to stereotypes
 
 ## Legislation / Governments' reactions
 
@@ -101,12 +103,15 @@ Various resources related to AI
 - https://arstechnica.com/science/2023/09/ai-is-getting-better-at-hurricane-forecasting/ - AI is getting better at hurricane forecasting
 - https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back - USCF: How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back
 - https://www.wired.com/story/googles-ai-traffic-lights-driving-annoying/ - Wired: Google’s AI Is Making Traffic Lights More Efficient and Less Annoying
+- https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843 - Today: A boy saw 17 doctors over 3 years for chronic pain. ChatGPT found the diagnosis
+- https://bgr.com/science/ai-detected-a-supernova-without-help-from-humans/ - BGR: AI detected a supernova without help from humans
 
 ## Unsorted
 
 - https://en.wikipedia.org/wiki/Wikipedia:Large_language_models - Wikipedia's guidance on LLMs
 - https://archive.is/HjiZq - Business Insider: AI is ruining the internet
 - https://www.youtube.com/watch?v=Se91Pn3xxSs - How AI Will Disrupt the Entire World in 3 Years (Prepare Now While Others Panic) | Emad Mostaque
+- https://www.noemamag.com/artificial-general-intelligence-is-already-here/ - Noema: Artificial General Intelligence Is Already Here
 - https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/ - These Women Tried to Warn Us About AI
 - https://blog.eladgil.com/p/early-days-of-ai - Early days of AI by Elad Gil
 - https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549 - Gizmodo: So Far, AI Is a Money Pit That Isn't Paying Off
