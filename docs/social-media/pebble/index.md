@@ -11,6 +11,7 @@ Pebble was a proprietary social networking platform founded by former Twitter em
 - no ads (monetization was being discussed)
 - supported some post formatting (bold and italic)
 - used AI features
+- 20k users at the moment of shutdown
 
 On 24 October 2023 Pebble was announced to shut down on November 1st. The following statement was sent by email:
 
