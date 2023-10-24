@@ -9,7 +9,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://www.linkedin.com/in/lukaszwojcik/
 - https://matrix.to/#/@lukem:aria-net.org
 - https://post.news/@/elukem
-- https://t2.social/lukem
 - https://twitter.com/lukaszwojcik
 - https://twitter.com/Lukem_tt
 
@@ -24,6 +23,8 @@ Links to all of my public profiles where I identify myself using real credential
 
 - https://dev.to/lwojcik
 - https://medium.com/@lukaszwojcik
+- https://lukem.hashnode.dev/
+- https://lessoffbeatbits.substack.com/
 
 ## Gaming
 
