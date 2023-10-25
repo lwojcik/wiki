@@ -13,13 +13,17 @@ Want an invitation code? While I can't guarantee having one right away, don't be
 ## Resources
 
 - https://blueskyweb.xyz/ - Project page
-- https://play.google.com/store/apps/details?id=xyz.blueskyweb.app - Android app
-- https://apps.apple.com/us/app/bluesky-social/id6444370199 - iOS app
 - https://bsky.app/ - Bluesky instance
 - https://atproto.com/ - The AT Protocol
 - https://github.com/bluesky-social - Bluesky on GitHub
 - https://atproto.com/blog/create-post - Posting via the Bluesky API
+
+## Clients
+
+- https://play.google.com/store/apps/details?id=xyz.blueskyweb.app - Android app
+- https://apps.apple.com/us/app/bluesky-social/id6444370199 - iOS app
 - https://graysky.app/ - 3rd party Bluesky client
+- https://tokimekibluesky.vercel.app - Bluesky browser client with multi-column and multi-account support
 
 ## Assorted links
 
