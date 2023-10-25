@@ -588,3 +588,5 @@ https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-swit
 https://blog.meain.io/2023/what-is-in-dot-git/
 
 https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/
+
+https://joseph.seering.org/papers/Seering_and_Kairam_2023_Who_Moderates_Twitch_What_Do_They_Do.pdf
