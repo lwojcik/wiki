@@ -590,3 +590,5 @@ https://blog.meain.io/2023/what-is-in-dot-git/
 https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/
 
 https://joseph.seering.org/papers/Seering_and_Kairam_2023_Who_Moderates_Twitch_What_Do_They_Do.pdf
+
+https://seirdy.one/posts/2020/11/23/website-best-practices/
