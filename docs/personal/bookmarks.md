@@ -592,3 +592,5 @@ https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negativ
 https://joseph.seering.org/papers/Seering_and_Kairam_2023_Who_Moderates_Twitch_What_Do_They_Do.pdf
 
 https://seirdy.one/posts/2020/11/23/website-best-practices/
+
+https://levelupsoftwareengineering.substack.com/p/6-skills-required-to-be-a-senior?r=1nwcx&utm_source=tldrwebdev
