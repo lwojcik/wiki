@@ -51,6 +51,7 @@ Various resources related to AI
 - https://dl.acm.org/doi/fullHtml/10.1145/3600211.3604681 - AI Art and its Impact on Artists
 - https://gist.github.com/sleepyfox/6c6c11f7272a57c7ea08a898eaac9373 - The problem with AI coders
 - https://www.creativebloq.com/features/ai-art-the-impact-of-generative-AI - Creative Bloq: Illustrator Kelly McKernan reveals the raw impact of AI on artists' lives
+- https://www.wired.com/story/corporate-surveillance-train-ai/ - Wired: Your Boss’s Spyware Could Train AI to Replace You
 
 ### Nuanced
 
