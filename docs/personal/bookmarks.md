@@ -594,3 +594,7 @@ https://joseph.seering.org/papers/Seering_and_Kairam_2023_Who_Moderates_Twitch_W
 https://seirdy.one/posts/2020/11/23/website-best-practices/
 
 https://levelupsoftwareengineering.substack.com/p/6-skills-required-to-be-a-senior?r=1nwcx&utm_source=tldrwebdev
+
+https://en.wikipedia.org/wiki/Bystander_effect
+
+https://www.sciencedaily.com/releases/2023/10/231026131628.htm
