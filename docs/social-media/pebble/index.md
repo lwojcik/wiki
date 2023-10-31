@@ -24,6 +24,12 @@ On 24 October 2023 Pebble was announced to shut down on November 1st. The follow
 >
 > Over Pebble’s final days, we are turning our attention to serving those who’ve supported us: friends, family, investors, and you -- our community. We are looking for ways to keep you connected with each other, but perhaps in a different form. Stay tuned for more on this.
 
+## Post-Pebble community
+
+- https://pebble.social/ - experimental Mastodon server run by [@gabor](https://pebble.social/@gabor)
+- `#T2Pub` - hashtag on Mastodon
+- https://bsky.app/profile/did:plc:djznhtuxa6mqmne7s3bpgj3i/feed/aaage7yxhnwyo - Pebblers feed on Bluesky
+
 ## Assorted links
 
 - https://qz.com/how-the-ex-twitter-founders-of-pebble-plan-to-compete-w-1850866565 - Quartz: How the ex-Twitter founders of Pebble plan to compete with their old employer
@@ -31,3 +37,4 @@ On 24 October 2023 Pebble was announced to shut down on November 1st. The follow
 - https://techcrunch.com/2023/10/24/pebble-the-twitter-alternative-previously-known-as-t2-is-closing-down/ - TechCrunch: Pebble, the Twitter alternative previously known as T2, is shutting down
 - https://limhimontoya.com/2023/10/24/pebble-closing/ - Limhi Montoya: Pebble Closing
 - https://prysmcat.com/blog/2023/10/learning-from-t2-pebble/ - Prysma Writes: Learning from T2/Pebble
+- 
