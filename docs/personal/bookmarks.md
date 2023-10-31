@@ -602,3 +602,5 @@ https://www.sciencedaily.com/releases/2023/10/231026131628.htm
 https://robertovitillo.com/costs-of-microservices/
 
 https://www.channel15radio.com/2023/10/30/endings-and-beginnings/
+
+https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752
