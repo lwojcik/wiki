@@ -41,4 +41,3 @@
 - https://pl.wikipedia.org/wiki/O%C5%BCenek_(dramat) - Ożenek w polskiej Wikipedii
 - https://en.wikipedia.org/wiki/Nikolai_Gogol - Nikołaj Gogol w angielskiej Wikipedii
 - https://pl.wikipedia.org/wiki/Niko%C5%82aj_Gogol - Nikołaj Gogol w polskiej Wikipedii
-- 
