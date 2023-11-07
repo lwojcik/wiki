@@ -33,6 +33,6 @@
 - https://teatrkamienica.pl/pl/aktualnosci/388/spektakularne-otwarcie-jubileuszowego-sezonu - relacja z premiery
 - https://encyklopediateatru.pl/przedstawienie/72966/czarna-komedia - wpis w Encyklopedii Teatru Polskiego
 - https://en.wikipedia.org/wiki/Black_Comedy_(play) - Czarna Komedia w angielskiej Wikipedii
-- https://en.wikipedia.org/wiki/Black_Comedy_(play) - Czarna Komedia w polskiej Wikipedii
+- https://pl.wikipedia.org/wiki/Czarna_komedia_(sztuka) - Czarna Komedia w polskiej Wikipedii
 - https://en.wikipedia.org/wiki/Peter_Shaffer - Peter Schaffer w angielskiej Wikipedii
 - https://pl.wikipedia.org/wiki/Peter_Shaffer - Peter Schaffer w polskiej Wikipedii

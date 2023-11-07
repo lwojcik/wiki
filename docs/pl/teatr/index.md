@@ -19,6 +19,7 @@ Przejdź do strony 👉 [Spektakle](./spektakle/)
 Byłem tam na co najmniej jednym spektaklu.
 
 - Och-Teatr, Warszawa - https://www.ochteatr.com.pl/
+- Teatr 6.piętro, Warszawa - https://teatr6pietro.pl/
 - Teatr Ateneum im. Stefana Jaracza, Warszawa - https://teatrateneum.pl/
 - Teatr im. Juliusza Osterwy, Lublin - https://www.teatrosterwy.pl/
 - Teatr Kamienica, Warszawa - https://teatrkamienica.pl/pl/
@@ -29,7 +30,6 @@ Byłem tam na co najmniej jednym spektaklu.
 Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obejrzał, albo pracuje tam ktoś znany, kogo chciałbym zobaczyć na deskach.
 
 - Scena Relax - https://scenarelax.pl/
-- Teatr 6.piętro, Warszawa - https://teatr6pietro.pl/
 - Teatr Capitol, Warszawa - https://teatrcapitol.pl/
 - Teatr Kwadrat im. Edwarda Dziewońskiego, Warszawa - https://teatrkwadrat.pl/
 - Teatr Polonia, Warszawa - https://www.teatrpolonia.pl/
