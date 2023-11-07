@@ -1,4 +1,4 @@
-# Czarna Komedia (Teatr Kamienica, 2018)
+# Ożenek (Teatr 6.piętro, 2017)
 
 - obejrzałem 7 grudnia 2023 r.
 - mój ostatni obejrzany spektakl w 2023 r.
@@ -10,6 +10,10 @@
 - sporo gry światłami i świetna muzyka podkreślająca nastrój
 - monolog Cezarego Pazury nie wycisnął ze mnie łez, ale cisz
 - i jednocześnie najciekawszy obsadowo z dotychczas obejrzanych
+- Cezary Pazura opowiadał o tym spektaklu na swoim kanale YT:
+  - https://www.youtube.com/watch?v=xYLmsCO8fQ4
+  - https://www.youtube.com/watch?v=5WlSDOTMRVU
+  - https://www.youtube.com/watch?v=N-_7mdK1yVU
 
 ## Informacje
 
@@ -32,8 +36,9 @@
 
 ## Linki
 
-- https://teatr6pietro.pl/spektakle/ozenek/- opis spektaklu na stronie teatru
+- https://teatr6pietro.pl/spektakle/ozenek/ - opis spektaklu na stronie teatru
 - https://en.wikipedia.org/wiki/Black_Comedy_(play) - Ożenek w angielskiej Wikipedii
 - https://pl.wikipedia.org/wiki/O%C5%BCenek_(dramat) - Ożenek w polskiej Wikipedii
 - https://en.wikipedia.org/wiki/Nikolai_Gogol - Nikołaj Gogol w angielskiej Wikipedii
 - https://pl.wikipedia.org/wiki/Niko%C5%82aj_Gogol - Nikołaj Gogol w polskiej Wikipedii
+- 
