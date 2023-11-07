@@ -20,6 +20,7 @@ Currently I do not do any active research around AI but I sometimes encounter an
   - [GitHub Copilot](https://github.com/features/copilot)
 - conversations
   - [ChatGPT](https://chat.openai.com/)
+  - [Grok](https://x.ai/)
 
 ## Personal concerns about AI
 

@@ -32,9 +32,11 @@ On 24 October 2023 Pebble was announced to shut down on November 1st. The follow
 
 ## Assorted links
 
+- https://medium.com/gabor/from-t2-to-pebble-the-rise-challenges-and-lessons-of-building-a-twitter-alternative-553652f1d1e7 - Gabor Cselle: From T2 to Pebble: The Rise, Challenges, and Lessons of Building a Twitter Alternative
 - https://qz.com/how-the-ex-twitter-founders-of-pebble-plan-to-compete-w-1850866565 - Quartz: How the ex-Twitter founders of Pebble plan to compete with their old employer
 - https://dead.place/posts/goodbye-pebble - dead.place: Goodbye Pebble
 - https://techcrunch.com/2023/10/24/pebble-the-twitter-alternative-previously-known-as-t2-is-closing-down/ - TechCrunch: Pebble, the Twitter alternative previously known as T2, is shutting down
 - https://limhimontoya.com/2023/10/24/pebble-closing/ - Limhi Montoya: Pebble Closing
 - https://prysmcat.com/blog/2023/10/learning-from-t2-pebble/ - Prysma Writes: Learning from T2/Pebble
 - https://www.channel15radio.com/endings-and-beginnings/ - Channel 15 Radio: Endings and Beginnings
+- https://www.nevillehobson.com/2023/11/06/the-pebble-phoenix-and-the-x-effect/ - Neville Hobson: The Pebble phoenix and the X effect
