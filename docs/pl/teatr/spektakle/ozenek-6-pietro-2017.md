@@ -6,6 +6,7 @@
 - historia o czwórce zalotników rywalizujących o rękę atrakcyjnej Agafii Tichonownej
   - Podkolesin, który zostaje szczęśliwym wybrankiem, w ostatniej chwili ucieka przez okno
 - dość skomplikowana i dynamiczna scenografia
+- sporo elementów tanecznych
 - sporo gry światłami i świetna muzyka podkreślająca nastrój
 - monolog Cezarego Pazury nie wycisnął ze mnie łez, ale cisz
 - i jednocześnie najciekawszy obsadowo z dotychczas obejrzanych
