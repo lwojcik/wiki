@@ -4,7 +4,7 @@
 - mój pierwszy obejrzany spektakl w latach 2020.
   - dzięki niemu na nowo zainteresowałem się teatrem
 - sztuka autorstwa Raya Cooneya, napisana w 1990 r.
-- lekka i przyjemna brytyjska farsa opowiadająca o rozpustnym ministrze z partii prawicowej, który w hotelu planuje skok w bok z sekretarką partii lewicowej
+- brytyjska farsa opowiadająca o rozpustnym ministrze z partii prawicowej, który w hotelu planuje skok w bok z sekretarką partii lewicowej
   - ale w oknie apartamentu znajduje się trup
   - który koniec końców okazuje się nie być trupem
   - i wychodzi z tego potężny galimatias
