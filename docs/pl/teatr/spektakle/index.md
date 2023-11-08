@@ -18,5 +18,5 @@ Kolejność alfabetyczna. W nawiasie teatr wystawiający oraz data premiery.
 
 ## Poczekalnia
 
-- Mayday 2 (Och-Teatr, 2013) - https://www.ochteatr.com.pl/event-data/1368/mayday-2
-- Ożenek (Teatr 6.piętro, 2017) - https://teatr6pietro.pl/spektakle/ozenek/
+- Mayday 2 (Och-Teatr, 2013) - https://www.ochteatr.com.pl/event-data/1368/mayday-2 - lub jakikolwiek inny teatr w okolicy
+- nie wiem co jeszcze, czekam na repertuary w 2024 r.
