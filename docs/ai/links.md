@@ -75,6 +75,7 @@ Various resources related to AI
 - https://www.businessinsider.com/google-search-helpful-content-update-results-drop-ai-generated-2023-9?IR=T - Google recently cut 'people' from its Search guidelines. Now, website owners say a flood of AI content is pushing them down in search results
 - https://searchengineland.com/google-extended-does-not-stop-google-search-generative-experience-from-using-your-sites-content-433058 - Google-Extended does not stop Google Search Generative Experience from using your site’s content
 - https://www.afr.com/technology/google-brain-founder-says-big-tech-is-lying-about-ai-human-extinction-danger-20231027-p5efnz - Financial Review: Google Brain founder \[Andrew Ng\] says big tech is lying about AI extinction danger
+- https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai - The Verge: AI companies have all kinds of arguments against paying for copyrighted content
 
 ## Environmental impact of AI
 
