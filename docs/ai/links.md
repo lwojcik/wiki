@@ -122,3 +122,4 @@ Various resources related to AI
 - https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549 - Gizmodo: So Far, AI Is a Money Pit That Isn't Paying Off
 - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/ - MIT Technology Review: This new data poisoning tool lets artists fight back against generative AI
 - https://blog.metamirror.io/generative-ai-get-ready-to-multiply-your-technical-debt-fd60ee7d7f4e - Generative AI: get ready to multiply your Technical Debt
+- https://css-irl.info/stop-using-ai-generated-images/ - CSS { In Real Life }: Stop Using AI-Generated Images
