@@ -40,3 +40,4 @@ On 24 October 2023 Pebble was announced to shut down on November 1st. The follow
 - https://prysmcat.com/blog/2023/10/learning-from-t2-pebble/ - Prysma Writes: Learning from T2/Pebble
 - https://www.channel15radio.com/endings-and-beginnings/ - Channel 15 Radio: Endings and Beginnings
 - https://www.nevillehobson.com/2023/11/06/the-pebble-phoenix-and-the-x-effect/ - Neville Hobson: The Pebble phoenix and the X effect
+- https://wedistribute.org/2023/11/pebble-shuts-down-but-starts-a-mastodon-instance/ - We Distribute: Pebble Shuts Down…But Starts a Mastodon Instance? 
