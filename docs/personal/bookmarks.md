@@ -10,6 +10,10 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
+https://toot.garden/@larsfrommars/111436689124703678
+
+https://annas-archive.org/
+
 https://redact.dev/
 
 https://hachyderm.io/@djlink@mastodon.gamedev.place/111052944755862881
