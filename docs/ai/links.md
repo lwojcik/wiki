@@ -60,6 +60,7 @@ Various resources related to AI
 ## AI misuse
 
 - https://www.404media.co/4chan-uses-bing-to-flood-the-internet-with-racist-images/ - 404 Media: 4chan Uses Bing to Flood the Internet With Racist Images
+- https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/ - Ars Technica: UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges
 
 ## AI spreading misinformation
 
