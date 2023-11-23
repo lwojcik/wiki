@@ -7,8 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Luke's Wiki",
-  tagline: "Noting down and bookmarking stuff I care about",
-  url: "https://lukeswiki.eu/",
+  tagline: "Stuff I care about",
+  url: "https://wiki.lukaszwojcik.net/",
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
