@@ -13,3 +13,4 @@ Tutaj natomiast spisuję sobie linki do blogów, które wpadły mi w oko, ale je
 ## Linki
 
 - https://yzoja.pl/
+- https://tatadeveloper.end3r.com/
