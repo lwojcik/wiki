@@ -6,12 +6,10 @@ Links to all of my public profiles where I identify myself using real credential
 
 - https://bsky.app/profile/lukaszwojcik.net
 - https://discord.com/users/194383973156126720
+- https://www.facebook.com/Lwjck
 - https://www.linkedin.com/in/lukaszwojcik/
 - https://matrix.to/#/@lukem:aria-net.org
-- https://post.news/@/elukem
 - https://twitter.com/lukaszwojcik
-- https://twitter.com/Lukem_tt
-- https://spoutible.com/elukem
 
 ## Fediverse
 
@@ -56,7 +54,6 @@ Links to all of my public profiles where I identify myself using real credential
 ## Video / Live Streaming
 
 - https://twitch.tv/lukem_tt
-- https://trovo.live/s/lukem
 - https://www.youtube.com/@lukem_tt
 
 ## Project-related
@@ -65,9 +62,5 @@ Links to all of my public profiles where I identify myself using real credential
   - https://www.instagram.com/lukemnet/
   - https://twitter.com/lukem_net
   - https://www.tiktok.com/@lukemnet
+  - https://www.facebook.com/lukemnet
   - https://www.threads.net/@lukemnet
-- Offbeat Bits:
-  - https://buttondown.email/offbeatbits/
-  - https://post.news/@/offbeatbits
-  - https://bsky.app/profile/offbeatbits.com
-  - https://mas.to/@offbeatbits
