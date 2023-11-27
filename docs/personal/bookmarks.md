@@ -14,6 +14,8 @@ https://toot.garden/@larsfrommars/111436689124703678
 
 https://annas-archive.org/
 
+https://www.theguardian.com/commentisfree/2023/nov/26/artificial-intelligence-harm-worry-about-people-control-openai
+
 https://redact.dev/
 
 https://hachyderm.io/@djlink@mastodon.gamedev.place/111052944755862881
