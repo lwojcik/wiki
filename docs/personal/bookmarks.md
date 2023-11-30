@@ -616,3 +616,5 @@ https://jvns.ca/blog/2023/11/01/confusing-git-terminology/
 https://blog.stetson.edu/faculty-engagement/tone-policing/
 
 https://careercutler.substack.com/p/6-tiny-wording-tweaks-to-level-up?utm_source=tldrwebdev
+
+https://www.bbc.com/news/technology-67564205
