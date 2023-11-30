@@ -52,6 +52,7 @@ Various resources related to AI
 - https://gist.github.com/sleepyfox/6c6c11f7272a57c7ea08a898eaac9373 - The problem with AI coders
 - https://www.creativebloq.com/features/ai-art-the-impact-of-generative-AI - Creative Bloq: Illustrator Kelly McKernan reveals the raw impact of AI on artists' lives
 - https://www.wired.com/story/corporate-surveillance-train-ai/ - Wired: Your Boss’s Spyware Could Train AI to Replace You
+- https://aftermath.site/the-internet-is-full-of-ai-dogshit - Aftermath: The Internet Is Full of AI Dogshit
 
 ### Nuanced
 
