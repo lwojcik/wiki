@@ -57,6 +57,8 @@ Various resources related to AI
 ### Nuanced
 
 - https://rodneybrooks.com/what-will-transformers-transform/ - What Will Transformers Transform
+- https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/ - Freethought Blogs: The problem isn’t artificial intelligence, it’s natural stupidity
+- https://www.wbur.org/cognoscenti/2023/12/06/artificial-intelligence-tech-workers-collective-action-sam-altman-ethan-marcotte - wbur: OpenAI is a threat to labor, but its employees staged one of the most successful collective actions in tech
 
 ## AI misuse
 

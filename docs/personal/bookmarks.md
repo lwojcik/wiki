@@ -10,8 +10,6 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
-https://www.wbur.org/cognoscenti/2023/12/06/artificial-intelligence-tech-workers-collective-action-sam-altman-ethan-marcotte
-
 https://olano.dev/2023-11-30-code-is-run-more-than-read/
 
 https://toot.garden/@larsfrommars/111436689124703678
@@ -44,8 +42,6 @@ https://fred-gu.medium.com/fix-the-annoying-web-page-caching-issue-permanently-5
 
 https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/
 
-https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/
-
 https://www.eventstorming.com/book/
 
 https://en.wikipedia.org/wiki/Event_storming
@@ -64,8 +60,6 @@ https://github.com/alicezwatson/personal-data-pollution/blob/main/README.md
 
 https://actionsbook.com/
 
-https://github.com/RupertBenWiser/Web-Environment-Integrity/issues/28
-
 https://archive.is/58UAF
 
 https://web.archive.org/web/20130721030250/http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html
@@ -78,15 +72,9 @@ https://www.entrepreneur.com/science-technology/linkedin-changed-its-algorithms-
 
 https://ademcatamak.medium.com/layers-in-ddd-projects-bd492aa2b8aa
 
-https://tilvids.com/w/41f5284e-b79e-4c84-97e5-664a6ac5a1ee
-
-https://privacy.thenexus.today/just-blocking-threads-isnt-enough/
-
 https://gizmodo.com/10-internet-rage-baiting-techniques-to-know-about-1850615967
 
 https://sizeof.cat/post/website-discovery/
-
-https://www.npmjs.com/package/docusaurus-plugin-search-local
 
 https://szybkiewypo.pl/
 
@@ -114,10 +102,6 @@ https://www.optoutproject.net/
 
 https://chriscoyier.net/2023/06/06/modern-css-in-real-life/
 
-https://www.reddit.com/r/reddit/comments/144ho2x/join_our_ceo_tomorrow_to_discuss_the_api/
-
-https://cyberlaw.stanford.edu/blog/2023/06/eu-member-states-still-cannot-agree-about-end-end-encryption
-
 https://www.youtube.com/watch?v=3albqwME4V0
 
 https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
@@ -126,7 +110,7 @@ https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/
 
 https://jvns.ca/blog/2023/06/05/some-blogging-myths/
 
-https://www.developing.dev/p/maximizing-impact-in-the-layoff-era?utm_source=substack&utm_medium=email
+https://www.developing.dev/p/maximizing-impact-in-the-layoff-era
 
 https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/
 
@@ -147,8 +131,6 @@ https://pubmed.ncbi.nlm.nih.gov/23654206/
 https://wppool.dev/is-dark-mode-better-for-your-eyes/
 
 https://9to5google.com/2023/05/03/gmail-blue-checkmark/
-
-https://keepassxc.org/blog/2023-04-15-audit-report/
 
 https://www.usethehumanvoice.com/formats/
 
@@ -200,13 +182,7 @@ https://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/
 
 http://www.shakesville.com/2010/01/feminism-101.html
 
-https://worldofwarcraft.blizzard.com/en-gb/character/us/thunderlord/jiari
-
 https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
-
-https://buttondown.email/pricing
-
-https://fosdem.org/2023/schedule/events/
 
 https://www.ben-evans.com/presentations/
 
@@ -223,8 +199,6 @@ https://www.crosenthal.com/chrome/2020/02/25/01.html
 https://lauriepenny.substack.com/p/cancelling-crybullies-and-consequences
 
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen
-
-https://techcommunity.microsoft.com/t5/windows-it-pro-blog/internet-explorer-11-desktop-app-retirement-faq/ba-p/2366549
 
 https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/
 
@@ -246,8 +220,6 @@ https://uses.tech/
 
 https://hbr.org/2022/12/what-to-do-when-a-direct-report-is-bullying-you
 
-https://www.mailerlite.com/pricing
-
 https://doctorow.medium.com/how-to-leave-dying-social-media-platforms-9fc550fe5abf
 
 https://nownownow.com/about
@@ -267,8 +239,6 @@ https://www.uni-goettingen.de/de/document/download/bed2706fd34e29822004dbe29cd00
 https://www.themarshallproject.org/2022/12/21/prison-banned-books-new-york-florida-censorship
 
 https://www.sahilbloom.com/newsletter/energy-calendars-how-to-negotiate-more
-
-https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883
 
 https://www.neelnanda.io/blog/43-making-friends
 
@@ -339,8 +309,6 @@ https://blog.cloudboost.io/the-state-of-web-applications-3f789a18b810?gi=81e0adb
 https://www.slideshare.net/kim.mens/objectoriented-design-heuristics
 
 https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231
-
-https://blog.cloudboost.io/the-state-of-web-applications-3f789a18b810
 
 https://webpack.js.org/guides/author-libraries/
 
@@ -461,7 +429,6 @@ https://markus.oberlehner.net/blog/building-npm-packages-with-typescript/
 https://overreacted.io/writing-resilient-components/
 
 https://blog.jessfraz.com/post/books/
-http://www.paulgraham.com/avg.html
 
 https://evolt.org/node/564
 
@@ -483,8 +450,6 @@ https://dzone.com/articles/design-patterns-in-expressjs
 
 https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db
 
-https://www.forbes.com/sites/parmyolson/2018/09/26/exclusive-whatsapp-cofounder-brian-acton-gives-the-inside-story-on-deletefacebook-and-why-he-left-850-million-behind/
-
 https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 
 https://alemil.com/guidelines-for-writing-readable-code
@@ -492,10 +457,6 @@ https://alemil.com/guidelines-for-writing-readable-code
 https://futurestud.io/tutorials/node-js-increase-the-memory-limit-for-your-process
 
 https://mondaynote.com/50-years-in-tech-part-2-why-hp-fell-621c42238479
-
-https://stephenmann.io/post/dont-do-this-in-production/
-
-https://stephenmann.io/post/designing-reusable-react-components/
 
 http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html
 
@@ -527,7 +488,7 @@ https://www.spacebar.news/p/stop-using-brave-browser
 
 https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/
 
-https://www.totaltypescript.com/type-vs-interface-which-should-you-use?utm_source=tldrwebdev
+https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 
 https://openwebdocs.org/content/posts/micro-benevolences/
 
@@ -535,17 +496,15 @@ https://github.com/aasimsani/meow-learning
 
 https://github.com/jimp-dev/jimp
 
-https://www.mux.com/blog/what-are-react-server-components?utm_source=tldrwebdev
+https://www.mux.com/blog/what-are-react-server-components
 
-https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/?utm_source=tldrwebdev
+https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/
 
-https://twitter.com/sahilbloom/status/1686713822529110016?utm_source=tldrwebdev
+https://twitter.com/sahilbloom/status/1686713822529110016
 
 https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/
 
-https://hamatti.org/posts/bloggers-i-read-tuesday/
-
-https://dodov.dev/blog/why-does-email-development-have-to-suck?utm_source=tldrnewsletter
+https://dodov.dev/blog/why-does-email-development-have-to-suck
 
 https://love2dev.com/blog/how-to-uninstall-a-service-worker/
 
@@ -556,12 +515,6 @@ https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
 https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8?IR=T
 
 https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
-
-https://charlesroper.com/ (homepage inspiration)
-
-https://www.wired.com/story/poland-train-radio-stop-attack/
-
-https://patkay.com/pages/photography
 
 https://www.mpkelley.com/vespertine
 
@@ -611,14 +564,10 @@ https://www.sciencedaily.com/releases/2023/10/231026131628.htm
 
 https://robertovitillo.com/costs-of-microservices/
 
-https://www.channel15radio.com/2023/10/30/endings-and-beginnings/
-
-https://www.nme.com/news/gaming-news/xbox-will-block-third-party-controllers-to-preserve-the-console-experience-3525752
-
 https://jvns.ca/blog/2023/11/01/confusing-git-terminology/
 
 https://blog.stetson.edu/faculty-engagement/tone-policing/
 
-https://careercutler.substack.com/p/6-tiny-wording-tweaks-to-level-up?utm_source=tldrwebdev
+https://careercutler.substack.com/p/6-tiny-wording-tweaks-to-level-up
 
 https://www.bbc.com/news/technology-67564205

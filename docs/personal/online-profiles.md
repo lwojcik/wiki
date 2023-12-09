@@ -16,7 +16,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://hachyderm.io/@lukem - main
 - https://karab.in/u/lukem
 - https://kbin.social/u/lukem
-- https://mobilizon.pl/@lukem
 
 ## Writing
 
@@ -64,3 +63,4 @@ Links to all of my public profiles where I identify myself using real credential
   - https://www.tiktok.com/@lukemnet
   - https://www.facebook.com/lukemnet
   - https://www.threads.net/@lukemnet
+  - https://www.youtube.com/@lukemgraphy
