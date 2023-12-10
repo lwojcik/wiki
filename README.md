@@ -1,4 +1,4 @@
-# Visit the site 👉 [Luke's Wiki](https://lukeswiki.eu)
+# Visit the site 👉 [Luke's Wiki](https://wiki.lukaszwojcik.net)
 
 ## Quick links (mostly for myself)
 
