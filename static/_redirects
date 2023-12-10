@@ -1,5 +1,3 @@
-https://lukeswiki.eu/*            https://wiki.lukaszwojcik.net/:splat 301!
-https://www.lukeswiki.eu/*        https://wiki.lukaszwojcik.net/:splat 301!
+https://www.lukeswiki.eu/*        https://lukeswiki.eu/:splat 301!
 https://lukeswiki.netlify.app/*   https://wiki.lukaszwojcik.net/:splat 301!
 https://lukeswiki.netlify.com/*   https://wiki.lukaszwojcik.net/:splat 301!
-https://wiki.lukem.net/*          https://wiki.lukaszwojcik.net/:splat 301!
