@@ -33,6 +33,10 @@ Wpływ pogody na latanie dronem.
   - zmienia wyważenie śmigła powodując wibracje, a to wpływa negatywnie na łożyska w silnikach, a to z kolei na stabilność lotu
 - przenoszenie BSP z miejsca o niskiej temperaturzy do miejsca cieplejszego może spowodować kondensację pary wodnej (skraplanie pary wodnej na powierzchni od strony cieplejszej)
 
+## Deszcz i wilgotność
+
+- wilgoć może uszkodzić elektronikę
+
 ## Widzialność
 
 - mgła i deszcz mogą negatywnie wpłynąć na widzialność drona, a tym samym mogą nie być spełnione warunki dla lotu VLOS
