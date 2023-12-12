@@ -13,7 +13,7 @@ Różne rodzaje BSP mają różne osiągi. Są też konstrukcje hybrydowe.
 - konstrukcje z 3 lub 4 wirnikami w przypadku awarii jednego z nich nie są zdatne do lotu
 - konstrukcje z 6 lub 8 wirnikami mogą kontynuować lot i bezpiecznie wylądować w razie uszkodzenia jednego z elementów układu napędowego
 
-## Samolot (skrzydło / płatowiec)
+## Samolot (skrzydło / płatowiec / stałopłat)
 
 - siła nośna uzależniona od prędkości względem ośrodka (powietrza)
 - mniejsze zapotrzebowanie na energię - napęd używany tylko do nadawania prędkości
@@ -30,3 +30,7 @@ Różne rodzaje BSP mają różne osiągi. Są też konstrukcje hybrydowe.
   - oprócz zalet samolotu mogą też startować i lądować pionowo oraz zawisać
   - mają skomplikowaną budowę
   - przechodzenie z pionowej fazy lotu do poziomej może powodować destabilizację lotu
+
+## Helikopter
+
+- może startować i lądować pionowo
