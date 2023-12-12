@@ -12,7 +12,7 @@ Z końcem 2023 r. tracą moc krajowe przepisy dotyczące użytkownania BSP, na i
 - ✅ grudzień 2023 - zaliczenie szkolenia i egzaminu online na kategorię otwartą A1/A3
 - ✅ grudzień 2023 - zaliczenie szkolenia na kategorię otwartą A2
 - ⏳ niedaleka przyszłość - jedno z poniższych lub wszystkie:
-  - egzamin na kategorię otwartą A2
+  - egzamin teoretyczny na kategorię otwartą A2
   - szkolenie NSTS-01 VLOS + NSTS-05 BVLOS
 
 ## Informacje o użytkowaniu dronów
