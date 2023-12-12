@@ -13,8 +13,7 @@ Z końcem 2023 r. tracą moc krajowe przepisy dotyczące użytkownania BSP, na i
 - ✅ grudzień 2023 - zaliczenie szkolenia na kategorię otwartą A2
 - ⏳ niedaleka przyszłość - jedno z poniższych lub wszystkie:
   - egzamin na kategorię otwartą A2
-  - szkolenie NSTS-01 / NSTS-02 VLOS (w zasięgu wzroku)
-  - szkolenie NSTS-05 BVLOS (do 4kg poza zasięgiem wzroku)
+  - szkolenie NSTS-01 VLOS + NSTS-05 BVLOS
 
 ## Informacje o użytkowaniu dronów
 
