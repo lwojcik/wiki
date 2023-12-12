@@ -1,3 +1,3 @@
-# macOS
+# MacOS
 
 All things about macOS.
