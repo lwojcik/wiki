@@ -94,6 +94,7 @@ Various resources related to AI
 - https://economictimes.indiatimes.com/magazines/panache/90-staff-replaced-with-ai-chatbot-lina-dukaan-founder-suumit-shah-justifies-sacking-as-tough-but-necessary-social-media-thinks-otherwise/articleshow/101720226.cms?from=mdr - 90% staff replaced with AI chatbot Lina, Dukaan founder Suumit Shah justifies sacking as ‘tough but necessary’; social media thinks otherwise
 - https://www.theregister.com/2023/08/23/ilo_ai_jobs_impact_study/ - Generative AI won't steal your job, just change it, says UN (Unless you're a woman in a clerical position, in which case your role might never come into existence)
 - https://www.creativebloq.com/news/ai-is-taking-artists-jobs - Creative Bloq: AI is replacing artists, and here's the proof
+- https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html - CNBC: Recent data shows AI job losses are rising, but the numbers don’t tell the full story
 
 ## AI being biased
 
