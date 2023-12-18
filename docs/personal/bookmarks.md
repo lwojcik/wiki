@@ -10,6 +10,8 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
+https://codepen.io/daviddarnes/pen/JjxmLpb?editors=0100
+
 https://olano.dev/2023-11-30-code-is-run-more-than-read/
 
 https://toot.garden/@larsfrommars/111436689124703678
