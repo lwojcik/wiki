@@ -41,7 +41,7 @@ Links to all of my public profiles where I identify myself using real credential
 - https://instagram.com/lukemgraphy
 - https://pixelfed.social/lukemgraphy
 - https://www.tiktok.com/@lukemgraphy
-- https://tumblr.com/lukemgraphy
+- https://www.threads.net/@lukemgraphy
 
 ## Software / IT
 
@@ -52,8 +52,8 @@ Links to all of my public profiles where I identify myself using real credential
 
 ## Video / Live Streaming
 
-- https://twitch.tv/lukem_tt
-- https://www.youtube.com/@lukem_tt
+- https://vimeo.com/lukemgraphy
+- https://www.youtube.com/@lukemgraphy
 
 ## Project-related
 
@@ -63,4 +63,3 @@ Links to all of my public profiles where I identify myself using real credential
   - https://www.tiktok.com/@lukemnet
   - https://www.facebook.com/lukemnet
   - https://www.threads.net/@lukemnet
-  - https://www.youtube.com/@lukemgraphy
