@@ -2,4 +2,4 @@
 
 - watched on HBO Max in December 2023
 - honestly, I have nothing worthwhile to say about this movie
-- it's a product advertisement disguised as a movie and every good thing I could say about it doesn't matter
+- it's a product advertisement disguised as a movie and that makes every praise of mine about it irrelevant
