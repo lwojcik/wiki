@@ -9,15 +9,12 @@ Gaming consoles can be portable, with screen and controller integrated into a si
 - I don't like this category, but I want to be able to play video games and I no longer consider building and owning a gaming PC viable in the long-term. I think of gaming consoles as 'lesser evil'
 - With subscriptions, exclusives and other forms of artificially created scarcity consoles morphed into annoying blobs of hardware that stand in the way between me and the product I want to pay for. I don't buy a specific type of phone or TV just to experience this or that TV show / application - and with many games that is exactly what I'm expected to do
 
-## Video game consoles I own
-
-- [Nintendo Switch](./nintendo-switch.md)
-- [Xbox One X](./xbox-one-x.md)
-
 ## Video game consoles I used to own
 
+- [Nintendo Switch](./nintendo-switch.md)
 - [Pegasus MT-777DX](./pegasus-mt-777dx/)
 - [PlayStation Portable](./playstation-portable/)
+- [Xbox One X](./xbox-one-x.md)
 - knock-off version of Nintendo Game & Watch
 - Brick Game
 

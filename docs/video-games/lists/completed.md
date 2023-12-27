@@ -25,6 +25,7 @@ Sorted alphabetically.
 - Commandos: Behind Enemy Lines
 - Contra
 - The Crew 2
+- The Crew: Motorfest
 - Diablo 3
 - Dink Smallwood
 - Dr Mario (NES)

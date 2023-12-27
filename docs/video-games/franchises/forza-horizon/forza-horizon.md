@@ -79,7 +79,7 @@ Games belonging to this franchise share the following characteristics:
 - I was 'infected' with Forza Horizon franchise on [blu's Twitch stream](https://www.twitch.tv/blu_fall)
 - the franchise 'clicked' to me because I played a lot of The Crew 2 at the time
 - I played all installments in the following order: 4, 3, 5, 1, 2
-- Forza Horizon 4 was the installment I played super seriously, including placing myself in top 50 in rivals events. The remaining installments, including the latest one, I play for fun, often with friends
+- Forza Horizon 4 was the installment I played super seriously, including placing myself in top 50 in rivals events. The remaining installments, including FH5, I played for fun, often with friends
 - I love car racing and this franchise brings all the awesomeness I first discovered in Need for Speed: World (open world crusising, various racing events to choose from, selection of fun cars, etc.)
 - it's not a franchise you play for racing. I call it Magic the Gathering with cars
   - if you don't like racing, there's plenty of things to do that aren't racing per se, but still involve doing _something_ with cars

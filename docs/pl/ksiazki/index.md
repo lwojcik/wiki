@@ -2,6 +2,4 @@
 
 Sekcja poświęcona polskojęzycznym książkom, które przeczytałem lub planuję przeczytać.
 
-W trakcie budowy.
-
-Zobacz też sekcję anglojęzyczną 👉 [📖 Books](../../books/index.md)
+Listy książek aktualnie czytanych lub przeczytanych trzymam w sekcji 👉 [📖 Books](../../books/index.md)

@@ -132,7 +132,7 @@ Sorted alphabetically.
 - V-Rally 3-D (J2ME)
 - Warcraft 2
 - Watch_Dogs 2
-- The Witcher 3
+- [The Witcher 3](../titles/witcher3.md)
 - Wolcen: Lords of Mayhem
 - Wolfenstein 3D
 - WRC 8

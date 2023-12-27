@@ -22,7 +22,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://dev.to/lwojcik
 - https://lukaszwojcik.medium.com/
 - https://lukaszwojcik.hashnode.dev/
-- https://lukaszwojcik.substack.com/
 
 ## Gaming
 

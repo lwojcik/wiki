@@ -1,3 +1,0 @@
-# Dr. Mario
-
-Under construction.

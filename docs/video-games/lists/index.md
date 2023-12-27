@@ -1,10 +1,9 @@
 # Lists
 
-Various lists of video games I care about.
+Various lists related to video games.
 
 ## Links
 
-- [In progress](./in-progress.md)
-- [Waitlist](./waitlist.md)
+- [Commentary](./commentary.md)
 - [Completed](./completed.md)
 - [Dropped](./dropped.md)

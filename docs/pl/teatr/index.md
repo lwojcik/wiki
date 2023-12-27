@@ -27,7 +27,7 @@ Byłem tam na co najmniej jednym spektaklu.
 
 ## Teatry, w których jeszcze nie byłem
 
-Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obejrzał, albo pracuje tam ktoś znany, kogo chciałbym zobaczyć na deskach.
+Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obejrzał, pracuje tam ktoś znany, kogo chciałbym zobaczyć na deskach... albo po prostu wiem, że istnieją i chętnie bym je odwiedził.
 
 - Scena Relax - https://scenarelax.pl/
 - Teatr Capitol, Warszawa - https://teatrcapitol.pl/
@@ -38,3 +38,4 @@ Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obej
 - Teatr Powszechny im. Zygmunta Hübnera, Warszawa - https://www.powszechny.com/
 - Teatr Współczesny, Warszawa - https://www.wspolczesny.pl/
 - Teatr XL im. Artystów Zaangażowanych - https://teatrxl.com/
+- TR Warszawa - https://trwarszawa.pl/

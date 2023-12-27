@@ -1,6 +1,8 @@
 # 🎮 Video Games
 
-This is a section where I track everything relevant to video games.
+This is a section where I used to track everything related to video games in my life.
+
+I no longer own any gaming hardware and while I don't exclude the possibility of getting one in the future, it will probably take a while until I decide to do so.
 
 ## In progress
 

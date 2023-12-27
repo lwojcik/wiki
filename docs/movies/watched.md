@@ -4,6 +4,7 @@ Movies I watched in full at least once. List probably incomplete.
 
 Sorted alphabetically.
 
+- Barbie (2023)
 - Cinema Paradiso (1988)
 - Ford v Ferrari / Le Mans '66 (2019)
 - [The Green Border (2023)](./titles/green-border.md)
