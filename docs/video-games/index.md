@@ -2,15 +2,7 @@
 
 This is a section where I used to track everything related to video games in my life.
 
-I no longer own any gaming hardware and while I don't exclude the possibility of getting one in the future, it will probably take a while until I decide to do so.
-
-## In progress
-
-See the page 👉 [In progress](./lists/in-progress.md)
-
-## Waitlist
-
-See the page 👉 [Waitlist](./lists/waitlist.md)
+I no longer own any gaming hardware. While I don't exclude the possibility of getting one in the future, it will probably take a while until I decide to do so.
 
 ## Completed
 
