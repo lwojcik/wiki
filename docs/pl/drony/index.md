@@ -24,3 +24,4 @@ Zobacz stronę: 👉 [Użytkowanie dronów](/pl/drony/uzytkowanie/)
 - https://ulc.gov.pl/pl/drony/kategoria-otwarta-informacje - informacje o Kategorii Otwartej na stronie ULC
 - https://checkin.pansa.pl/ - system do zgłaszania lotów BSP i sprawdzania stref geograficznych
 - https://utm.pansa.pl/ - system PansaUTM
+- https://www.pansa.pl/nowe-zasady-zglaszania-i-koordynacji-lotow-bsp-w-polsce/ - Nowe zasady zgłaszania i koordynacji lotów BSP w Polsce
