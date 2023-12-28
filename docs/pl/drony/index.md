@@ -11,9 +11,8 @@ Z końcem 2023 r. tracą moc krajowe przepisy dotyczące użytkownania BSP, na i
 - ✅ grudzień 2023 - rejestracja jako operator na [stronie Urzędu Lotnictwa Cywilnego](https://drony.ulc.gov.pl/)
 - ✅ grudzień 2023 - zaliczenie szkolenia i egzaminu online na kategorię otwartą A1/A3
 - ✅ grudzień 2023 - zaliczenie szkolenia na kategorię otwartą A2
-- ⏳ niedaleka przyszłość - jedno z poniższych lub wszystkie:
-  - egzamin teoretyczny na kategorię otwartą A2
-  - szkolenie NSTS-01 VLOS + NSTS-05 BVLOS
+- ⏳ w trakcie - szkolenie NSTS-01 VLOS + NSTS-05 BVLOS
+- ❓ być może w niedalekiej przyszłości - egzamin teoretyczny na kategorię otwartą A2
 
 ## Informacje o użytkowaniu dronów
 
