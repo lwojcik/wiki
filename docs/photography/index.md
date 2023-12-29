@@ -1,17 +1,13 @@
 # 📷 Photography
 
-The practice of creating images by capturing light into a light-sensitive surface in a way it's possible to reproduce and use those images.
+I dabble in photography as a hobbyist since 2010s.
 
-Section is under construction.
+I used to shoot Nikon DSLRs (D5100, D90). These days I use Nikon mirrorless (Nikon Z50) or a smartphone.
 
 ## My phography links
 
-- https://12photos.lukem.net/ - 12photos, my old photography gallery
+- https://lukemgraphy.eu/ - my photography gallery
 - https://500px.com/p/lwojcik - 500px profiles
-
-## Upcoming photography projects
-
-- https://lukemgraphy.eu/ - intended to replace 12photos as my main photography site
 - https://www.instagram.com/lukemgraphy
 - https://www.tumblr.com/lukemgraphy
 - https://www.deviantart.com/lukemgraphy

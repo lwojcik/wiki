@@ -25,3 +25,10 @@ I stick to smartphones rather than any form factor camera so that I don't draw a
 - https://www.youtube.com/watch?v=Pxksdngr-Uo - Benett Graezer: How to Film Cinematic B Roll Anywhere with iPhone (5 Pro Tips)
 - https://www.youtube.com/watch?v=ERjx1ThpXcY - Luc Forsyth: Shoot Like a Cinematographer, Not a Videographer
 - https://www.youtube.com/watch?v=Xj1vov4XEk0 - Standard Story Company: Making a Short Film Alone - Top 5 Tips
+- https://www.youtube.com/watch?v=97qL1-IQAmI - Learn Online Video: Master the Art of Solo B-Roll: Smartphone Filmmaking for Beginners
+- https://www.youtube.com/watch?v=RRIsYSC-EDU - Jimmy on Film: Your ISO Settings Are Ruining Your Filmmaking
+- https://www.youtube.com/watch?v=H_QiH0u_quw - Alex Zarfati: Pre-production Process for Your documentary-MUST Do Before You Film
+- https://www.youtube.com/watch?v=IiyBo-qLDeM - StudioBinder: Ultimate Guide to Camera Movement — Every Camera Movement Technique Explained
+- https://www.youtube.com/watch?v=4LDbloNewgk - Tomorrows Filmmakers: Master Mobile Filmmaking in 20 Minutes
+- https://www.youtube.com/watch?v=GtPqDPhx-EI - In Depth Cine: 5 Techniques for Framing Cinematic Shots
+- https://www.youtube.com/watch?v=wjCtuAw2V_A - Jimmy on Film: The Art of Light: Techniques That Will Change Your Cinematography
