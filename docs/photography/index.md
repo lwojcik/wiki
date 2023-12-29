@@ -12,7 +12,3 @@ I used to shoot Nikon DSLRs (D5100, D90). These days I use Nikon mirrorless (Nik
 - https://www.tumblr.com/lukemgraphy
 - https://www.deviantart.com/lukemgraphy
 - https://pixelfed.social/lukemgraphy
-
-## Related sections
-
-- [Digital Photography](../digital-photography)
