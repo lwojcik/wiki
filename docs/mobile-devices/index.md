@@ -22,9 +22,9 @@ Those are devices that are in active duty as we speak
 
 Ordered alphabetically.
 
-- Amazon Kindle Paperwhite 5 Signature Edition (2021) 
-- Samsung Galaxy A52 5G - work phone
-- Samsung Galaxy S21 FE 5G (SM-G990), codename Martini - personal daily driver
+- Amazon Kindle Paperwhite 5 Signature Edition (2021)
+- [Apple iPhone 15 Pro](./iphone/15-pro/) - daily driver
+- Samsung Galaxy S21 FE 5G (SM-G990) - work phone
 - Samsung Galaxy Tab S7 FE (T736) - tablet with stylus
 
 ## Mobile devices I used in the past
@@ -44,12 +44,14 @@ Ordered alphabetically.
 - Nokia Lumia 710
 - OnePlus 7 Pro 5G
 - Samsung Galaxy A5 2016 (SM-A510F)
+- Samsung Galaxy A52 5G
 - Samsung Galaxy S III (GT-i9300)
 - Samsung Galaxy Tab S5E (SM-T725)
 - Samsung Galaxy Tab A 2016 (SM-T285)
 - Sony Ericsson J210i
 - Sony Ericsson K310i
 - Sony Ericsson K810i
+- Xiaomi Mi 10 Lite 5G
 
 ## Mobile devices I had a chance of trying
 
@@ -62,4 +64,3 @@ Ordered alphabetically.
 - Motorola Razr V3
 - Motorola Moto G4
 - Samsung Galaxy J3 2016 (SM-J320F)
-- Xiaomi Mi 10 Lite 5G
