@@ -52,3 +52,4 @@ That's where graphical interfaces to GIT come handy.
 - https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/ - Mikkel Paulson: Git is my buddy: Effective Git as a solo developer
 - https://jvns.ca/blog/2023/11/01/confusing-git-terminology/ - Julia Evans: Confusing git terminology
 - https://blog.meain.io/2023/what-is-in-dot-git/ - Abin Simon: What is in that .git directory?
+- https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/ - Julia Evans: How git cherry-pick and revert use 3-way merge

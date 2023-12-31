@@ -244,8 +244,6 @@ https://eriktorenberg.substack.com/p/build-personal-moats
 
 https://medium.com/@sairamkrish/simple-ansible-script-to-deploy-nodejs-microservices-37240ad59f1a
 
-https://css-tricks.com/more-control-over-css-borders-with-background-image/
-
 https://medium.com/collaborne-engineering/typescript-create-library-for-nodejs-and-browser-fece291d517f
 
 https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
@@ -368,13 +366,9 @@ https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3
 
 https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f
 
-https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/
-
 https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-difference-20230524/
 
 https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
-
-https://european-alternatives.eu/
 
 https://www.washingtonpost.com/politics/2023/07/24/twitter-rival-mastodon-rife-with-child-abuse-material-study-finds/
 
@@ -398,29 +392,17 @@ https://www.mux.com/blog/what-are-react-server-components
 
 https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/
 
-https://twitter.com/sahilbloom/status/1686713822529110016
-
 https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/
 
 https://dodov.dev/blog/why-does-email-development-have-to-suck
 
 https://love2dev.com/blog/how-to-uninstall-a-service-worker/
 
-https://cytag.nl/@fox/110898581862395192
-
 https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start
-
-https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8?IR=T
 
 https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
 
-https://www.mpkelley.com/vespertine
-
-https://adactio.com/journal/20442
-
 https://superuser.com/questions/1595994/dont-let-websites-overwrite-clipboard-in-firefox-without-explicitly-giving-perm
-
-http://tillystranstuesdays.com/
 
 https://benhoyt.com/writings/how-to-apply/
 

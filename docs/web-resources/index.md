@@ -42,6 +42,13 @@ Various collections of resources available online.
 - https://sova.si.edu/ - Smithsonian Online Virtual Archives
 - https://www.loc.gov/web-archives/collections/ - Library of Congress Archive Collections
 - https://thelatinlibrary.com/ - The Latin Library
+- https://sabaq.pk/ - World Class Video Lectures (Free) - Pakistan’s Largest eLearning Site
+- https://www.lej4learning.com.pk/ - LEJ Knowledge Hub: Free online video library
+- https://unpaywall.org/ - An open database of free scholarly articles
+
+## Tools
+
+- https://12ft.io/ - Remove popups, banners, and ads from any website
 
 ## Illustrations
 
@@ -52,8 +59,10 @@ Various collections of resources available online.
 - https://en.wikipedia.org/wiki/List_of_common_misconceptions - Wikipedia: List of common misconceptions
 - https://gizmodo.com/10-internet-rage-baiting-techniques-to-know-about-1850615967 - Gizmodo: 'Flaming Strawmen'? 10 Internet Rage Baiting Techniques You Need to Know About
 - https://sizeof.cat/post/website-discovery/ - Discover personal websites
+- https://twitter.com/sahilbloom/status/1686713822529110016 - Sahil Bloom: The most powerful paradoxes of life
 
 ## Via
 
 - https://toot.garden/@larsfrommars/111436689124703678
 - https://toot.syfershock.com/display/e68f7dd2-3065-5b1f-5271-2e7529919939
+- https://cytag.nl/@fox/110898581862395192
