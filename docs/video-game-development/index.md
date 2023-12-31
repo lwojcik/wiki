@@ -8,4 +8,6 @@ However, games are substantially different from other types of software. They de
 
 I'm a web developer. I don't know much about video game development. Only briefly I worked in a startup building a game. I'm unlikely to dive deeply into the topic any time soon.
 
-Nonetheless, I'll share the little I know about it soon.
+## Game engines
+
+- https://github.com/DJLink/list-of-game-engines-and-frameworks/ - List of game engines and frameworks

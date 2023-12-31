@@ -10,110 +10,6 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
-https://codepen.io/daviddarnes/pen/JjxmLpb?editors=0100
-
-https://olano.dev/2023-11-30-code-is-run-more-than-read/
-
-https://toot.garden/@larsfrommars/111436689124703678
-
-https://annas-archive.org/
-
-https://www.theguardian.com/commentisfree/2023/nov/26/artificial-intelligence-harm-worry-about-people-control-openai
-
-https://redact.dev/
-
-https://hachyderm.io/@djlink@mastodon.gamedev.place/111052944755862881
-
-https://www.paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security/
-
-https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too
-
-https://careercutler.substack.com/p/how-to-be-the-mentor-you-wish-you
-
-https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1
-
-http://www.ws.binghamton.edu/fridrich/cube.html
-
-https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook
-
-https://esif.dev/
-
-https://noidea.dog/glue
-
-https://fred-gu.medium.com/fix-the-annoying-web-page-caching-issue-permanently-5d16527d0b5a
-
-https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/
-
-https://www.eventstorming.com/book/
-
-https://en.wikipedia.org/wiki/Event_storming
-
-https://labzero.com/blog/upgrading-an-ancient-react-application
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-https://css-tricks.com/snippets/css/complete-guide-grid/
-
-https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-
-https://www.freeillustrations.club/
-
-https://github.com/alicezwatson/personal-data-pollution/blob/main/README.md
-
-https://actionsbook.com/
-
-https://archive.is/58UAF
-
-https://web.archive.org/web/20130721030250/http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html
-
-https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/
-
-https://en.wikipedia.org/wiki/List_of_common_misconceptions
-
-https://www.entrepreneur.com/science-technology/linkedin-changed-its-algorithms-heres-how-your-posts/454728
-
-https://ademcatamak.medium.com/layers-in-ddd-projects-bd492aa2b8aa
-
-https://gizmodo.com/10-internet-rage-baiting-techniques-to-know-about-1850615967
-
-https://sizeof.cat/post/website-discovery/
-
-https://szybkiewypo.pl/
-
-https://tech.lgbt/@sudaksis/110672507494797021
-
-https://www.oddbird.net/2023/07/05/contain-root/
-
-https://www.wired.com/story/tiktok-platforms-cory-doctorow/
-
-https://medium.com/@emilymenonbender/talking-about-a-schism-is-ahistorical-3c454a77220f
-
-https://archive.is/92VkK
-
-https://leahreich.substack.com/p/who-gets-to-have-it-all
-
-https://dev.to/dragosnedelcu/9-senior-developer-mental-models-every-programmer-should-master-1jlk
-
-https://www.cyberdemon.org/2023/06/14/reddit-moat.html
-
-https://defector.com/the-last-page-of-the-internet
-
-https://levelup.gitconnected.com/when-github-actions-get-painful-to-troubleshoot-try-this-instead-9a134c9e9baf
-
-https://www.optoutproject.net/
-
-https://chriscoyier.net/2023/06/06/modern-css-in-real-life/
-
-https://www.youtube.com/watch?v=3albqwME4V0
-
-https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
-
-https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/
-
-https://jvns.ca/blog/2023/06/05/some-blogging-myths/
-
-https://www.developing.dev/p/maximizing-impact-in-the-layoff-era
-
 https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/
 
 https://blog.logrocket.com/product-management/how-to-give-receive-constructive-criticism-with-examples/
@@ -520,17 +416,11 @@ https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
 
 https://www.mpkelley.com/vespertine
 
-https://www.pedrontheworld.com/automotive-1
-
-https://www.lnaylor.com/
-
 https://adactio.com/journal/20442
 
 https://superuser.com/questions/1595994/dont-let-websites-overwrite-clipboard-in-firefox-without-explicitly-giving-perm
 
 http://tillystranstuesdays.com/
-
-https://theairtraffic.com/
 
 https://benhoyt.com/writings/how-to-apply/
 
@@ -548,17 +438,11 @@ https://springframework.guru/gang-of-four-design-patterns/
 
 https://fs.blog/feynman-technique/
 
-https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/
-
-https://blog.meain.io/2023/what-is-in-dot-git/
-
 https://www.theatlantic.com/technology/archive/2023/10/twitter-x-decline-negative-user-experience/675570/
 
 https://joseph.seering.org/papers/Seering_and_Kairam_2023_Who_Moderates_Twitch_What_Do_They_Do.pdf
 
 https://seirdy.one/posts/2020/11/23/website-best-practices/
-
-https://levelupsoftwareengineering.substack.com/p/6-skills-required-to-be-a-senior?r=1nwcx&utm_source=tldrwebdev
 
 https://en.wikipedia.org/wiki/Bystander_effect
 
@@ -566,10 +450,4 @@ https://www.sciencedaily.com/releases/2023/10/231026131628.htm
 
 https://robertovitillo.com/costs-of-microservices/
 
-https://jvns.ca/blog/2023/11/01/confusing-git-terminology/
-
 https://blog.stetson.edu/faculty-engagement/tone-policing/
-
-https://careercutler.substack.com/p/6-tiny-wording-tweaks-to-level-up
-
-https://www.bbc.com/news/technology-67564205

@@ -49,3 +49,6 @@ That's where graphical interfaces to GIT come handy.
 ## Assorted links
 
 - https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/ - This is how I git, by Daniel Stenberg, the author of Curl
+- https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/ - Mikkel Paulson: Git is my buddy: Effective Git as a solo developer
+- https://jvns.ca/blog/2023/11/01/confusing-git-terminology/ - Julia Evans: Confusing git terminology
+- https://blog.meain.io/2023/what-is-in-dot-git/ - Abin Simon: What is in that .git directory?

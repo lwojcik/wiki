@@ -16,3 +16,7 @@ See the page 👉 [Dropped](./lists/dropped.md)
 
 - [Games I remember from Atari](../computers/atari-65xe.md#games-i-remember-from-atari)
 - [Games I remember from Pegasus](../video-game-consoles/pegasus-mt-777dx.md#games-i-remember-from-pegasus)
+
+## Interesting links
+
+See the page 👉 [Links](./links/)
