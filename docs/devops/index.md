@@ -1,4 +1,4 @@
-# DevOps
+# 💻 DevOps
 
 Assorted stuff related to integrating and automatic development and IT operations.
 

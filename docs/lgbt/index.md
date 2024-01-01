@@ -1,4 +1,4 @@
-# LGBTQIA+
+# 🏳️‍🌈 LGBTQIA+
 
 Assorted resources on LGBTQIA+.
 

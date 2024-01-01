@@ -1,4 +1,4 @@
-# CSS
+# 🎨 CSS
 
 All about CSS (Cascading Style Sheets) - syntax used for presentational layer of websites.
 

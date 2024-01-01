@@ -1,4 +1,4 @@
-# Aviation
+# ✈️ Aviation
 
 Assorted resources on aviation.
 

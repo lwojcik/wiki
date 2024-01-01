@@ -1,4 +1,4 @@
-# Blogging
+# 📝 Blogging
 
 Assorted resources on blogging.
 

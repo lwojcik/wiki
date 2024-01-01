@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# ₿ Cryptocurrencies
 
 Assorted resources on cryptocurrencies.
 
