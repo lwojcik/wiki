@@ -7,28 +7,10 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 ## Links
 
 - https://rachelbythebay.com/w/
-- https://inessential.com/
-- https://robbowen.digital/writing
 - https://daverupert.com/
-- https://morepablo.com/
-- https://www.jimsrules.com/
 - https://tomlarrow.com/
-- https://rknight.me/blog/
-- https://ericwbailey.website/published/
 - https://hazelweakly.me/blog/
-- https://jenniferplusplus.com/
 - https://samholstein.com/articles/
 - https://ploum.net/
-- https://ben.balter.com/
-- https://chadkohalyk.com/
-- https://robinrendle.com/notes/
-- https://rys.io/en/
-- https://scopique.com/
-- https://www.raymondcamden.com/
-- https://blog.zarfhome.com/
 - https://localghost.dev/blog/
-- https://popagandhi.com/
-- https://katexcellence.com/
 - https://ianbetteridge.com/ / https://technovia.co.uk/
-- https://heather-buchel.com/blog/
-- https://blog.ferrata.dev/
