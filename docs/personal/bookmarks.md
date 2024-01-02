@@ -10,6 +10,22 @@ For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
 ## Links
 
+https://pagefind.app/
+
+https://alex-photographic-eye.mykajabi.com/offers/p4UyQrcm/checkout
+
+https://vimeo.com/22053820
+
+https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user
+
+https://pudding.cool/2017/01/shape-of-slavery/
+
+https://womaning.substack.com/p/why-productivity-hacks-do-not-work
+
+https://www.truthdig.com/articles/what-ghosting-says-about-society-and-why-it-hurts-so-much/
+
+https://growth.design/case-studies
+
 https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-intelligence-its-natural-stupidity/
 
 https://blog.logrocket.com/product-management/how-to-give-receive-constructive-criticism-with-examples/
