@@ -4,7 +4,7 @@ Dump from my browser bookmarks bar, waiting for its turn to process. Maybe this 
 
 I still use bookmarks bar in my browser and occasionally sync it with this page by hand. My long-term idea is to have a browser extension and a mobile app to make this process faster and more convenient across devices I use.
 
-See also 👉 [The quest for purging my bookmarks](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/)
+See also 👉 [The quest for purging my bookmarks](https://blog.lukaszwojcik.net/the-quest-for-purging-my-bookmarks/)
 
 For links in Polish, see 👉 [Ciekawe linki](../pl/osobiste/ciekawe-linki.md)
 
@@ -15,8 +15,6 @@ https://freethoughtblogs.com/pharyngula/2023/06/05/the-problem-isnt-artificial-i
 https://blog.logrocket.com/product-management/how-to-give-receive-constructive-criticism-with-examples/
 
 https://github.com/readme/guides/engineering-career-success
-
-http://scripting.com/2014/06/02/whatIsARiverOfNewsAggregator.html
 
 https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html
 
@@ -29,8 +27,6 @@ https://pubmed.ncbi.nlm.nih.gov/23654206/
 https://wppool.dev/is-dark-mode-better-for-your-eyes/
 
 https://9to5google.com/2023/05/03/gmail-blue-checkmark/
-
-https://www.usethehumanvoice.com/formats/
 
 https://siteinspire.com
 
@@ -54,8 +50,6 @@ https://pythonislove.com/docker-101
 
 https://kindlemodding.gitbook.io/kindlemodding/
 
-https://observatory.db.erau.edu/generators/signs/
-
 https://23khz.babka.net/
 
 https://pubmed.ncbi.nlm.nih.gov/24110034/
@@ -72,15 +66,11 @@ https://www.xda-developers.com/amoled-black-vs-gray-dark-mode/
 
 https://arstechnica.com/gadgets/2021/05/iphones-night-shift-feature-doesnt-help-you-sleep-better-study-finds/
 
-https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
-
 https://help.archive.org/help/how-do-i-request-to-remove-something-from-archive-org/
 
 https://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/
 
 http://www.shakesville.com/2010/01/feminism-101.html
-
-https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 
 https://www.ben-evans.com/presentations/
 
@@ -92,8 +82,6 @@ https://hubermanlab.com/toolkit-for-sleep/
 
 https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a
 
-https://www.crosenthal.com/chrome/2020/02/25/01.html
-
 https://lauriepenny.substack.com/p/cancelling-crybullies-and-consequences
 
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen
@@ -102,31 +90,17 @@ https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/
 
 https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/
 
-https://jamstackthemes.dev/demo/theme/medium-export/
-
 https://josem.co/how-to-make-youtube-less-distracting/
 
-https://bitcoinmagazine.com/technical/what-makes-nostr-a-different-social-platform
-
-https://bitcoinmagazine.com/technical/solving-nostr-key-management-issues
-
-https://web.archive.org/web/20210212022243/https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html
-
 https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
-
-https://uses.tech/
 
 https://hbr.org/2022/12/what-to-do-when-a-direct-report-is-bullying-you
 
 https://doctorow.medium.com/how-to-leave-dying-social-media-platforms-9fc550fe5abf
 
-https://nownownow.com/about
-
 https://www.zachleat.com/web/javascript-community/
 
 https://getdx.com/podcast/28
-
-https://engineering.udacity.com/handling-errors-like-a-pro-in-typescript-d7a314ad4991
 
 https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/
 
@@ -154,8 +128,6 @@ https://medium.com/softonic-eng/docker-compose-from-development-to-production-88
 
 https://www.freva.com/how-to-install-an-os-on-an-ssd-with-the-raspberry-pi-imager/
 
-https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
-
 https://www.georgeho.org/static-site-typography/
 
 https://blog.appsignal.com/2022/02/02/use-streams-to-build-high-performing-nodejs-applications.html
@@ -182,13 +154,9 @@ https://www.robinwieruch.de/freelance-react-developer
 
 https://www.robinwieruch.de/git-team-workflow
 
-https://freestuff.dev/
-
 https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords
 
 https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1
-
-https://pgtune.leopard.in.ua/#/
 
 https://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/
 
@@ -266,17 +234,11 @@ https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-pra
 
 https://tsh.io/blog/new-node-js-features/
 
-https://news.ycombinator.com/item?id=23348824
-
 https://web.dev/web-share/
 
 https://rollingversions.com/
 
-https://andrewhudson.dev/weeknotes-2020-6/
-
 https://uxdesign.cc/7-web-typography-rules-27de68c60f6
-
-https://skeleventy.netlify.com/blog/post-3/
 
 https://markmcgranaghan.com/recruiting
 
@@ -286,19 +248,13 @@ https://manisuec.blog/2020/03/01/streams-nodejs.html
 
 https://fs.blog/mental-models/
 
-https://news.ycombinator.com/item?id=21858822
-
 https://leewarrick.com/blog/react-use-effect-explained/
-
-https://blog-origin.adioma.com/tag/paul-graham/
 
 https://www.weci2i.com/articles/facebook-dumped-me/
 
 http://misc-stuff.terraaeon.com/articles/introverted-nerd.html
 
 https://www.tutorialspoint.com/hr_interview_questions/behavioral_questions.htm
-
-http://phrack.org/issues/7/3.html
 
 https://prog21.dadgum.com/56.html
 
@@ -314,21 +270,11 @@ https://tombrow.com/dark-mode-website-css
 
 https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/
 
-https://nehalist.io/5-typescript-tips-to-improve-your-architecture/
-
-https://every-layout.dev/
-
 https://medium.com/@liran.tal/demystifying-jest-async-testing-patterns-b730d4cca4ec
-
-https://markus.oberlehner.net/blog/building-npm-packages-with-typescript/
 
 https://overreacted.io/writing-resilient-components/
 
 https://blog.jessfraz.com/post/books/
-
-https://evolt.org/node/564
-
-https://flexbox.ninja/
 
 https://tech.travelaudience.com/how-to-test-asynchronous-data-fetching-on-a-react-component-ff2ee7433d71
 
@@ -337,10 +283,6 @@ https://www.matthewgerstman.com/ts-tricks-type-guards/
 https://davidwalsh.name/event-delegate
 
 https://sourcemaking.com/antipatterns/software-architecture-antipatterns
-
-https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
-
-https://robertheaton.com/2018/12/06/a-blogging-style-guide/
 
 https://dzone.com/articles/design-patterns-in-expressjs
 
@@ -370,17 +312,9 @@ https://www.quantamagazine.org/is-it-real-or-imagined-how-your-brain-tells-the-d
 
 https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
 
-https://www.washingtonpost.com/politics/2023/07/24/twitter-rival-mastodon-rife-with-child-abuse-material-study-finds/
-
-https://purl.stanford.edu/vb515nd6874
-
-https://stacks.stanford.edu/file/druid:vb515nd6874/20230724-fediverse-csam-report.pdf
-
 https://www.spacebar.news/p/stop-using-brave-browser
 
 https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/
-
-https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 
 https://openwebdocs.org/content/posts/micro-benevolences/
 

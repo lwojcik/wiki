@@ -46,13 +46,25 @@ Various collections of resources available online.
 - https://www.lej4learning.com.pk/ - LEJ Knowledge Hub: Free online video library
 - https://unpaywall.org/ - An open database of free scholarly articles
 
-## Tools
+## Developer tools
 
-- https://12ft.io/ - Remove popups, banners, and ads from any website
+- https://freestuff.dev/ - Free stuff for developers
 
 ## Illustrations
 
 - https://www.freeillustrations.club/ - Free Vector, Hand-Drawn Illustrations For Your Next Project
+- https://undraw.co/ - Open-source illustrations for any idea you can imagine and create
+- https://www.drawkit.com/ - DrawKit: Hand-drawn 2D & 3D illustrations, icons and animations
+- https://icons8.com/illustrations - Free vector and 3D illustrations
+- https://www.humaaans.com/ - humaaans: Mix-&-match illustrations of people with a design library
+- https://www.manypixels.co/gallery - 7,500+ free illustrations to power up your designs
+- https://illlustrations.co/ - Illustrations: Open source illustrations kit
+- https://www.glazestock.com/ - Glaze: Free illustrations, for everything
+- https://lukaszadam.com/illustrations - LukaszAdam.com: Free SVG Illustrations
+- https://fresh-folk.com/ - Fresh Folk: an illustration library of people and objects
+- https://www.opendoodles.com/ - Open Doodles: A Free Set of Open-Source Illustrations
+- https://thenounproject.com/ - Noun Project: Icons and Photos For Everything
+- https://freesvg.org/ - Free SVG images, SVG cut files and transparent PNG with CC0 public domain license
 
 ## Interesting lists
 
@@ -61,8 +73,6 @@ Various collections of resources available online.
 - https://sizeof.cat/post/website-discovery/ - Discover personal websites
 - https://twitter.com/sahilbloom/status/1686713822529110016 - Sahil Bloom: The most powerful paradoxes of life
 
-## Via
+## Assorted Tools
 
-- https://toot.garden/@larsfrommars/111436689124703678
-- https://toot.syfershock.com/display/e68f7dd2-3065-5b1f-5271-2e7529919939
-- https://cytag.nl/@fox/110898581862395192
+- https://12ft.io/ - Remove popups, banners, and ads from any website

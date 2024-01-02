@@ -17,3 +17,4 @@ Assorted links that partially, sometimes very indirectly, answer the question 'h
 - https://www.oreilly.com/content/guidelines-for-keeping-pace-with-innovation-and-tech-adoption/ - O'Reilly: Guidelines for keeping pace with innovation and tech adoption
 - https://dev.to/dragosnedelcu/9-senior-developer-mental-models-every-programmer-should-master-1jlk - Dragos Nedelcu: 9 Senior Developer Mental Models Every Programmer Should Master
 - https://www.developing.dev/p/maximizing-impact-in-the-layoff-era - Ryan Peterman @ The Developing Dev: Maximizing Impact in the Layoff Era
+- https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/ - Joel Spolsky: Things You Should Never Do, Part I

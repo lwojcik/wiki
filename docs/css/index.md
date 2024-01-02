@@ -16,3 +16,6 @@ All about CSS (Cascading Style Sheets) - syntax used for presentational layer of
 - https://keithjgrant.com/posts/2023/05/px-vs-em-in-media-queries/ - Keith J. Grant: Re-evaluating px vs em in Media Queries
 - https://www.bram.us/2023/10/09/the-future-of-css-easy-light-dark-mode-color-switching-with-light-dark/ - Bram.us: The Future of CSS: Easy Light-Dark Mode Color Switching with `light-dark()`
 - https://css-tricks.com/more-control-over-css-borders-with-background-image/ - CSS Tricks: More Control Over CSS Borders With background-image
+- https://flexbox.ninja/ - Flexbox Case Studies
+- https://every-layout.dev/ - Every Layout: Learn to write better, resilient CSS (book)
+
