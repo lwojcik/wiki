@@ -18,4 +18,5 @@ All about CSS (Cascading Style Sheets) - syntax used for presentational layer of
 - https://css-tricks.com/more-control-over-css-borders-with-background-image/ - CSS Tricks: More Control Over CSS Borders With background-image
 - https://flexbox.ninja/ - Flexbox Case Studies
 - https://every-layout.dev/ - Every Layout: Learn to write better, resilient CSS (book)
+- https://keithjgrant.com/posts/2024/01/my-css-resets/ - Keith J. Grant: My CSS resets
 
