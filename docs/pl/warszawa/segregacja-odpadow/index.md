@@ -1,4 +1,4 @@
-# Segregacja odpadów w Warszawie
+# ♻️ Segregacja odpadów
 
 Wszystko na temat segregacji śmieci w Warszawie.
 
