@@ -14,8 +14,6 @@ Gaming consoles can be portable, with screen and controller integrated into a si
 - [Nintendo Switch](./nintendo-switch.md)
 - [Pegasus MT-777DX](./pegasus-mt-777dx/)
 - [PlayStation Portable](./playstation-portable/)
-- [Xbox One X](./xbox-one-x.md)
-- knock-off version of Nintendo Game & Watch
-- Brick Game
+- [Xbox Series X](./xbox-series-x.md)
 
 See also 👉 [Games](../games/)
