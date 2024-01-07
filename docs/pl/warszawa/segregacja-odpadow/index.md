@@ -5,7 +5,7 @@ Wszystko na temat segregacji śmieci w Warszawie.
 ## Kolory pojemników
 
 - niebieski - czysty papier, kartony
-- brązowy - bioodpady z domu (np. odpadki roślinne, fusy, resztki jedzenia bez mięsa)
+- brązowy - bioodpady z domu (np. odpadki roślinne, skorupki jaj fusy, resztki jedzenia bez mięsa i tłuszczów)
 - żółty - metale i tworzywa sztuczne - butelki plastikowe, worki foliowe, kartony po sokach i mleku
 - pomarańczowy - gabaryty - tylko wyznaczone miejsca - stare meble i tapicerka, także niekompletne
 - zielony - szkło opakowaniowe (butelki, słoiki, opakowania po lekach i kosmetykach)
@@ -16,12 +16,12 @@ Wszystko na temat segregacji śmieci w Warszawie.
 
 ## Kłopotliwe kategorie śmieci
 
-Rzeczy, których nie można wyrzucić do powyższych pojemników.
+Rzeczy, których nie można wyrzucić do powyższych pojemników - i trzeba poszukać dla nich odpowiedniego miejsca.
 
-- leki
-- baterie i akumulatory
-- żarówki LED / świetlówki
-- elektrośmieci
+- [przeterminowne leki](./przeterminowane-leki/)
+- [baterie i akumulatory](./baterie-akumulatory/)
+- [żarówki LED / świetlówki](./zarowki-led-swietlowki/)
+- [elektrośmieci](./elektrosmieci/)
 
 ## Linki
 

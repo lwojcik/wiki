@@ -1,4 +1,4 @@
-# Fun
+# 😊 Fun
 
 Assorted fun stuff found on the internet.
 
