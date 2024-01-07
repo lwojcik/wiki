@@ -4,7 +4,10 @@ Elektrośmieci to wszystkie urządzenia, przez które może płynąć prąd (z g
 
 Podział na kategorie jest subiektywny (głównie z uwagi na wymiary).
 
-Wszystkie typy elektrośmieci można oddać w [PSZOKach](./pszok/).
+## Wszystkie typy elektrośmieci
+
+- można oddać w [PSZOKach](./pszok/)
+- można zawieźć do punktu Ago Recykling na Kupieckiej 34 - https://www.agorecykling.pl/oferta-uslugi/osoby-prywatne
 
 ## Najmniejsze elektrośmieci
 
