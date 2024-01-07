@@ -5,12 +5,25 @@ PSZOK - Punkty Selektywnego Zbierania Odpadów Komunalnych.
 Zbierają dużo kategorii odpadów, w tym takie, których nie można wyrzucić do pojemników:
 
 - opakowania ze śladami subtancji niebezpiecznych
-- farby, lakiery w opakowaniach umożliwających identyfikację zawartości
-- zużyte opony
+- farby
+- kleje
+- detergenty
+- akumulatory, baterie
+- opony
 - gruz budowalny
 - odpady z samodzielnego remontu
+- szkło okienne, drzwiowe, lustra
 - oleje i tłuszcze jadalne
-- wiele innych
+- oleje silnikowe
+
+PSZOKi nie przyjmują:
+
+- odpadów w opakowaniach cieknących i uszkodzonych tak, że substancja wycieka
+  - należy opakowania zabezpieczyć, np. taśmą albo dodatkowym opakowaniem
+  - należy umożliwić zidentyfikowanie odpadu, np. zostawić widoczną etykietę
+- odpadów zawierających azbest, papę czy styropian budowlany
+  - to nie są odpady komunalne (pochodzą zazwyczaj z rozbiórek, remontów, budów)
+  - należy je na własny koszt przekazać firmie, która ma zezwolenie na ich odbiór
 
 ## Lokalizacje
 

@@ -9,7 +9,8 @@ Przyjmują większość rzeczy, które przyjmują PSZOKi, z wyjątkiem m.in.:
 - odpadów remontowych
 - wszystkiego, co nie jest odpadem komunalnym
 - dużych elektrośmieci (wymiar powyżej 50 cm)
-- odpadów w nieszczelnych opakowaniach
+- odpadów w nieszczelnych opakowaniach i bez opisu zawartości
+  - należy je zabezpieczyć przed wyciekiem (np. taśmą)
 
 ## Harmonogramy i lokalizacje
 
