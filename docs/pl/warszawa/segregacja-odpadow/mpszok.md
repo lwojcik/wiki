@@ -11,6 +11,16 @@ Przyjmują większość rzeczy, które przyjmują PSZOKi, z wyjątkiem m.in.:
 - dużych elektrośmieci (wymiar powyżej 50 cm)
 - odpadów w nieszczelnych opakowaniach
 
+## Harmonogramy i lokalizacje
+
+### Prawobrzeżna Warszawa
+
+- https://warszawa19115.pl/documents/20184/3718487/HarmonogramMPSZOKZad1PARTNERod01102022.pdf - Wykaz lokalizacji punktów przyjmowania odpadów komunalnych oraz harmonogram pracy MPSZOK – Zadanie nr 1 - obowiązujący od 1 października 2022 r.
+
+### Lewobrzeżna Warszawa
+
+- https://warszawa19115.pl/documents/20184/0/Harmonogram+MPSZOK+-+Zadanie+nr+2+-+LEKARO+-+od+22.10.2022.pdf - Wykaz lokalizacji punktów przyjmowania odpadów komunalnych oraz harmonogram pracy MPSZOK – Zadanie nr 2 - obowiązujący od 22 października 2022 r.
+
 ## Linki
 
 - https://lekaro.pl/oferta/pszok/ - Lekaro: Informacje o MPSZOK
