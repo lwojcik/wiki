@@ -5,7 +5,7 @@ Wszystko na temat segregacji śmieci w Warszawie.
 ## Kolory pojemników
 
 - niebieski - czysty papier, kartony
-- brązowy - bioodpady z domu (np. odpadki roślinne, skorupki jaj fusy, resztki jedzenia bez mięsa i tłuszczów)
+- brązowy - bioodpady z domu (np. odpadki roślinne, skorupki jaj, fusy, resztki jedzenia bez mięsa i tłuszczów)
 - żółty - metale i tworzywa sztuczne - butelki plastikowe, worki foliowe, kartony po sokach i mleku
 - pomarańczowy - gabaryty - tylko wyznaczone miejsca - stare meble i tapicerka, także niekompletne
 - zielony - szkło opakowaniowe (butelki, słoiki, opakowania po lekach i kosmetykach)

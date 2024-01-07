@@ -31,7 +31,7 @@ I use this wiki to:
 - effectively replace my browser's bookmark bar and note-taking app - both of which I find ineffective at what I want to achieve with them
 - spark other people's curiosity about stuff I'm curious about
 - answer questions about what I know to people who are interested in knowing what I know
-- put online what cannot fit into [my blog](https://offbeatbits.com/), which is more focused on narratives than collecting and organizing underprocessed notes
+- put online what cannot fit into [my blog](https://blog.lukaszwojcik.net/), which is more focused on narratives than collecting and organizing underprocessed notes
 - challenge the idea that the modern web has to be inevitably 'corporate' in order to exist. I use this wiki to acknowledge and demonstrate [IndieWeb](https://indieweb.org/) and [POSSE](https://indieweb.org/POSSE) are valid ways of thinking about content ownership on the web
 
 ## What this wiki is NOT
