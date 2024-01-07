@@ -19,4 +19,3 @@ All about CSS (Cascading Style Sheets) - syntax used for presentational layer of
 - https://flexbox.ninja/ - Flexbox Case Studies
 - https://every-layout.dev/ - Every Layout: Learn to write better, resilient CSS (book)
 - https://keithjgrant.com/posts/2024/01/my-css-resets/ - Keith J. Grant: My CSS resets
-
