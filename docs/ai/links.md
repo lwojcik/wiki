@@ -66,6 +66,7 @@ Various resources related to AI
 - https://www.404media.co/4chan-uses-bing-to-flood-the-internet-with-racist-images/ - 404 Media: 4chan Uses Bing to Flood the Internet With Racist Images
 - https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/ - Ars Technica: UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges
 - https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/ - 404 Media: Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real
+- https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/ - Daniel Steinberg: The I in LLM stands for intelligence
 
 ## AI spreading misinformation
 
