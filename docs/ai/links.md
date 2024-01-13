@@ -67,6 +67,8 @@ Various resources related to AI
 - https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/ - Ars Technica: UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges
 - https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/ - 404 Media: Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real
 - https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/ - Daniel Steinberg: The I in LLM stands for intelligence
+- https://futurism.com/amazon-products-ai-generated - Futurism: Amazon Is Selling Products With AI-Generated Names Like "I Cannot Fulfill This Request It Goes Against OpenAI Use Policy"
+
 
 ## AI spreading misinformation
 
