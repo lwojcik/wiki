@@ -27,3 +27,4 @@ I own a copy of each and they're waiting for their turn. Or I'm waiting for the 
 - Antoni Dudek - Historia polityczna Polski 1989–2023
 - Aleksandra Jakubowska, Jacek Snopkiewicz - Telewizja naga
 - Michaił Chodorkowski, Natalia Gieworkian - Więzień Putina
+- Martin Fowler - Refactoring

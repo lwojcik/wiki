@@ -66,6 +66,9 @@ Various resources related to AI
 - https://www.404media.co/4chan-uses-bing-to-flood-the-internet-with-racist-images/ - 404 Media: 4chan Uses Bing to Flood the Internet With Racist Images
 - https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/ - Ars Technica: UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges
 - https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/ - 404 Media: Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real
+- https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/ - Daniel Steinberg: The I in LLM stands for intelligence
+- https://futurism.com/amazon-products-ai-generated - Futurism: Amazon Is Selling Products With AI-Generated Names Like "I Cannot Fulfill This Request It Goes Against OpenAI Use Policy"
+
 
 ## AI spreading misinformation
 
@@ -131,3 +134,4 @@ Various resources related to AI
 - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/ - MIT Technology Review: This new data poisoning tool lets artists fight back against generative AI
 - https://blog.metamirror.io/generative-ai-get-ready-to-multiply-your-technical-debt-fd60ee7d7f4e - Generative AI: get ready to multiply your Technical Debt
 - https://css-irl.info/stop-using-ai-generated-images/ - CSS { In Real Life }: Stop Using AI-Generated Images
+- https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai - The Guardian: ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says
