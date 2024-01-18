@@ -86,6 +86,7 @@ Various resources related to AI
 - https://www.afr.com/technology/google-brain-founder-says-big-tech-is-lying-about-ai-human-extinction-danger-20231027-p5efnz - Financial Review: Google Brain founder \[Andrew Ng\] says big tech is lying about AI extinction danger
 - https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai - The Verge: AI companies have all kinds of arguments against paying for copyrighted content
 - https://www.yahoo.com/lifestyle/andreessen-horowitz-not-techno-optimistic-100002519.html - Yahoo / Business Insider: Andreessen Horowitz would like everyone to stop talking about AI's copyright issues, please
+- https://www.gizchina.com/2024/01/14/meta-ai-training-books3-dataset-controversy/ - Gizchina.com: Meta admits to using “Books3” to train its AI models, But Refused to Pay Compensation to Authors
 
 ## Environmental impact of AI
 
