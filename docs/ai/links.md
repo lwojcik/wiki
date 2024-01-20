@@ -9,9 +9,7 @@ Various resources related to AI
 - https://www.tabnine.com/ - AI assistant for software developers
 - https://github.com/THUDM/CodeGeeX - A Multilingual Code Generation Model
 - https://mist-project.github.io/index_en.html - image preprocessing tool designed for the purpose of protecting the style and content of images from being mimicked by state-of-the-art AI-for-Art applications
-- https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
 - https://github.com/vitoplantamura/OnnxStream - Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)
-- https://nightshade.cs.uchicago.edu/ - offense tool to distort feature representations inside generative AI image models
 
 ## Conversations with key people
 
@@ -31,6 +29,8 @@ Various resources related to AI
 - https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/ - How to Block ChatGPT From Using Your Website Content
 - https://geekflare.com/stop-chatgpt-plugins-from-scraping-website/ - How to Stop ChatGPT Plugins from Scraping Your Website Content
 - https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/ - Block the Bots that Feed “AI” Models by Scraping Your Website
+- https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
+- https://nightshade.cs.uchicago.edu/ - offense tool to distort feature representations inside generative AI image models
 
 ## Scientific works
 
