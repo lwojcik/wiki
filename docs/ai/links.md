@@ -11,6 +11,7 @@ Various resources related to AI
 - https://mist-project.github.io/index_en.html - image preprocessing tool designed for the purpose of protecting the style and content of images from being mimicked by state-of-the-art AI-for-Art applications
 - https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
 - https://github.com/vitoplantamura/OnnxStream - Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)
+- https://nightshade.cs.uchicago.edu/ - offense tool to distort feature representations inside generative AI image models
 
 ## Conversations with key people
 
