@@ -15,3 +15,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://localghost.dev/blog/
 - https://ianbetteridge.com/ / https://technovia.co.uk/
 - https://cassidoo.co/
+- https://katexcellence.com/
