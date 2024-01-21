@@ -9,7 +9,6 @@ Various resources related to AI
 - https://www.tabnine.com/ - AI assistant for software developers
 - https://github.com/THUDM/CodeGeeX - A Multilingual Code Generation Model
 - https://mist-project.github.io/index_en.html - image preprocessing tool designed for the purpose of protecting the style and content of images from being mimicked by state-of-the-art AI-for-Art applications
-- https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
 - https://github.com/vitoplantamura/OnnxStream - Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)
 
 ## Conversations with key people
@@ -30,6 +29,8 @@ Various resources related to AI
 - https://www.searchenginejournal.com/how-to-block-chatgpt-from-using-your-website-content/478384/ - How to Block ChatGPT From Using Your Website Content
 - https://geekflare.com/stop-chatgpt-plugins-from-scraping-website/ - How to Stop ChatGPT Plugins from Scraping Your Website Content
 - https://neil-clarke.com/block-the-bots-that-feed-ai-models-by-scraping-your-website/ - Block the Bots that Feed “AI” Models by Scraping Your Website
+- https://glaze.cs.uchicago.edu/ - Glaze - system designed to protect human artists by disrupting style mimicry
+- https://nightshade.cs.uchicago.edu/ - offense tool to distort feature representations inside generative AI image models
 
 ## Scientific works
 
@@ -86,6 +87,7 @@ Various resources related to AI
 - https://www.afr.com/technology/google-brain-founder-says-big-tech-is-lying-about-ai-human-extinction-danger-20231027-p5efnz - Financial Review: Google Brain founder \[Andrew Ng\] says big tech is lying about AI extinction danger
 - https://www.theverge.com/2023/11/4/23946353/generative-ai-copyright-training-data-openai-microsoft-google-meta-stabilityai - The Verge: AI companies have all kinds of arguments against paying for copyrighted content
 - https://www.yahoo.com/lifestyle/andreessen-horowitz-not-techno-optimistic-100002519.html - Yahoo / Business Insider: Andreessen Horowitz would like everyone to stop talking about AI's copyright issues, please
+- https://www.gizchina.com/2024/01/14/meta-ai-training-books3-dataset-controversy/ - Gizchina.com: Meta admits to using “Books3” to train its AI models, But Refused to Pay Compensation to Authors
 
 ## Environmental impact of AI
 
