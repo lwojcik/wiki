@@ -383,5 +383,3 @@ https://www.sciencedaily.com/releases/2023/10/231026131628.htm
 https://robertovitillo.com/costs-of-microservices/
 
 https://blog.stetson.edu/faculty-engagement/tone-policing/
-
-https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/
