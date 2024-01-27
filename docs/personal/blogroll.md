@@ -8,8 +8,6 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 
 - https://rachelbythebay.com/w/
 - https://daverupert.com/
-- https://tomlarrow.com/
-- https://hazelweakly.me/blog/
 - https://samholstein.com/articles/
 - https://ploum.net/
 - https://localghost.dev/blog/
