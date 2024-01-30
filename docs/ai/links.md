@@ -95,6 +95,7 @@ Various resources related to AI
 - https://news.ucr.edu/articles/2023/04/28/ai-programs-consume-large-volumes-scarce-water - UCR News: AI programs consume large volumes of scarce water
 - https://fortune.com/2023/09/09/ai-chatgpt-usage-fuels-spike-in-microsoft-water-consumption/ - A.I. tools fueled a 34% spike in Microsoft’s water consumption, and one city with its data centers is concerned about the effect on residential supply
 - https://futurism.com/critics-microsoft-water-train-ai-drought - Futurism: Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought
+- https://www.techradar.com/pro/energy-and-e-waste-the-ai-tsunamis - TechRadar: Energy and e-waste - the AI tsunamis
 
 ## AI killing jobs
 
