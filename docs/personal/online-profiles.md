@@ -47,7 +47,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://github.com/lwojcik
 - https://codeberg.org/lukem
 - https://gitlab.com/lukaszwojcik
-- https://safeweb.norton.com/profile/Lukemnet
 
 ## Video / Live Streaming
 
