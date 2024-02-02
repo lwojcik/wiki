@@ -89,6 +89,7 @@ Various resources related to AI
 - https://www.yahoo.com/lifestyle/andreessen-horowitz-not-techno-optimistic-100002519.html - Yahoo / Business Insider: Andreessen Horowitz would like everyone to stop talking about AI's copyright issues, please
 - https://www.gizchina.com/2024/01/14/meta-ai-training-books3-dataset-controversy/ - Gizchina.com: Meta admits to using “Books3” to train its AI models, But Refused to Pay Compensation to Authors
 - https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/ - Wired: OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public
+- https://time.com/6247678/openai-chatgpt-kenya-workers/ - Time: Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic
 
 ## Environmental impact of AI
 
