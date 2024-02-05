@@ -24,6 +24,7 @@ Byłem tam na co najmniej jednym spektaklu.
 - Teatr im. Juliusza Osterwy, Lublin - https://www.teatrosterwy.pl/
 - Teatr Kamienica, Warszawa - https://teatrkamienica.pl/pl/
 - Teatr Narodowy, Warszawa - https://narodowy.pl/
+- Teatr Palladium, Warszawa - https://www.teatrpalladium.com/
 
 ## Teatry, w których jeszcze nie byłem
 
@@ -32,7 +33,6 @@ Wybór teatrów, w których prawdopodobnie grane jest coś, co chętnie bym obej
 - Scena Relax - https://scenarelax.pl/
 - Teatr Capitol, Warszawa - https://teatrcapitol.pl/
 - Teatr Kwadrat im. Edwarda Dziewońskiego, Warszawa - https://teatrkwadrat.pl/
-- Teatr Palladium, Warszawa - https://www.teatrpalladium.com/
 - Teatr Polonia, Warszawa - https://www.teatrpolonia.pl/
 - Teatr Polski im. Arnolda Szyfmana, Warszawa - https://www.teatrpolski.waw.pl/
 - Teatr Powszechny im. Zygmunta Hübnera, Warszawa - https://www.powszechny.com/

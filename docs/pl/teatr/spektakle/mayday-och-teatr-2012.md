@@ -41,6 +41,7 @@
 ## Linki
 
 - https://www.youtube.com/watch?v=XgzQvmrpBVE - trailer
+- https://encyklopediateatru.pl/przedstawienie/47672/mayday - wpis w Encyklopedii Teatru Polskiego
 - https://www.ochteatr.com.pl/event-data/1362/mayday - opis spektaklu na stronie teatru
 - https://pl.wikipedia.org/wiki/Ray_Cooney - Ray Cooney w polskiej Wikipedii
 - https://en.wikipedia.org/wiki/Ray_Cooney - Ray Cooney w angielskiej Wikipedii

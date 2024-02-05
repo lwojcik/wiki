@@ -10,6 +10,7 @@ Kolejność alfabetyczna. W nawiasie teatr wystawiający oraz data premiery.
 
 - [Czarna Komedia (Teatr Kamienica, 2018)](./czarna-komedia-kamienica-2023.md)
 - [Mayday (Och-Teatr, 2012)](./mayday-och-teatr-2012.md)
+- [Mayday 2 (Teatr Tu i Teraz / Teatr Palladium, 2015)](./mayday-2-tu-i-teraz-palladium-2015.md)
 - [Moralność pani Dulskiej (Teatr Ateneum im. Stefana Jaracza w Warszawie, 1999)](./moralnosc-pani-dulskiej-ateneum-1999.md)
 - [Okno na parlament (Och-Teatr, 2023)](./okno-na-parlament-och-teatr-2023.md)
 - [Ożenek (Teatr 6.piętro, 2017)](./ozenek-6-pietro-2017.md)
@@ -18,5 +19,4 @@ Kolejność alfabetyczna. W nawiasie teatr wystawiający oraz data premiery.
 
 ## Poczekalnia
 
-- Mayday 2 (Och-Teatr, 2013) - https://www.ochteatr.com.pl/event-data/1368/mayday-2 - lub jakikolwiek inny teatr w okolicy
-- nie wiem co jeszcze, czekam na repertuary w 2024 r.
+- jeszcze nie wiem
