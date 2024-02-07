@@ -8,7 +8,6 @@ Links to all of my public profiles where I identify myself using real credential
 - https://discord.com/users/194383973156126720
 - https://www.facebook.com/Lwjck
 - https://www.linkedin.com/in/lukaszwojcik/
-- https://matrix.to/#/@lukem:aria-net.org
 - https://twitter.com/lukaszwojcik
 
 ## Fediverse
