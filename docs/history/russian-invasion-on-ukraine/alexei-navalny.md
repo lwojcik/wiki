@@ -1,6 +1,7 @@
 # Alexei Navalny
 
 - born 1976
+- died in prison on February 16th, 2024
 - leader of Russian opposition
   - leader of Russia of the Future
     - unregistered political party in Russia
@@ -55,14 +56,6 @@ As of April 2023.
     - Navalny: "Crimea is what, a sandwich with sausage to be returned here and there?"
     - in later interviews in other sources Navalny proposed organizing a fair referendum about Crimea
       - conveniently omitting the fact Crimea was illegally seized by Russian Federation
-
-## Questions I can't answer yet
-
-- Is Navalny an opportunist that easily changes his mind or did his opinions _really_ evolve?
-  - And if the former is true, what is his _real_ stance on international politics?
-  - Or maybe he just says what people who vote for him want to hear?
-- Why is Navalny alive at all in a state that has had track record of killing way 'smaller' figures (e.g. journalists)?
-- Are his current public statements really written by him are ghost-written by his lawyers?
 
 ## Links
 
