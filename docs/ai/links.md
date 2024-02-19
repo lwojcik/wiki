@@ -114,6 +114,7 @@ Various resources related to AI
 - https://www.npr.org/sections/goatsandsoda/2023/10/06/1201840678/ai-was-asked-to-create-images-of-black-african-docs-treating-white-kids-howd-it- - NPR: AI was asked to create images of Black African docs treating white kids. How'd it go?
 - https://restofworld.org/2023/ai-image-stereotypes/ - Rest of World: How AI reduces the world to stereotypes
 - https://www.theguardian.com/fashion/2023/nov/04/fashion-model-ai-image-tiktok - The Guardian: Model says her face was edited with AI to look white: ‘It’s very dehumanizing’
+- https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination - BBC: AI hiring tools may be filtering out the best job applicants
 
 ## Legislation / Governments' reactions
 
