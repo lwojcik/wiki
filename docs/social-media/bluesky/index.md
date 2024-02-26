@@ -6,9 +6,7 @@ Profile URLs have the following format: `username.bsky.social` (or presumably: `
 
 Originated in Twitter in 2021. Current CEO is Jay Graber. Jack Dorsey, former Twitter CEO is in the board of directors.
 
-To obtain access an invite code is needed. Users receive one code every 2 weeks.
-
-Want an invitation code? While I can't guarantee having one right away, don't be shy - try [contacting me](https://lukaszwojcik.net/contact/).
+Until mid February 2024 it required invite codes to log in. Existing users would get one every 2 weeks. 
 
 ## Resources
 
@@ -17,6 +15,7 @@ Want an invitation code? While I can't guarantee having one right away, don't be
 - https://atproto.com/ - The AT Protocol
 - https://github.com/bluesky-social - Bluesky on GitHub
 - https://atproto.com/blog/create-post - Posting via the Bluesky API
+- https://bsky.social/about/bluesky-and-the-at-protocol-usable-decentralized-social-media-martin-kleppmann.pdf - whitepaper: Bluesky and the AT Protocol: Usable Decentralized Social Media
 
 ## Clients
 
