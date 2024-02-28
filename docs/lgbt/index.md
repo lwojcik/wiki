@@ -2,7 +2,7 @@
 
 Assorted resources on LGBTQIA+.
 
-‘LGBTIQA+’ is an evolving acronym that stands for lesbian, gay, bisexual, transgender, intersex, queer/questioning, asexual. Many other terms (such as non-binary and pansexual) that people use to describe their experiences of their gender, sexuality and physiological sex characteristics.ual, transgender, intersex, queer/questioning, asexual.
+‘LGBTIQA+’ is an evolving acronym that stands for lesbian, gay, bisexual, transgender, intersex, queer/questioning, asexual, and many other terms (such as non-binary and pansexual) that people use to describe their experiences of their gender, sexuality and physiological sex characteristics.
 
 I'm privileged to be a white cisheteric man that never had doubts or problems about any part of that description. But I'm open to learning and taking small steps towards allyship.
 
