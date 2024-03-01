@@ -91,10 +91,11 @@ Various resources related to AI.
 - https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/ - Wired: OpenAI Quietly Scrapped a Promise to Disclose Key Documents to the Public
 - https://time.com/6247678/openai-chatgpt-kenya-workers/ - Time: Exclusive: OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic
 
-## Platforms using user-generated content for AI training
+## Platforms using user-authored content for AI training
 
 - https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/ - 404 Media: Tumblr and WordPress to Sell Users’ Data to Train AI Tools
 - https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data - The Verge: Google cut a deal with Reddit for AI training data
+- https://www.infoworld.com/article/3713343/stack-overflow-opens-api-to-googles-gemini.html - Infoworld: Stack Overflow opens API to Google’s Gemini
 
 ## Environmental impact of AI
 
