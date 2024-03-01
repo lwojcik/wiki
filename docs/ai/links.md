@@ -151,3 +151,4 @@ Various resources related to AI.
 - https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai - The Guardian: ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says
 - https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/ - Forbes: Google Update Reveals AI Will Read All Your Private Messages
 - https://leaddev.com/tech/researchers-say-generative-ai-isnt-replacing-devs-any-time-soon - LeadDev: Researchers say generative AI isn't replacing devs any time soon
+- https://axbom.com/nielsen-generative-ui-failure/ - Per Axbom: On Nielsen's ideas about generative UI for resolving accessibility
