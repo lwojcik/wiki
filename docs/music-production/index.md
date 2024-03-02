@@ -32,6 +32,7 @@ Decades ago I played a bit with MAGIX Music Maker and I have some shallow unders
 
 - https://citizen-dj.labs.loc.gov/
 - https://www.spitfireaudio.com/bbc-symphony-orchestra-discover
+- https://producerpresets.com/
 
 ## Other tools
 
