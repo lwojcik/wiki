@@ -153,3 +153,4 @@ Various resources related to AI.
 - https://leaddev.com/tech/researchers-say-generative-ai-isnt-replacing-devs-any-time-soon - LeadDev: Researchers say generative AI isn't replacing devs any time soon
 - https://axbom.com/nielsen-generative-ui-failure/ - Per Axbom: On Nielsen's ideas about generative UI for resolving accessibility
 - https://www.voanews.com/a/ukrainian-youtuber-finds-her-ai-clone-selling-russian-goods-on-chinese-internet-/7509009.html - Voice of America: Ukrainian YouTuber Finds Her AI Clone Selling Russian Goods on Chinese Internet
+- https://ethanmarcotte.com/wrote/generative/ - Ethan Marcotte: Generative
