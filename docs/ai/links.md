@@ -103,6 +103,7 @@ Various resources related to AI.
 - https://fortune.com/2023/09/09/ai-chatgpt-usage-fuels-spike-in-microsoft-water-consumption/ - A.I. tools fueled a 34% spike in Microsoft’s water consumption, and one city with its data centers is concerned about the effect on residential supply
 - https://futurism.com/critics-microsoft-water-train-ai-drought - Futurism: Critics Furious Microsoft Is Training AI by Sucking Up Water During Drought
 - https://www.techradar.com/pro/energy-and-e-waste-the-ai-tsunamis - TechRadar: Energy and e-waste - the AI tsunamis
+- https://www.theguardian.com/technology/2024/mar/07/ai-climate-change-energy-disinformation-report - Guardian: AI likely to increase energy use and accelerate climate misinformation – report
 
 ## AI killing jobs
 
