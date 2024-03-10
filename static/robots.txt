@@ -13,4 +13,10 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
 Sitemap: https://lukeswiki.eu/sitemap.xml
