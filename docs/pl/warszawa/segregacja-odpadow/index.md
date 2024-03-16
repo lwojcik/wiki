@@ -13,6 +13,15 @@ Wszystko na temat segregacji śmieci w Warszawie.
   - elementy i przedmioty drewniane bez substancji niebezpiecznych
   - tradycyjne żarówki (nie świetlówki i nie LED)
   - ubrania, tekstylia, rzeczy skórzane i materiałowe
+  - rzeczy z kilku różnych materiałów naraz (np. papier z folią)
+
+## Nieintuicyjne kategorie śmieci
+
+Rzeczy, które wyrzuca się do innego pojemnika, niż mogłoby się wydawać na pierwszy rzut oka.
+
+- [paragony, faktury, bilety](./paragony-faktury-bilety/)
+- [jaja i skorupki](./jaja-i-skorupki/)
+- [śmieci "mieszane"](./smieci-mieszane/)
 
 ## Kłopotliwe kategorie śmieci
 
