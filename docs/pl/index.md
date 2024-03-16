@@ -7,7 +7,7 @@ title: 🇵🇱 Po polsku
   <link rel="me" href="https://pol.social/@Lukem_pl" />
 </head>
 
-Tutaj trzymam notatki, których z różnych powodów nie ma sensu pisać po angielsku, bo nikt poza mną i moimi rodakami z nich nie skorzysta.
+To jest polskojęzyczna sekcja [mojej wiki](/). Tutaj trzymam notatki, których z różnych powodów nie ma sensu pisać po angielsku, bo nikt poza mną i moimi rodakami z nich nie skorzysta.
 
 Podobnie jak reszta wiki, sekcja ta jest w stanie permanentnej budowy.
 
