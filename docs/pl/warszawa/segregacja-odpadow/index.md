@@ -22,6 +22,7 @@ Rzeczy, które wyrzuca się do innego pojemnika, niż mogłoby się wydawać na
 - [paragony, faktury, bilety](./paragony-faktury-bilety/)
 - [jaja i skorupki](./jaja-i-skorupki/)
 - [śmieci "mieszane"](./smieci-mieszane/)
+- [różne rodzaje szkła](./rozne-rodzaje-szkla/)
 
 ## Kłopotliwe kategorie śmieci
 
