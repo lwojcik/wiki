@@ -188,7 +188,7 @@ Emoji meaning:
 - Nie lubię poniedziałku (1971) 🤷
 - Rejs (1970) 👍
 
-## 1960
+## 1960s
 
 - Pan Wołodyjowski (1969) 🤷
 - Sami Swoi (1967) 💜
