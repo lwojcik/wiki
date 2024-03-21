@@ -28,3 +28,4 @@ It is by no means a complete list, but those movies succeeded at getting into my
 - Top Gun: Maverick (2022)
 - Everything Everywhere All at Once (2022)
 - Obietnica (2014)
+- Parasite

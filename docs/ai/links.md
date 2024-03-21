@@ -157,3 +157,4 @@ Various resources related to AI.
 - https://ethanmarcotte.com/wrote/generative/ - Ethan Marcotte: Generative
 - https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/ - Wired: Confessions of an AI Clickbait Kingpin
 - https://futurism.com/the-byte/public-against-ai-poll - Futurism: The Public Is Rapidly Turning Against AI, Polling Shows
+- https://www.wheresyoured.at/peakai/ - Where's Your Ed At?: Have We Reached Peak AI?
