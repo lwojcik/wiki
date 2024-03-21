@@ -6,7 +6,6 @@ It is by no means a complete list, but those movies succeeded at getting into my
 
 - Blackberry (2023)
 - Tetris (2023)
-- Zone of Interest (2023)
 - The Settlers (2023)
 - Wall Street (1987)
 - Dune (1984)

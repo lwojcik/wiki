@@ -14,6 +14,7 @@ Emoji meaning:
 
 ## 2020s
 
+- The Zone of Interest (2023) 👎
 - 20 Days in Mariupol (2023) 💜
 - Gran Turismo (2023) 👎
 - Apolonia, Apolonia (2023) 💜
