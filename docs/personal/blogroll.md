@@ -15,4 +15,4 @@ To easily track blogs I like, I built [Blogworm - my personal blog aggregator](h
 - https://cassidoo.co/
 - https://katexcellence.com/
 - https://ethanmarcotte.com/wrote/
-- https://popagandhi.com/archives/
+- https://manuelmoreale.com/
