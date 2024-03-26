@@ -29,4 +29,3 @@ I own a copy of each and they're waiting for their turn. Or I'm waiting for the 
 - Michaił Chodorkowski, Natalia Gieworkian - Więzień Putina
 - Martin Fowler - Refactoring
 - Extremely Hardcore: Inside Elon Musk's Twitter - Zoë Schiffer - https://www.amazon.com/Extremely-Hardcore-Inside-Musks-Twitter/dp/0593716604
-- Rosja. Mocarstwo absurdu i nonsensu - Marcin Strzyżewski - https://www.empik.com/rosja-mocarstwo-absurdu-i-nonsensu-strzyzewski-marcin,p1403801179,ksiazka-p

@@ -2,4 +2,5 @@
 
 Books I'm reading at the moment.
 
-- Polska na wojnie - Zbigniew Parafianowicz
+- Ślepnąc od świateł - Jakub Żulczyk
+- I'm Glad My Mom Died - Jennette McCurdy

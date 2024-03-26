@@ -36,6 +36,7 @@ Emoji meaning:
 - Polityka (2019) ❌
 - Ford v Ferrari / Le Mans '66 (2019) 💜
 - Pitbull. Ostatni pies (2018) 🤷
+- Black Mirror: Bandersnatch (2018) 💜
 - Pitbull: Niebezpieczne Kobiety (2016) 🤷
 - Pitbull: Nowe Porządki (2016) 🤷
 - Wołyń (2016) 🤷
@@ -117,12 +118,14 @@ Emoji meaning:
 - The Big Lebowski (1998) 👍
 - Run Lola Run (1998) 💜
 - Taxi (1998) 🤷
+- Nerds 2.0.1: A Brief History of the Internet (1998) 👍
 - The Fifth Element (1997) 👍
 - Kiler (1997) 💜
 - Szczęśliwego Nowego Jorku (1997) 🤷
 - Sara (1997) 🤷
 - Titanic (1997) 👍
 - Wirus (1996) 🤷
+- Triumph of the Nerds (1996) 👍
 - Four Rooms (1995) 👍
 - GoldenEye (1995) 🤷
 - Młode Wilki (1995) 🤷
