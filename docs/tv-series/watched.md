@@ -15,18 +15,21 @@ Emoji meaning:
 ## 2020s
 
 - Black Mirror: Season 6 (2023) 👎
+- Wielka woda (2022) 💜
 - Alice in Borderland: Seasons 1-2 (2020-2022) 💜
 - Squid Game (2021) 🤷
+- Rojst '97 (2021) 👍
 - I May Destroy You (2020) 💜
 - I Am Not Okay With This (2020) 💜
 
 ## 2010s
 
-- The End of the F***ing World (2017-2019) 💜
 - Love Death + Robots (2019) 💜
 - Chernobyl (2019) 💜
 - Black Mirror: Season 5 (2019) 🤷
+- Rojst (2018) 👍
 - Ślepnąc od Świateł (2018) 💜
+- The End of the F***ing World (2017-2019) 💜
 - Black Mirror: Seasons 1-4 (2011-2017) 💜
 - Game of Thrones (2011-2019) 👎
 
