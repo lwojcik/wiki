@@ -76,6 +76,10 @@ Various resources related to AI.
 - https://www.theverge.com/2023/8/17/23836287/microsoft-ai-recommends-ottawa-food-bank-tourist-destination - The Verge: Microsoft says listing the Ottawa Food Bank as a tourist destination wasn’t the result of ‘unsupervised AI’
 - https://arstechnica.com/information-technology/2023/09/can-you-melt-eggs-quoras-ai-says-yes-and-google-is-sharing-the-result/ - Can you melt eggs? Quora’s AI says “yes,” and Google is sharing the result
 
+## AI at war
+
+- https://www.972mag.com/lavender-ai-israeli-army-gaza/ - +972 Magazine: ‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza
+
 ## Corporations doing wrong
 
 - https://www.nytimes.com/2023/04/07/technology/ai-chatbots-google-microsoft.html - The New York Times: In A.I. Race, Microsoft and Google Choose Speed Over Caution
