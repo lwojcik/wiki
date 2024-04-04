@@ -160,5 +160,6 @@ Various resources related to AI.
 - https://www.voanews.com/a/ukrainian-youtuber-finds-her-ai-clone-selling-russian-goods-on-chinese-internet-/7509009.html - Voice of America: Ukrainian YouTuber Finds Her AI Clone Selling Russian Goods on Chinese Internet
 - https://ethanmarcotte.com/wrote/generative/ - Ethan Marcotte: Generative
 - https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/ - Wired: Confessions of an AI Clickbait Kingpin
-- https://futurism.com/the-byte/public-against-ai-poll - Futurism: The Public Is Rapidly Turning Against AI, Polling Shows
+- https://futurism.com/the-byte/public-against-ai-poll - Futurism / The Byte: The Public Is Rapidly Turning Against AI, Polling Shows
 - https://www.wheresyoured.at/peakai/ - Where's Your Ed At?: Have We Reached Peak AI?
+- https://futurism.com/the-byte/amazon-abandons-ai-stores - Futurism / The Byte: Amazon Abandons Grocery Stores Where You Just Walk Out With Stuff After It Turns Out Its "AI" Was Powered by 1,000 Human Contractors
