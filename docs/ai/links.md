@@ -163,3 +163,4 @@ Various resources related to AI.
 - https://futurism.com/the-byte/public-against-ai-poll - Futurism / The Byte: The Public Is Rapidly Turning Against AI, Polling Shows
 - https://www.wheresyoured.at/peakai/ - Where's Your Ed At?: Have We Reached Peak AI?
 - https://futurism.com/the-byte/amazon-abandons-ai-stores - Futurism / The Byte: Amazon Abandons Grocery Stores Where You Just Walk Out With Stuff After It Turns Out Its "AI" Was Powered by 1,000 Human Contractors
+- https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html - New York Times: How Tech Giants Cut Corners to Harvest Data for A.I.
