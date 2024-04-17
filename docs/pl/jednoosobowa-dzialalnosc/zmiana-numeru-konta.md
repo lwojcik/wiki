@@ -47,6 +47,7 @@ Co do zasady jest to po prostu otwarcie nowego rachunku i zamknięcie starego. B
   - nie ma potrzeby zgłaszać tego nigdzie indziej - aktualny wpis CEIDG jest przekazywany do ZUS i organów skarbowych
   - należy to zrobić w ciągu 7 dni od założenia rachunku
   - zgłoszenie zmiany w CEIDG należy podpisać (np. profilem zaufanym), wysłać i poczekać na potwierdzenie otrzymania
+  - potwierdzenie dokonania zmiany powinno przyjść w ciągu 1-2 dni roboczych
 - Upewnienie się, że nowy numer konta figuruje w CEIDG i jest widoczny w wykazie płatników VAT
   - https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 - Zmiana numeru konta w systemie księgowym oraz na szablonie wystawianych faktur
