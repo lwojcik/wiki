@@ -69,7 +69,7 @@ Various resources related to AI.
 - https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/ - 404 Media: Facebook Is Being Overrun With Stolen, AI-Generated Images That People Think Are Real
 - https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/ - Daniel Steinberg: The I in LLM stands for intelligence
 - https://futurism.com/amazon-products-ai-generated - Futurism: Amazon Is Selling Products With AI-Generated Names Like "I Cannot Fulfill This Request It Goes Against OpenAI Use Policy"
-
+- https://www.404media.co/facebooks-ai-told-parents-group-it-has-a-disabled-child/ - 404 Media: Facebook’s AI Told Parents Group It Has a Gifted, Disabled Child
 
 ## AI spreading misinformation
 
