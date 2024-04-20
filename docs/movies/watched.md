@@ -24,6 +24,7 @@ Emoji meaning:
 - Polish Prayers (2022) 👍
 - Jak pokochałam gangstera (2022) 👍
 - Tata (2022) 👍
+- Pitbull (2021) 🤷
 - The Matrix Resurrections (2021) ❌
 - 25 lat niewinności. Sprawa Tomka Komendy (2020) 👍
 - Psy 3: W imię zasad (2020) 🤷
