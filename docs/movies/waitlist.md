@@ -29,3 +29,4 @@ It is by no means a complete list, but those movies succeeded at getting into my
 - Everything Everywhere All at Once (2022)
 - Obietnica (2014)
 - Parasite
+- Perfect Days (2024)

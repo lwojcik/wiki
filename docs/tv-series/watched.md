@@ -14,6 +14,7 @@ Emoji meaning:
 
 ## 2020s
 
+- Fallout (2024) 👎
 - Black Mirror: Season 6 (2023) 👎
 - Wielka woda (2022) 💜
 - Alice in Borderland: Seasons 1-2 (2020-2022) 💜
