@@ -169,3 +169,4 @@ Various resources related to AI.
 - https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/ - Wired: OpenAI Is ‘Exploring’ How to Responsibly Generate AI Porn
 - https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged - One Useful Thing: Centaurs and Cyborgs on the Jagged Frontier
 - https://www.theverge.com/2024/5/14/24156729/googles-gemini-video-search-makes-factual-error-in-demo - The Verge: Google’s Gemini video search makes factual error in demo
+- https://ia.net/topics/writing-with-ai - iA Writer: Writing with AI
